@@ -46,6 +46,14 @@
         [
           4684.6,
           4685.5
+        ],
+        [
+          4769.3,
+          4771.1
+        ],
+        [
+          4785.1,
+          4786.3
         ]
       ]
     },
@@ -267,6 +275,10 @@
         [
           2125.3,
           2126.2
+        ],
+        [
+          1976.7,
+          1977.25
         ]
       ],
       "fix": [
@@ -652,8 +664,12 @@
           "pau"
         ],
         [
-          "biji Sekali steam",
-          "biji sekali steam"
+          "biji Sekali steam,",
+          "biji sekali steam,"
+        ],
+        [
+          "minit Sahaja",
+          "minit sahaja."
         ]
       ]
     },
@@ -689,12 +705,16 @@
         [
           3141.8,
           3145.7
+        ],
+        [
+          3198.5,
+          3199.15
         ]
       ],
       "fix": [
         [
-          "tak sakalah saya pada masak.",
-          "tak sangka lah saya pandai masak."
+          "saya pada masak.",
+          "saya pandai masak."
         ],
         [
           "fusi",
@@ -791,6 +811,16 @@
         [
           3426.8,
           3429.2
+        ]
+      ],
+      "fix": [
+        [
+          "bersih harga",
+          "kebersihan,"
+        ],
+        [
+          "telah terbang",
+          "tengah terbang"
         ]
       ]
     },
@@ -941,6 +971,10 @@
         ]
       ],
       "fix": [
+        [
+          "pun tak ada fungsi",
+          "pun antara fungsi"
+        ],
         [
           "menyimbang dengan jalan sebelah,",
           "bersembang dengan jiran sebelah,"
