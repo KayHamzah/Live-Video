@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ms" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="assets/vendor/gsap.min.js"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        width: 1080px;
+        height: 1920px;
+        overflow: hidden;
+        background: #000;
+      }
+      #root {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+      /* The camera: push-ins move this wrapper, never the video. */
+      #cam {
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+      }
+      #clip {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      #text-host {
+        z-index: 2;
+      }
+      #subs-host {
+        z-index: 3;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="51.067" data-width="1080" data-height="1920">
+      <div id="cam">
+        <!-- Cut from the live (see edit.json); natural grade and noise reduction are baked in. -->
+        <video id="clip" class="clip" src="assets/clip.mp4" data-start="0" data-duration="48.867" data-has-audio="true" data-track-index="0" playsinline></video>
+      </div>
+      <div id="text-host" data-composition-id="text" data-composition-src="compositions/text.html" data-start="0" data-duration="51.067" data-track-index="1" data-track-kind="graphics" data-width="1080" data-height="1920"></div>
+      <div id="subs-host" data-composition-id="subs" data-composition-src="compositions/subs.html" data-start="0" data-duration="48.867" data-track-index="2" data-track-kind="captions" data-width="1080" data-height="1920"></div>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      // A slow push on every cut, alternating direction; close-ups punch in on the overhead inset.
+      tl.set("#cam", { scale: 1, transformOrigin: "50% 42%" }, 0);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 0.000);
+      tl.to("#cam", { scale: 1.035, duration: 3.860, ease: "none" }, 0.000);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 3.900);
+      tl.to("#cam", { scale: 1.0, duration: 3.027, ease: "none" }, 3.900);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 6.967);
+      tl.to("#cam", { scale: 1.035, duration: 4.493, ease: "none" }, 6.967);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 11.500);
+      tl.to("#cam", { scale: 1.0, duration: 2.727, ease: "none" }, 11.500);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 14.267);
+      tl.to("#cam", { scale: 1.035, duration: 1.660, ease: "none" }, 14.267);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 15.967);
+      tl.to("#cam", { scale: 1.0, duration: 3.693, ease: "none" }, 15.967);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 19.700);
+      tl.to("#cam", { scale: 1.035, duration: 1.493, ease: "none" }, 19.700);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 21.233);
+      tl.to("#cam", { scale: 1.0, duration: 2.560, ease: "none" }, 21.233);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 23.833);
+      tl.to("#cam", { scale: 1.035, duration: 5.560, ease: "none" }, 23.833);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 29.433);
+      tl.to("#cam", { scale: 1.0, duration: 1.793, ease: "none" }, 29.433);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 31.267);
+      tl.to("#cam", { scale: 1.035, duration: 7.493, ease: "none" }, 31.267);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 38.800);
+      tl.to("#cam", { scale: 1.0, duration: 10.027, ease: "none" }, 38.800);
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

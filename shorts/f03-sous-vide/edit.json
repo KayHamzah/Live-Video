@@ -1,0 +1,242 @@
+{
+ "pieces": [
+  {
+   "src_in": 2808.98,
+   "src_out": 2823.66,
+   "out_start": 0.0,
+   "out_dur": 14.7
+  },
+  {
+   "src_in": 2823.92,
+   "src_out": 2825.78,
+   "out_start": 14.7,
+   "out_dur": 1.867
+  },
+  {
+   "src_in": 2827.54,
+   "src_out": 2833.44,
+   "out_start": 16.567,
+   "out_dur": 5.9
+  },
+  {
+   "src_in": 2850.06,
+   "src_out": 2859.5,
+   "out_start": 22.467,
+   "out_dur": 9.433
+  },
+  {
+   "src_in": 2926.2,
+   "src_out": 2930.86,
+   "out_start": 31.9,
+   "out_dur": 4.667
+  },
+  {
+   "src_in": 2931.0,
+   "src_out": 2933.28,
+   "out_start": 36.567,
+   "out_dur": 2.267
+  },
+  {
+   "src_in": 2933.54,
+   "src_out": 2934.62,
+   "out_start": 38.833,
+   "out_dur": 1.1
+  },
+  {
+   "src_in": 2934.74,
+   "src_out": 2940.5,
+   "out_start": 39.933,
+   "out_dur": 5.767
+  },
+  {
+   "src_in": 2940.7,
+   "src_out": 2941.86,
+   "out_start": 45.7,
+   "out_dur": 1.167
+  },
+  {
+   "src_in": 2944.86,
+   "src_out": 2946.56,
+   "out_start": 46.867,
+   "out_dur": 1.7
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 0.9,
+   "text": "Kita juga ada"
+  },
+  {
+   "start": 0.9,
+   "end": 1.8,
+   "text": "fungsi sous vide."
+  },
+  {
+   "start": 2.02,
+   "end": 2.88,
+   "text": "Fungsi sous vide."
+  },
+  {
+   "start": 2.88,
+   "end": 3.1,
+   "text": "Ni apa?"
+  },
+  {
+   "start": 3.28,
+   "end": 3.78,
+   "text": "Fungsi sous vide."
+  },
+  {
+   "start": 3.78,
+   "end": 4.46,
+   "text": "Ni adalah fungsi"
+  },
+  {
+   "start": 4.46,
+   "end": 5.24,
+   "text": "yang jarang lah."
+  },
+  {
+   "start": 5.46,
+   "end": 7.32,
+   "text": "Orang Malaysia ni familiar."
+  },
+  {
+   "start": 7.62,
+   "end": 8.82,
+   "text": "Sebab fungsi sous vide."
+  },
+  {
+   "start": 8.82,
+   "end": 9.8,
+   "text": "Ni biasa kita akan"
+  },
+  {
+   "start": 9.8,
+   "end": 13.36,
+   "text": "gunakan untuk masak-masakan"
+  },
+  {
+   "start": 13.36,
+   "end": 14.56,
+   "text": "yang kena seal."
+  },
+  {
+   "start": 14.76,
+   "end": 15.4,
+   "text": "Yang kita kena"
+  },
+  {
+   "start": 15.4,
+   "end": 16.44,
+   "text": "masuk dekat dalam."
+  },
+  {
+   "start": 16.627,
+   "end": 18.867,
+   "text": "Plastik, zip lock."
+  },
+  {
+   "start": 19.007,
+   "end": 20.367,
+   "text": "Dalam zip lock"
+  },
+  {
+   "start": 20.367,
+   "end": 22.347,
+   "text": "ataupun vacuum pack."
+  },
+  {
+   "start": 22.527,
+   "end": 24.107,
+   "text": "Kita gunakan fungsi sous vide."
+  },
+  {
+   "start": 24.267,
+   "end": 25.987,
+   "text": "Yang ini dia macam fungsi"
+  },
+  {
+   "start": 25.987,
+   "end": 27.207,
+   "text": "slow cook, kita masak"
+  },
+  {
+   "start": 27.207,
+   "end": 28.567,
+   "text": "menggunakan suhu yang rendah."
+  },
+  {
+   "start": 28.767,
+   "end": 30.467,
+   "text": "Tapi kita kena"
+  },
+  {
+   "start": 30.467,
+   "end": 31.787,
+   "text": "masukkan dekat dalam."
+  },
+  {
+   "start": 31.96,
+   "end": 33.64,
+   "text": "Dia bukan masak 100 % tau."
+  },
+  {
+   "start": 33.76,
+   "end": 36.44,
+   "text": "Dia akan 70 % masak."
+  },
+  {
+   "start": 36.627,
+   "end": 38.727,
+   "text": "Tapi ayam tu dia jadi juicy,"
+  },
+  {
+   "start": 38.893,
+   "end": 39.793,
+   "text": "dia jadi lembut,"
+  },
+  {
+   "start": 39.993,
+   "end": 42.033,
+   "text": "dia jadi perapan tu dia"
+  },
+  {
+   "start": 42.033,
+   "end": 43.693,
+   "text": "meresap sampai ke dalam isi."
+  },
+  {
+   "start": 43.833,
+   "end": 44.613,
+   "text": "Dan walaupun kita"
+  },
+  {
+   "start": 44.613,
+   "end": 45.573,
+   "text": "guna dada ayam,"
+  },
+  {
+   "start": 45.76,
+   "end": 46.74,
+   "text": "rasa dia tu sedap."
+  },
+  {
+   "start": 46.927,
+   "end": 47.167,
+   "text": "Sedap."
+  },
+  {
+   "start": 47.227,
+   "end": 47.747,
+   "text": "Dia tak kering"
+  },
+  {
+   "start": 47.747,
+   "end": 48.447,
+   "text": "lah, dia tak dry."
+  }
+ ],
+ "duration": 50.767
+}

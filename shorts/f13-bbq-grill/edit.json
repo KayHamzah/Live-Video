@@ -1,0 +1,238 @@
+{
+ "pieces": [
+  {
+   "src_in": 3755.56,
+   "src_out": 3759.5,
+   "out_start": 0.0,
+   "out_dur": 3.933
+  },
+  {
+   "src_in": 3759.92,
+   "src_out": 3764.38,
+   "out_start": 3.933,
+   "out_dur": 4.467
+  },
+  {
+   "src_in": 3764.52,
+   "src_out": 3767.82,
+   "out_start": 8.4,
+   "out_dur": 3.3
+  },
+  {
+   "src_in": 3768.22,
+   "src_out": 3771.7,
+   "out_start": 11.7,
+   "out_dur": 3.467
+  },
+  {
+   "src_in": 3772.3,
+   "src_out": 3776.9,
+   "out_start": 15.167,
+   "out_dur": 4.6
+  },
+  {
+   "src_in": 3777.14,
+   "src_out": 3778.12,
+   "out_start": 19.767,
+   "out_dur": 1.0
+  },
+  {
+   "src_in": 3778.64,
+   "src_out": 3782.64,
+   "out_start": 20.767,
+   "out_dur": 4.0
+  },
+  {
+   "src_in": 3782.76,
+   "src_out": 3784.4,
+   "out_start": 24.767,
+   "out_dur": 1.633
+  },
+  {
+   "src_in": 3784.54,
+   "src_out": 3788.6,
+   "out_start": 26.4,
+   "out_dur": 4.067
+  },
+  {
+   "src_in": 3788.8,
+   "src_out": 3792.78,
+   "out_start": 30.467,
+   "out_dur": 4.0
+  },
+  {
+   "src_in": 3821.32,
+   "src_out": 3834.2,
+   "out_start": 34.467,
+   "out_dur": 12.867
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 2.4,
+   "text": "Lepas tu kita ada juga fungsi"
+  },
+  {
+   "start": 2.4,
+   "end": 3.82,
+   "text": "barbecue dan juga grill."
+  },
+  {
+   "start": 3.993,
+   "end": 5.113,
+   "text": "Fungsi barbecue dan grill"
+  },
+  {
+   "start": 5.113,
+   "end": 6.493,
+   "text": "ni dia hampir sama tau."
+  },
+  {
+   "start": 6.733,
+   "end": 8.273,
+   "text": "Tapi apa yang membezakan?"
+  },
+  {
+   "start": 8.46,
+   "end": 9.56,
+   "text": "Kenapa kena ada grill?"
+  },
+  {
+   "start": 9.7,
+   "end": 10.66,
+   "text": "Kenapa kena ada"
+  },
+  {
+   "start": 10.66,
+   "end": 11.58,
+   "text": "barbecue kalau sama?"
+  },
+  {
+   "start": 11.76,
+   "end": 13.06,
+   "text": "Yang membezakannya adalah"
+  },
+  {
+   "start": 13.06,
+   "end": 15.06,
+   "text": "kita nak hasil macam mana?"
+  },
+  {
+   "start": 15.227,
+   "end": 17.127,
+   "text": "Kalau contoh kita nak"
+  },
+  {
+   "start": 17.127,
+   "end": 18.347,
+   "text": "hasil masak macam"
+  },
+  {
+   "start": 18.347,
+   "end": 19.647,
+   "text": "kita bakar atas arang,"
+  },
+  {
+   "start": 19.827,
+   "end": 20.627,
+   "text": "kita gunalah barbecue."
+  },
+  {
+   "start": 20.827,
+   "end": 21.787,
+   "text": "Contoh ikan kan?"
+  },
+  {
+   "start": 21.927,
+   "end": 23.407,
+   "text": "Kita nak buat macam ikan bakar"
+  },
+  {
+   "start": 23.407,
+   "end": 24.647,
+   "text": "yang kita bakar atas arang."
+  },
+  {
+   "start": 24.827,
+   "end": 25.607,
+   "text": "So kita gunalah"
+  },
+  {
+   "start": 25.607,
+   "end": 26.287,
+   "text": "fungsi barbecue."
+  },
+  {
+   "start": 26.46,
+   "end": 27.72,
+   "text": "Tapi kalau kita nak"
+  },
+  {
+   "start": 27.72,
+   "end": 28.78,
+   "text": "ikan bakar yang macam"
+  },
+  {
+   "start": 28.78,
+   "end": 30.34,
+   "text": "kita bakar atas pan,"
+  },
+  {
+   "start": 30.527,
+   "end": 31.247,
+   "text": "yang kita bakar"
+  },
+  {
+   "start": 31.247,
+   "end": 32.727,
+   "text": "atas periuk ajaib,"
+  },
+  {
+   "start": 32.987,
+   "end": 34.327,
+   "text": "so kita gunalah fungsi grill."
+  },
+  {
+   "start": 34.527,
+   "end": 35.707,
+   "text": "Dan kelebihan bila kita guna"
+  },
+  {
+   "start": 35.707,
+   "end": 37.687,
+   "text": "Cooven, kita boleh gunakan"
+  },
+  {
+   "start": 37.687,
+   "end": 39.207,
+   "text": "temperature probe ni juga untuk"
+  },
+  {
+   "start": 39.207,
+   "end": 40.647,
+   "text": "fungsi grill ke, barbecue"
+  },
+  {
+   "start": 40.647,
+   "end": 42.287,
+   "text": "ke, roast ke, kita boleh gunakan"
+  },
+  {
+   "start": 42.287,
+   "end": 43.347,
+   "text": "temperature probe untuk"
+  },
+  {
+   "start": 43.347,
+   "end": 45.527,
+   "text": "kita bagi doneness yang kita"
+  },
+  {
+   "start": 45.527,
+   "end": 47.227,
+   "text": "nak pada protein kita tu tadi."
+  }
+ ],
+ "duration": 49.533
+}

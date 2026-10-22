@@ -1,0 +1,273 @@
+{
+ "pieces": [
+  {
+   "src_in": 2621.66,
+   "src_out": 2621.94,
+   "out_start": 0.0,
+   "out_dur": 0.267
+  },
+  {
+   "src_in": 2622.24,
+   "src_out": 2626.3,
+   "out_start": 0.267,
+   "out_dur": 4.067
+  },
+  {
+   "src_in": 2626.46,
+   "src_out": 2632.2,
+   "out_start": 4.333,
+   "out_dur": 5.733
+  },
+  {
+   "src_in": 2632.32,
+   "src_out": 2640.34,
+   "out_start": 10.067,
+   "out_dur": 8.033
+  },
+  {
+   "src_in": 2640.58,
+   "src_out": 2644.02,
+   "out_start": 18.1,
+   "out_dur": 3.467
+  },
+  {
+   "src_in": 2644.38,
+   "src_out": 2646.98,
+   "out_start": 21.567,
+   "out_dur": 2.6
+  },
+  {
+   "src_in": 2647.24,
+   "src_out": 2656.02,
+   "out_start": 24.167,
+   "out_dur": 8.767
+  },
+  {
+   "src_in": 2656.12,
+   "src_out": 2669.42,
+   "out_start": 32.933,
+   "out_dur": 13.3
+  },
+  {
+   "src_in": 2669.84,
+   "src_out": 2674.3,
+   "out_start": 46.233,
+   "out_dur": 4.467
+  },
+  {
+   "src_in": 2674.42,
+   "src_out": 2677.44,
+   "out_start": 50.7,
+   "out_dur": 3.033
+  },
+  {
+   "src_in": 2677.92,
+   "src_out": 2679.42,
+   "out_start": 53.733,
+   "out_dur": 1.5
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 0.16,
+   "text": "Okay,"
+  },
+  {
+   "start": 0.327,
+   "end": 1.347,
+   "text": "so fungsi yang pertama"
+  },
+  {
+   "start": 1.347,
+   "end": 2.547,
+   "text": "yang ada pada Cooven"
+  },
+  {
+   "start": 2.547,
+   "end": 4.207,
+   "text": "adalah fungsi cooker."
+  },
+  {
+   "start": 4.393,
+   "end": 5.813,
+   "text": "Fungsi cooker ni fungsi apa?"
+  },
+  {
+   "start": 6.013,
+   "end": 7.073,
+   "text": "Fungsi cooker ni dia"
+  },
+  {
+   "start": 7.073,
+   "end": 8.913,
+   "text": "sama macam kita masak"
+  },
+  {
+   "start": 8.913,
+   "end": 9.953,
+   "text": "menggunakan dapur gas,"
+  },
+  {
+   "start": 10.127,
+   "end": 11.067,
+   "text": "kita masak menggunakan"
+  },
+  {
+   "start": 11.067,
+   "end": 12.387,
+   "text": "induction cooker ataupun"
+  },
+  {
+   "start": 12.387,
+   "end": 13.807,
+   "text": "apa-apa multi cooker yang"
+  },
+  {
+   "start": 13.807,
+   "end": 14.887,
+   "text": "korang ada dekat rumah tu."
+  },
+  {
+   "start": 15.087,
+   "end": 16.807,
+   "text": "Dia boleh gantikan ke semua"
+  },
+  {
+   "start": 16.807,
+   "end": 17.967,
+   "text": "fungsi-fungsi tu tadi."
+  },
+  {
+   "start": 18.16,
+   "end": 18.36,
+   "text": "Okay,"
+  },
+  {
+   "start": 18.64,
+   "end": 20.18,
+   "text": "paling senang kita cakap dia"
+  },
+  {
+   "start": 20.18,
+   "end": 21.42,
+   "text": "boleh gantikan dapur gas lah."
+  },
+  {
+   "start": 21.627,
+   "end": 22.907,
+   "text": "Sebab tu dekat rumah K"
+  },
+  {
+   "start": 22.907,
+   "end": 24.047,
+   "text": "pun dah takde dapur gas."
+  },
+  {
+   "start": 24.227,
+   "end": 25.967,
+   "text": "Sebab hari tu lepas beli"
+  },
+  {
+   "start": 25.967,
+   "end": 27.267,
+   "text": "Cooven ni dah purgen rosak."
+  },
+  {
+   "start": 27.387,
+   "end": 28.127,
+   "text": "Jadi memang K takde"
+  },
+  {
+   "start": 28.127,
+   "end": 28.807,
+   "text": "dapur gas dah lah."
+  },
+  {
+   "start": 28.947,
+   "end": 30.147,
+   "text": "Sebab tu K akan masak"
+  },
+  {
+   "start": 30.147,
+   "end": 31.007,
+   "text": "memang 100 % dengan"
+  },
+  {
+   "start": 31.007,
+   "end": 32.827,
+   "text": "menggunakan Cooven sahaja."
+  },
+  {
+   "start": 32.993,
+   "end": 34.673,
+   "text": "Okey so untuk fungsi cooker"
+  },
+  {
+   "start": 34.673,
+   "end": 36.593,
+   "text": "kita boleh adjust suhu tau."
+  },
+  {
+   "start": 36.753,
+   "end": 38.733,
+   "text": "Kita ada suhu dan juga masa"
+  },
+  {
+   "start": 38.733,
+   "end": 40.113,
+   "text": "yang kita boleh adjust."
+  },
+  {
+   "start": 40.373,
+   "end": 41.813,
+   "text": "Kalau kata fungsi cooker ni"
+  },
+  {
+   "start": 41.813,
+   "end": 42.973,
+   "text": "kita boleh adjust daripada"
+  },
+  {
+   "start": 42.973,
+   "end": 46.113,
+   "text": "suhu 40 sehingga suhu 240."
+  },
+  {
+   "start": 46.293,
+   "end": 47.613,
+   "text": "Masa pula kita boleh"
+  },
+  {
+   "start": 47.613,
+   "end": 48.613,
+   "text": "adjust daripada 1"
+  },
+  {
+   "start": 48.613,
+   "end": 50.573,
+   "text": "minit sehingga 10 jam."
+  },
+  {
+   "start": 50.76,
+   "end": 51.48,
+   "text": "Haa kan."
+  },
+  {
+   "start": 51.76,
+   "end": 52.74,
+   "text": "So kita nak masak apa"
+  },
+  {
+   "start": 52.74,
+   "end": 53.6,
+   "text": "sampai 10 jam tu?"
+  },
+  {
+   "start": 53.793,
+   "end": 55.113,
+   "text": "Tak tahu nak masak apa eh."
+  }
+ ],
+ "duration": 57.433
+}

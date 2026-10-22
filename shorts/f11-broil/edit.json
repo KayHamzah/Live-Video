@@ -1,0 +1,185 @@
+{
+ "pieces": [
+  {
+   "src_in": 3643.76,
+   "src_out": 3649.88,
+   "out_start": 0.0,
+   "out_dur": 6.133
+  },
+  {
+   "src_in": 3650.06,
+   "src_out": 3663.58,
+   "out_start": 6.133,
+   "out_dur": 13.533
+  },
+  {
+   "src_in": 3663.74,
+   "src_out": 3666.86,
+   "out_start": 19.667,
+   "out_dur": 3.133
+  },
+  {
+   "src_in": 3671.68,
+   "src_out": 3672.8,
+   "out_start": 22.8,
+   "out_dur": 1.133
+  },
+  {
+   "src_in": 3678.22,
+   "src_out": 3679.3,
+   "out_start": 23.933,
+   "out_dur": 1.067
+  },
+  {
+   "src_in": 3681.32,
+   "src_out": 3689.02,
+   "out_start": 25.0,
+   "out_dur": 7.7
+  },
+  {
+   "src_in": 3834.84,
+   "src_out": 3841.7,
+   "out_start": 32.7,
+   "out_dur": 6.867
+  },
+  {
+   "src_in": 3842.4,
+   "src_out": 3843.8,
+   "out_start": 39.567,
+   "out_dur": 1.4
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 2.2,
+   "text": "Kita ada juga fungsi broil."
+  },
+  {
+   "start": 2.34,
+   "end": 3.26,
+   "text": "Fungsi broil ni apa?"
+  },
+  {
+   "start": 3.42,
+   "end": 4.44,
+   "text": "Fungsi broil ni dia adalah"
+  },
+  {
+   "start": 4.44,
+   "end": 6.0,
+   "text": "pembakaran di bahagian atas."
+  },
+  {
+   "start": 6.193,
+   "end": 8.053,
+   "text": "Contoh kan kita nak bagi"
+  },
+  {
+   "start": 8.053,
+   "end": 10.433,
+   "text": "kita punya makanan tu lebih"
+  },
+  {
+   "start": 10.433,
+   "end": 13.553,
+   "text": "browning ataupun dia nampak"
+  },
+  {
+   "start": 13.553,
+   "end": 15.893,
+   "text": "lebih keperangan kan ataupun"
+  },
+  {
+   "start": 15.893,
+   "end": 17.173,
+   "text": "kita nak cairkan cheese."
+  },
+  {
+   "start": 17.453,
+   "end": 18.433,
+   "text": "So kita boleh guna"
+  },
+  {
+   "start": 18.433,
+   "end": 19.533,
+   "text": "fungsi broil ni lah."
+  },
+  {
+   "start": 19.727,
+   "end": 20.847,
+   "text": "Contoh macam kita nak buat"
+  },
+  {
+   "start": 20.847,
+   "end": 22.667,
+   "text": "bruschetta ke kita nak buat"
+  },
+  {
+   "start": 22.86,
+   "end": 23.8,
+   "text": "crème brûlée ke,"
+  },
+  {
+   "start": 23.993,
+   "end": 24.893,
+   "text": "nak buat"
+  },
+  {
+   "start": 25.06,
+   "end": 27.18,
+   "text": "makaroni bakar ke kan kita"
+  },
+  {
+   "start": 27.18,
+   "end": 28.82,
+   "text": "nak cairkan cheese kat bahagian"
+  },
+  {
+   "start": 28.82,
+   "end": 30.62,
+   "text": "atas tu kan so kita boleh"
+  },
+  {
+   "start": 30.62,
+   "end": 32.58,
+   "text": "guna fungsi broil tu tadi"
+  },
+  {
+   "start": 32.76,
+   "end": 34.02,
+   "text": "kalau nak buat roti bakar"
+  },
+  {
+   "start": 34.02,
+   "end": 34.96,
+   "text": "boleh guna broil,"
+  },
+  {
+   "start": 35.06,
+   "end": 36.1,
+   "text": "boleh je nak guna broil."
+  },
+  {
+   "start": 36.14,
+   "end": 37.24,
+   "text": "Cuma kalau kita guna"
+  },
+  {
+   "start": 37.24,
+   "end": 38.32,
+   "text": "broil, dia pemanasan"
+  },
+  {
+   "start": 38.32,
+   "end": 39.44,
+   "text": "hanya di bahagian atas."
+  },
+  {
+   "start": 39.627,
+   "end": 40.847,
+   "text": "Bawah dia takkan panas."
+  }
+ ],
+ "duration": 43.167
+}
