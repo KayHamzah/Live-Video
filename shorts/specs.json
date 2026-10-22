@@ -1,0 +1,1167 @@
+{
+  "_note": "Source ranges are seconds in the 87-min live. Each range is cut to its words; pauses over 0.3 s inside a range are removed. 'title' is the bold hook shown in the first seconds; 'points' are the few key words shown as a light label when the given word is spoken.",
+  "videos": [
+    {
+      "id": "01-ayam-lembut",
+      "series": "TIP DAPUR",
+      "title": "Ayam bakar seekor,\nlembut sampai ke tulang",
+      "ranges": [
+        [
+          4664.2,
+          4671.45,
+          "pip"
+        ],
+        [
+          4673.2,
+          4688.6
+        ],
+        [
+          4769.8,
+          4796.1
+        ],
+        [
+          4937.0,
+          4946.8
+        ]
+      ],
+      "points": [
+        [
+          "Dulu: oven 1–2 jam",
+          "oven"
+        ],
+        [
+          "Sekarang: ±40 minit, muat 2 ekor",
+          "40"
+        ]
+      ],
+      "skip": [
+        [
+          4664.3,
+          4664.8
+        ],
+        [
+          4673.4,
+          4673.9
+        ],
+        [
+          4684.6,
+          4685.5
+        ]
+      ]
+    },
+    {
+      "id": "02-temperature-probe",
+      "series": "TIP DAPUR",
+      "title": "Cara betul guna\ntemperature probe",
+      "ranges": [
+        [
+          4153.6,
+          4163.3
+        ],
+        [
+          816.2,
+          827.0
+        ],
+        [
+          2520.4,
+          2531.3
+        ],
+        [
+          4163.3,
+          4192.6
+        ]
+      ],
+      "points": [
+        [
+          "Cucuk di isi paling tebal",
+          "tebal"
+        ],
+        [
+          "Sasaran: 77°C",
+          "77"
+        ]
+      ],
+      "fix": [
+        [
+          "foodijing cover",
+          "Cooven"
+        ],
+        [
+          "baru je get food,",
+          "baru je add food,"
+        ]
+      ]
+    },
+    {
+      "id": "03-resepi-smoked-bbq",
+      "series": "RESEPI",
+      "title": "Resepi Smoked BBQ Chicken",
+      "ranges": [
+        [
+          1165.4,
+          1171.3
+        ],
+        [
+          1757.3,
+          1779.5
+        ],
+        [
+          1781.7,
+          1795.3
+        ],
+        [
+          1799.7,
+          1803.2
+        ],
+        [
+          1816.2,
+          1835.9
+        ]
+      ],
+      "points": [
+        [
+          "Perap semalaman, lagi sedap",
+          "overnight"
+        ]
+      ],
+      "skip": [
+        [
+          1165.3,
+          1165.7
+        ],
+        [
+          1777.3,
+          1778.4
+        ],
+        [
+          1816.2,
+          1816.5
+        ]
+      ],
+      "fix": [
+        [
+          "gauh gauh gauh gauh gauh.",
+          "gaul-gaul."
+        ],
+        [
+          "marinatekan",
+          "marinate-kan"
+        ],
+        [
+          "semok",
+          "smoke"
+        ],
+        [
+          "ketol",
+          "ketul"
+        ],
+        [
+          "thai.",
+          "Thai."
+        ]
+      ]
+    },
+    {
+      "id": "04-cucur-tak-berminyak",
+      "series": "TIP DAPUR",
+      "title": "Kenapa cucur\nserap minyak?",
+      "ranges": [
+        [
+          2440.5,
+          2454.2,
+          "pip"
+        ],
+        [
+          1494.0,
+          1520.2
+        ],
+        [
+          1538.9,
+          1552.9
+        ]
+      ],
+      "points": [
+        [
+          "Suhu stabil 180°C",
+          "180"
+        ]
+      ],
+      "skip": [
+        [
+          2452.5,
+          2453.9
+        ],
+        [
+          1512.9,
+          1513.5
+        ],
+        [
+          1543.1,
+          1545.5
+        ]
+      ],
+      "fix": [
+        [
+          "rumiikan",
+          "gunakan"
+        ],
+        [
+          "sexy",
+          "safety"
+        ],
+        [
+          "gunakan fungsi 180",
+          "gunakan suhu 180"
+        ],
+        [
+          "pada fungsi 180",
+          "pada 180"
+        ],
+        [
+          "habis tu menggoreng.",
+          "habis dia menggoreng."
+        ],
+        [
+          "adulan",
+          "adunan"
+        ],
+        [
+          "seluruh",
+          "sejuk"
+        ],
+        [
+          "jalur",
+          "kawal"
+        ]
+      ]
+    },
+    {
+      "id": "05-auto-switch-off",
+      "series": "TIP DAPUR",
+      "title": "Lupa tutup api?\nTak perlu risau",
+      "ranges": [
+        [
+          1976.9,
+          1985.1
+        ],
+        [
+          2027.2,
+          2051.1
+        ],
+        [
+          2125.4,
+          2132.8
+        ]
+      ],
+      "points": [
+        [
+          "Timer habis = auto switch off",
+          "switch"
+        ]
+      ],
+      "skip": [
+        [
+          2037.85,
+          2039.3
+        ],
+        [
+          2125.3,
+          2126.2
+        ]
+      ],
+      "fix": [
+        [
+          "4G Cooven",
+          "Cooven"
+        ],
+        [
+          "tu kini kata",
+          "tu K kata"
+        ]
+      ]
+    },
+    {
+      "id": "06-lapik-baking-paper",
+      "series": "TIP DAPUR",
+      "title": "Malas basuh periuk?\nBuat ini",
+      "ranges": [
+        [
+          4345.7,
+          4350.0
+        ],
+        [
+          520.2,
+          525.45
+        ],
+        [
+          531.4,
+          534.0
+        ],
+        [
+          541.9,
+          558.4
+        ],
+        [
+          5051.8,
+          5063.8
+        ]
+      ],
+      "points": [
+        [
+          "Lapik inner pot dengan baking paper",
+          "baking"
+        ]
+      ],
+      "skip": [
+        [
+          5052.0,
+          5055.5
+        ],
+        [
+          5059.2,
+          5060.8
+        ]
+      ],
+      "fix": [
+        [
+          "Tapi penat ni adalah",
+          "Tapi penatnya adalah"
+        ],
+        [
+          "lapitkan",
+          "lapikkan"
+        ],
+        [
+          "tak adalah kita",
+          "takdalah kita"
+        ]
+      ]
+    },
+    {
+      "id": "07-tanpa-dapur-gas",
+      "series": "TIP DAPUR",
+      "title": "Tak ada dapur gas\npun tak apa",
+      "ranges": [
+        [
+          2643.9,
+          2655.9
+        ],
+        [
+          988.5,
+          1006.7
+        ],
+        [
+          1016.2,
+          1036.2
+        ]
+      ],
+      "points": [
+        [
+          "Satu gadget untuk semua cara masak",
+          "gadget"
+        ]
+      ],
+      "skip": [
+        [
+          988.7,
+          989.4
+        ],
+        [
+          1016.2,
+          1016.6
+        ]
+      ],
+      "fix": [
+        [
+          "dah purgen rosak.",
+          "dapur gas rosak."
+        ],
+        [
+          "nak buah nasi",
+          "nak buat nasi"
+        ]
+      ]
+    },
+    {
+      "id": "08-ayam-hitam-bukan-hangit",
+      "series": "TIP DAPUR",
+      "title": "Ayam nampak hitam?\nBukan hangit",
+      "ranges": [
+        [
+          4541.2,
+          4547.3,
+          "pip"
+        ],
+        [
+          3988.5,
+          4013.1
+        ],
+        [
+          5128.6,
+          5137.8
+        ],
+        [
+          5145.0,
+          5150.1
+        ]
+      ],
+      "points": [
+        [
+          "Kicap + brown sugar",
+          "kicap"
+        ]
+      ],
+      "skip": [
+        [
+          4007.0,
+          4011.8
+        ]
+      ],
+      "fix": [
+        [
+          "camera lies.",
+          "caramelise."
+        ]
+      ]
+    },
+    {
+      "id": "f00-apa-itu-cooven",
+      "series": "FUNGSI COOVEN · INTRO",
+      "title": "Cooven = Cooker + Oven",
+      "ranges": [
+        [
+          2573.6,
+          2621.2
+        ]
+      ],
+      "points": [
+        [
+          "15 fungsi + temperature probe",
+          "15"
+        ]
+      ],
+      "skip": [
+        [
+          2573.3,
+          2573.6
+        ],
+        [
+          2592.9,
+          2594.9
+        ]
+      ],
+      "fix": [
+        [
+          "BEN",
+          "VEN"
+        ],
+        [
+          "gabungan fungsi,",
+          "gabungan fungsi"
+        ]
+      ]
+    },
+    {
+      "id": "f01-cooker",
+      "series": "FUNGSI COOVEN · 1",
+      "title": "Fungsi Cooker:\nganti dapur gas",
+      "ranges": [
+        [
+          2621.2,
+          2643.9
+        ],
+        [
+          2643.9,
+          2655.9
+        ],
+        [
+          2655.9,
+          2680.3
+        ]
+      ],
+      "points": [
+        [
+          "Suhu 40–240°C",
+          "40"
+        ],
+        [
+          "Masa 1 minit – 10 jam",
+          "minit"
+        ]
+      ],
+      "skip": [
+        [
+          2621.0,
+          2621.4
+        ],
+        [
+          2679.9,
+          2680.4
+        ]
+      ]
+    },
+    {
+      "id": "f02-smart-cook",
+      "series": "FUNGSI COOVEN · 2",
+      "title": "Fungsi Smart Cook:\nrebus + bakar",
+      "ranges": [
+        [
+          2168.0,
+          2178.5
+        ],
+        [
+          2693.8,
+          2712.0
+        ],
+        [
+          2712.1,
+          2727.0
+        ],
+        [
+          2772.2,
+          2786.6
+        ]
+      ],
+      "points": [
+        [
+          "Nasi goreng terus dari beras",
+          "beras"
+        ]
+      ],
+      "skip": [
+        [
+          2167.9,
+          2168.15
+        ],
+        [
+          2169.6,
+          2170.3
+        ],
+        [
+          2719.2,
+          2722.9
+        ]
+      ],
+      "fix": [
+        [
+          "wokhe,",
+          "wok hei,"
+        ],
+        [
+          "nasi boring",
+          "nasi goreng"
+        ],
+        [
+          "bag.",
+          "bake."
+        ]
+      ]
+    },
+    {
+      "id": "f03-sous-vide",
+      "series": "FUNGSI COOVEN · 3",
+      "title": "Fungsi Sous Vide:\ndada ayam juicy",
+      "ranges": [
+        [
+          2808.7,
+          2825.7
+        ],
+        [
+          2828.0,
+          2833.3
+        ],
+        [
+          2849.9,
+          2856.0
+        ],
+        [
+          2926.2,
+          2946.5
+        ]
+      ],
+      "points": [
+        [
+          "Suhu rendah, dalam vacuum pack",
+          "rendah"
+        ]
+      ],
+      "skip": [
+        [
+          2942.0,
+          2944.95
+        ]
+      ],
+      "fix": [
+        [
+          "subit.",
+          "sous vide."
+        ],
+        [
+          "subit",
+          "sous vide"
+        ],
+        [
+          "suvit.",
+          "sous vide."
+        ],
+        [
+          "masuk dekat dalam.",
+          "masuk dekat dalam"
+        ],
+        [
+          "plastik,",
+          "plastik"
+        ],
+        [
+          "rendah,",
+          "rendah."
+        ]
+      ]
+    },
+    {
+      "id": "f04-steam",
+      "series": "FUNGSI COOVEN · 4",
+      "title": "Fungsi Steam:\n3 lapis sekali kukus",
+      "ranges": [
+        [
+          3024.8,
+          3040.7
+        ],
+        [
+          3041.3,
+          3079.0
+        ],
+        [
+          3079.0,
+          3087.3
+        ]
+      ],
+      "points": [
+        [
+          "3 lapis rak",
+          "layer"
+        ],
+        [
+          "16 biji pau, ±5 minit",
+          "16"
+        ]
+      ],
+      "fix": [
+        [
+          "Pau",
+          "pau"
+        ],
+        [
+          "biji Sekali steam",
+          "biji sekali steam"
+        ]
+      ]
+    },
+    {
+      "id": "f05-rice",
+      "series": "FUNGSI COOVEN · 5",
+      "title": "Fungsi Rice:\ntumis & masak satu periuk",
+      "ranges": [
+        [
+          3190.0,
+          3191.75
+        ],
+        [
+          3198.3,
+          3204.8
+        ],
+        [
+          3113.1,
+          3145.7
+        ],
+        [
+          3159.1,
+          3177.1
+        ]
+      ],
+      "points": [
+        [
+          "Secepat 15 minit",
+          "15"
+        ]
+      ],
+      "skip": [
+        [
+          3141.8,
+          3145.7
+        ]
+      ],
+      "fix": [
+        [
+          "tak sakalah saya pada masak.",
+          "tak sangka lah saya pandai masak."
+        ],
+        [
+          "fusi",
+          "fungsi"
+        ],
+        [
+          "tukang-tukang",
+          "tukar-tukar"
+        ],
+        [
+          "image",
+          "tumis"
+        ]
+      ]
+    },
+    {
+      "id": "f06-air-crisp",
+      "series": "FUNGSI COOVEN · 6",
+      "title": "Fungsi Air Crisp:\njuicy, tak kering",
+      "ranges": [
+        [
+          3221.0,
+          3230.2
+        ],
+        [
+          3233.1,
+          3263.5
+        ],
+        [
+          3267.1,
+          3272.6
+        ],
+        [
+          3293.6,
+          3311.5
+        ]
+      ],
+      "points": [
+        [
+          "Minyak sangat minimum",
+          "minyak"
+        ]
+      ],
+      "skip": [
+        [
+          3228.7,
+          3229.9
+        ],
+        [
+          3263.1,
+          3263.6
+        ]
+      ],
+      "fix": [
+        [
+          "creeps.",
+          "crisp."
+        ],
+        [
+          "creeps",
+          "crisp"
+        ],
+        [
+          "paper dem,",
+          "papadum,"
+        ]
+      ]
+    },
+    {
+      "id": "f07-dehydrate",
+      "series": "FUNGSI COOVEN · 7",
+      "title": "Fungsi Dehydrate:\nbuat ikan masin sendiri",
+      "ranges": [
+        [
+          3317.1,
+          3345.0
+        ],
+        [
+          3395.0,
+          3429.2
+        ]
+      ],
+      "points": [
+        [
+          "Tak perlu jemur, malam pun boleh",
+          "malam"
+        ]
+      ],
+      "skip": [
+        [
+          3343.9,
+          3345.0
+        ],
+        [
+          3426.8,
+          3429.2
+        ]
+      ]
+    },
+    {
+      "id": "f08-pizza",
+      "series": "FUNGSI COOVEN · 8",
+      "title": "Fungsi Pizza:\nsiap secepat 6 minit",
+      "ranges": [
+        [
+          3433.4,
+          3457.0
+        ],
+        [
+          3457.0,
+          3476.4
+        ],
+        [
+          3476.4,
+          3485.8
+        ]
+      ],
+      "points": [
+        [
+          "Secepat 6 minit",
+          "enam"
+        ]
+      ],
+      "skip": [
+        [
+          3433.2,
+          3433.9
+        ],
+        [
+          3459.3,
+          3460.5
+        ]
+      ],
+      "fix": [
+        [
+          "Nebulitan",
+          "Neapolitan"
+        ],
+        [
+          "neculitan",
+          "Neapolitan"
+        ],
+        [
+          "Magarita",
+          "Margherita"
+        ],
+        [
+          "RM2 ,000",
+          "RM2,000"
+        ],
+        [
+          "RM3 ,000",
+          "RM3,000"
+        ]
+      ]
+    },
+    {
+      "id": "f09-deep-fry",
+      "series": "FUNGSI COOVEN · 9",
+      "title": "Fungsi Deep Fry:\ntak berminyak, tak memercik",
+      "ranges": [
+        [
+          3499.9,
+          3531.9
+        ],
+        [
+          463.4,
+          478.1
+        ],
+        [
+          1949.1,
+          1965.0
+        ]
+      ],
+      "points": [
+        [
+          "Auto panaskan minyak",
+          "auto"
+        ],
+        [
+          "Minyak boleh guna 2–3 kali",
+          "recycle"
+        ]
+      ],
+      "skip": [
+        [
+          3531.7,
+          3532.0
+        ],
+        [
+          1949.0,
+          1952.2
+        ],
+        [
+          1956.6,
+          1957.5
+        ],
+        [
+          1963.2,
+          1965.0
+        ]
+      ]
+    },
+    {
+      "id": "f10-slow-cook",
+      "series": "FUNGSI COOVEN · 10",
+      "title": "Fungsi Slow Cook:\nmasak sambil tidur",
+      "ranges": [
+        [
+          3535.0,
+          3560.0
+        ],
+        [
+          3560.0,
+          3577.2
+        ],
+        [
+          3616.9,
+          3642.8
+        ]
+      ],
+      "points": [
+        [
+          "Rasa asli, daging lembut",
+          "original"
+        ]
+      ],
+      "skip": [
+        [
+          3568.1,
+          3569.9
+        ],
+        [
+          3616.8,
+          3617.4
+        ],
+        [
+          3617.5,
+          3618.3
+        ],
+        [
+          3630.0,
+          3634.5
+        ]
+      ],
+      "fix": [
+        [
+          "menyimbang dengan jalan sebelah,",
+          "bersembang dengan jiran sebelah,"
+        ],
+        [
+          "meraji",
+          "mengaji,"
+        ],
+        [
+          "belum main api",
+          "belum api,"
+        ]
+      ]
+    },
+    {
+      "id": "f11-broil",
+      "series": "FUNGSI COOVEN · 11",
+      "title": "Fungsi Broil:\nbakar dari atas",
+      "ranges": [
+        [
+          3643.8,
+          3689.3
+        ],
+        [
+          3834.9,
+          3844.8
+        ]
+      ],
+      "points": [
+        [
+          "Cairkan cheese, warna perang",
+          "cheese"
+        ]
+      ],
+      "skip": [
+        [
+          3666.6,
+          3671.5
+        ],
+        [
+          3673.2,
+          3678.2
+        ],
+        [
+          3688.85,
+          3689.3
+        ],
+        [
+          3844.0,
+          3844.8
+        ]
+      ],
+      "fix": [
+        [
+          "buketa",
+          "bruschetta"
+        ],
+        [
+          "Krim bruli ke?",
+          "crème brûlée ke,"
+        ]
+      ]
+    },
+    {
+      "id": "f12-roast",
+      "series": "FUNGSI COOVEN · 12",
+      "title": "Fungsi Roast:\nmasak sekata 360°",
+      "ranges": [
+        [
+          3689.3,
+          3712.2
+        ],
+        [
+          3726.2,
+          3750.8
+        ]
+      ],
+      "points": [
+        [
+          "Haba 360°, sekata",
+          "360"
+        ]
+      ],
+      "skip": [
+        [
+          3726.1,
+          3727.5
+        ],
+        [
+          3749.7,
+          3750.8
+        ]
+      ],
+      "fix": [
+        [
+          "sekatalah",
+          "sekata lah,"
+        ],
+        [
+          "apa roasted",
+          "roasting"
+        ]
+      ]
+    },
+    {
+      "id": "f13-bbq-grill",
+      "series": "FUNGSI COOVEN · 13",
+      "title": "BBQ vs Grill:\napa bezanya?",
+      "ranges": [
+        [
+          3755.0,
+          3800.7
+        ],
+        [
+          3821.4,
+          3834.9
+        ]
+      ],
+      "points": [
+        [
+          "BBQ = atas arang",
+          "arang"
+        ],
+        [
+          "Grill = atas pan",
+          "pan"
+        ]
+      ],
+      "skip": [
+        [
+          3759.5,
+          3759.9
+        ],
+        [
+          3767.9,
+          3768.2
+        ],
+        [
+          3792.8,
+          3800.7
+        ],
+        [
+          3834.5,
+          3834.9
+        ]
+      ],
+      "fix": [
+        [
+          "green.",
+          "grill."
+        ],
+        [
+          "green,",
+          "grill,"
+        ],
+        [
+          "cuven,",
+          "Cooven,"
+        ],
+        [
+          "pack dines",
+          "doneness"
+        ]
+      ]
+    },
+    {
+      "id": "f14-oven",
+      "series": "FUNGSI COOVEN · 14",
+      "title": "Fungsi Oven:\nkek, roti, pastri",
+      "ranges": [
+        [
+          3906.8,
+          3928.5
+        ],
+        [
+          3935.9,
+          3961.5
+        ],
+        [
+          3961.6,
+          3967.4
+        ]
+      ],
+      "points": [
+        [
+          "Boleh masak dalam bekas lain",
+          "bekas"
+        ]
+      ],
+      "skip": [
+        [
+          3906.3,
+          3906.8
+        ],
+        [
+          3939.3,
+          3941.3
+        ]
+      ],
+      "fix": [
+        [
+          "kek?",
+          "ke?"
+        ],
+        [
+          "saur dough,",
+          "sourdough,"
+        ],
+        [
+          "skon,",
+          "scone,"
+        ],
+        [
+          "ibu sampan,",
+          "ibu sambal,"
+        ],
+        [
+          "kecih",
+          "kecil"
+        ]
+      ]
+    }
+  ]
+}

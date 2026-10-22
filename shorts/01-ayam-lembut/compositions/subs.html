@@ -1,0 +1,102 @@
+<template>
+  <style>
+    #subs {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+    /* One short line at a time, low in the safe band, clear of faces and food. */
+    .sub {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 1200px;
+      height: 110px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: visible;
+    }
+    .sub span {
+      max-width: 940px;
+      text-align: center;
+      font-family: "Inter", sans-serif;
+      font-weight: 500;
+      font-size: 52px;
+      line-height: 1.15;
+      color: #fff;
+      -webkit-text-stroke: 7px rgba(0, 0, 0, 0.85);
+      paint-order: stroke fill;
+      text-shadow: 0 2px 14px rgba(0, 0, 0, 0.6);
+    }
+  </style>
+  <div id="subs" data-composition-id="subs" data-width="1080" data-height="1920" data-duration="42.0">
+    <div id="sb-0" class="clip sub" data-start="0.1" data-duration="1.27"><span>Okey tarik guna penyepit</span></div>
+    <div id="sb-1" class="clip sub" data-start="1.35" data-duration="0.647"><span>sahaja.</span></div>
+    <div id="sb-2" class="clip sub" data-start="1.977" data-duration="1.52"><span>Haa nampak tak?</span></div>
+    <div id="sb-3" class="clip sub" data-start="3.477" data-duration="2.16"><span>Punyalah dia masak sehingga ke</span></div>
+    <div id="sb-4" class="clip sub" data-start="5.617" data-duration="0.713"><span>tulang.</span></div>
+    <div id="sb-5" class="clip sub" data-start="6.31" data-duration="2.32"><span>Okey kalau dulu kan masak guna</span></div>
+    <div id="sb-6" class="clip sub" data-start="8.61" data-duration="1.76"><span>oven untuk ayam bakar seekor</span></div>
+    <div id="sb-7" class="clip sub" data-start="10.35" data-duration="2.18"><span>macam ni satu jam lebih.</span></div>
+    <div id="sb-8" class="clip sub" data-start="12.51" data-duration="1.24"><span>Nak dekat dua jam.</span></div>
+    <div id="sb-9" class="clip sub" data-start="13.73" data-duration="1.36"><span>Kadang-kadang barulah masak.</span></div>
+    <div id="sb-10" class="clip sub" data-start="15.07" data-duration="2.48"><span>Lepas tu tarik-tarik keras.</span></div>
+    <div id="sb-11" class="clip sub" data-start="17.53" data-duration="0.92"><span>Tarik-tarik keras.</span></div>
+    <div id="sb-12" class="clip sub" data-start="18.43" data-duration="1.44"><span>Rupanya tak masak lagi dekat</span></div>
+    <div id="sb-13" class="clip sub" data-start="19.85" data-duration="1.36"><span>bahagian tulang-tulang pelipat</span></div>
+    <div id="sb-14" class="clip sub" data-start="21.19" data-duration="0.35"><span>ni.</span></div>
+    <div id="sb-15" class="clip sub" data-start="21.51" data-duration="1.36"><span>bahagian dada ni tak makan</span></div>
+    <div id="sb-16" class="clip sub" data-start="22.85" data-duration="0.48"><span>tau.</span></div>
+    <div id="sb-17" class="clip sub" data-start="23.31" data-duration="1.18"><span>Okay dia orang tak makan</span></div>
+    <div id="sb-18" class="clip sub" data-start="24.47" data-duration="0.86"><span>bahagian dada.</span></div>
+    <div id="sb-19" class="clip sub" data-start="25.31" data-duration="2.02"><span>Tapi bila kita masak guna</span></div>
+    <div id="sb-20" class="clip sub" data-start="27.31" data-duration="0.953"><span>Cooven,</span></div>
+    <div id="sb-21" class="clip sub" data-start="28.243" data-duration="1.76"><span>bahagian dada ni pun dia orang</span></div>
+    <div id="sb-22" class="clip sub" data-start="29.983" data-duration="1.34"><span>boleh makan sebab bahagian</span></div>
+    <div id="sb-23" class="clip sub" data-start="31.303" data-duration="1.06"><span>dada ni tak dry.</span></div>
+    <div id="sb-24" class="clip sub" data-start="32.343" data-duration="1.8"><span>tapi yang ini dah lah boleh</span></div>
+    <div id="sb-25" class="clip sub" data-start="34.123" data-duration="1.62"><span>masuk dua ekor sekaligus.</span></div>
+    <div id="sb-26" class="clip sub" data-start="35.723" data-duration="1.66"><span>Lepas tu masa nak bakar tu</span></div>
+    <div id="sb-27" class="clip sub" data-start="37.363" data-duration="1.3"><span>lebih kurang dalam 40 minit</span></div>
+    <div id="sb-28" class="clip sub" data-start="38.643" data-duration="1.287"><span>macam tu dah siap.</span></div>
+    <div id="sb-29" class="clip sub" data-start="39.91" data-duration="1.12"><span>Tak perlu nak tunggu sampai</span></div>
+    <div id="sb-30" class="clip sub" data-start="41.01" data-duration="0.99"><span>satu jam pun.</span></div>
+  </div>
+  <script>
+  const tl = gsap.timeline({ paused: true });
+  tl.fromTo("#sb-0 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 0.1);
+  tl.fromTo("#sb-1 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 1.35);
+  tl.fromTo("#sb-2 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 1.977);
+  tl.fromTo("#sb-3 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 3.477);
+  tl.fromTo("#sb-4 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 5.617);
+  tl.fromTo("#sb-5 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 6.31);
+  tl.fromTo("#sb-6 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 8.61);
+  tl.fromTo("#sb-7 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 10.35);
+  tl.fromTo("#sb-8 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 12.51);
+  tl.fromTo("#sb-9 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 13.73);
+  tl.fromTo("#sb-10 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 15.07);
+  tl.fromTo("#sb-11 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 17.53);
+  tl.fromTo("#sb-12 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 18.43);
+  tl.fromTo("#sb-13 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 19.85);
+  tl.fromTo("#sb-14 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 21.19);
+  tl.fromTo("#sb-15 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 21.51);
+  tl.fromTo("#sb-16 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 22.85);
+  tl.fromTo("#sb-17 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 23.31);
+  tl.fromTo("#sb-18 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 24.47);
+  tl.fromTo("#sb-19 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 25.31);
+  tl.fromTo("#sb-20 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 27.31);
+  tl.fromTo("#sb-21 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 28.243);
+  tl.fromTo("#sb-22 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 29.983);
+  tl.fromTo("#sb-23 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 31.303);
+  tl.fromTo("#sb-24 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 32.343);
+  tl.fromTo("#sb-25 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 34.123);
+  tl.fromTo("#sb-26 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 35.723);
+  tl.fromTo("#sb-27 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 37.363);
+  tl.fromTo("#sb-28 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 38.643);
+  tl.fromTo("#sb-29 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 39.91);
+  tl.fromTo("#sb-30 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 41.01);
+  window.__timelines = window.__timelines || {};
+  window.__timelines["subs"] = tl;
+  </script>
+</template>

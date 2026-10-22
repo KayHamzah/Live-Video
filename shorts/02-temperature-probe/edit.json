@@ -1,0 +1,262 @@
+{
+ "pieces": [
+  {
+   "src_in": 4153.78,
+   "src_out": 4163.4,
+   "out_start": 0.0,
+   "out_dur": 9.633
+  },
+  {
+   "src_in": 816.92,
+   "src_out": 823.6,
+   "out_start": 9.633,
+   "out_dur": 6.667
+  },
+  {
+   "src_in": 823.78,
+   "src_out": 827.02,
+   "out_start": 16.3,
+   "out_dur": 3.233
+  },
+  {
+   "src_in": 2520.6,
+   "src_out": 2524.26,
+   "out_start": 19.533,
+   "out_dur": 3.667
+  },
+  {
+   "src_in": 2524.4,
+   "src_out": 2529.56,
+   "out_start": 23.2,
+   "out_dur": 5.167
+  },
+  {
+   "src_in": 2529.88,
+   "src_out": 2531.4,
+   "out_start": 28.367,
+   "out_dur": 1.533
+  },
+  {
+   "src_in": 4163.38,
+   "src_out": 4165.74,
+   "out_start": 29.9,
+   "out_dur": 2.367
+  },
+  {
+   "src_in": 4166.12,
+   "src_out": 4166.94,
+   "out_start": 32.267,
+   "out_dur": 0.833
+  },
+  {
+   "src_in": 4167.18,
+   "src_out": 4176.02,
+   "out_start": 33.1,
+   "out_dur": 8.867
+  },
+  {
+   "src_in": 4176.34,
+   "src_out": 4178.04,
+   "out_start": 41.967,
+   "out_dur": 1.7
+  },
+  {
+   "src_in": 4178.3,
+   "src_out": 4179.86,
+   "out_start": 43.667,
+   "out_dur": 1.567
+  },
+  {
+   "src_in": 4181.22,
+   "src_out": 4184.52,
+   "out_start": 45.233,
+   "out_dur": 3.3
+  },
+  {
+   "src_in": 4184.8,
+   "src_out": 4185.7,
+   "out_start": 48.533,
+   "out_dur": 0.9
+  },
+  {
+   "src_in": 4186.1,
+   "src_out": 4188.28,
+   "out_start": 49.433,
+   "out_dur": 2.2
+  },
+  {
+   "src_in": 4188.86,
+   "src_out": 4192.0,
+   "out_start": 51.633,
+   "out_dur": 3.133
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 1.44,
+   "text": "Yang ini kan selalu"
+  },
+  {
+   "start": 1.44,
+   "end": 2.24,
+   "text": "dapat feedback tau."
+  },
+  {
+   "start": 2.26,
+   "end": 4.82,
+   "text": "Dia kata, kenapa saya masak"
+  },
+  {
+   "start": 4.82,
+   "end": 8.08,
+   "text": "ayam tu dia macam sekejap je."
+  },
+  {
+   "start": 8.24,
+   "end": 8.86,
+   "text": "Tiba-tiba dia dah"
+  },
+  {
+   "start": 8.86,
+   "end": 9.5,
+   "text": "suruh get food."
+  },
+  {
+   "start": 9.693,
+   "end": 11.993,
+   "text": "So cara dia adalah kita"
+  },
+  {
+   "start": 11.993,
+   "end": 13.673,
+   "text": "cucuk dekat bahagian"
+  },
+  {
+   "start": 13.673,
+   "end": 16.193,
+   "text": "isi yang paling tebal."
+  },
+  {
+   "start": 16.36,
+   "end": 17.22,
+   "text": "Okey biasa ni kita ambil"
+  },
+  {
+   "start": 17.22,
+   "end": 18.32,
+   "text": "bahagian dada lah sebab"
+  },
+  {
+   "start": 18.32,
+   "end": 19.42,
+   "text": "isi dia paling tebal."
+  },
+  {
+   "start": 19.593,
+   "end": 20.753,
+   "text": "Suhu yang kita nak capai"
+  },
+  {
+   "start": 20.753,
+   "end": 23.073,
+   "text": "adalah 77 darjah Celsius."
+  },
+  {
+   "start": 23.26,
+   "end": 26.04,
+   "text": "Selagi mana dalam isi ayam tu"
+  },
+  {
+   "start": 26.04,
+   "end": 28.24,
+   "text": "tak capai 77 darjah Celsius,"
+  },
+  {
+   "start": 28.427,
+   "end": 29.767,
+   "text": "Dia akan continue masak."
+  },
+  {
+   "start": 29.96,
+   "end": 32.14,
+   "text": "Okey, ada dua possibility."
+  },
+  {
+   "start": 32.327,
+   "end": 32.967,
+   "text": "Yang pertama,"
+  },
+  {
+   "start": 33.16,
+   "end": 35.08,
+   "text": "Kita salah cucuk."
+  },
+  {
+   "start": 35.28,
+   "end": 36.98,
+   "text": "Kita cucuk di tempat yang"
+  },
+  {
+   "start": 36.98,
+   "end": 39.8,
+   "text": "dekat dengan tulang ataupun dekat"
+  },
+  {
+   "start": 39.8,
+   "end": 41.82,
+   "text": "tempat yang isinya nipis."
+  },
+  {
+   "start": 42.027,
+   "end": 42.867,
+   "text": "Okey, so memang dia"
+  },
+  {
+   "start": 42.867,
+   "end": 43.547,
+   "text": "cepatlah masak."
+  },
+  {
+   "start": 43.727,
+   "end": 45.107,
+   "text": "Okey, ataupun yang kedua,"
+  },
+  {
+   "start": 45.293,
+   "end": 46.653,
+   "text": "Waktu kita plug in dekat"
+  },
+  {
+   "start": 46.653,
+   "end": 48.413,
+   "text": "belakang bodi Cooven tu,"
+  },
+  {
+   "start": 48.593,
+   "end": 49.313,
+   "text": "Dia tak rapat."
+  },
+  {
+   "start": 49.493,
+   "end": 50.333,
+   "text": "Okey, dia longgar."
+  },
+  {
+   "start": 50.513,
+   "end": 51.493,
+   "text": "So, bila longgar,"
+  },
+  {
+   "start": 51.693,
+   "end": 53.173,
+   "text": "Bila kita baru je add food,"
+  },
+  {
+   "start": 53.453,
+   "end": 54.653,
+   "text": "Dia terus suruh get food."
+  }
+ ],
+ "duration": 56.567
+}

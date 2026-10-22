@@ -1,0 +1,42 @@
+<template>
+  <style>
+    #subs {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+    /* One short line at a time, low in the safe band, clear of faces and food. */
+    .sub {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 1200px;
+      height: 110px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: visible;
+    }
+    .sub span {
+      max-width: 940px;
+      text-align: center;
+      font-family: "Inter", sans-serif;
+      font-weight: 500;
+      font-size: 52px;
+      line-height: 1.15;
+      color: #fff;
+      -webkit-text-stroke: 7px rgba(0, 0, 0, 0.85);
+      paint-order: stroke fill;
+      text-shadow: 0 2px 14px rgba(0, 0, 0, 0.6);
+    }
+  </style>
+  <div id="subs" data-composition-id="subs" data-width="1080" data-height="1920" data-duration="%SUBS_DUR%">
+%SUBS%
+  </div>
+  <script>
+  const tl = gsap.timeline({ paused: true });
+%SUBS_JS%
+  window.__timelines = window.__timelines || {};
+  window.__timelines["subs"] = tl;
+  </script>
+</template>

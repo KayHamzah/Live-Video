@@ -1,0 +1,106 @@
+<template>
+  <style>
+    #subs {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+    /* One short line at a time, low in the safe band, clear of faces and food. */
+    .sub {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 1200px;
+      height: 110px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: visible;
+    }
+    .sub span {
+      max-width: 940px;
+      text-align: center;
+      font-family: "Inter", sans-serif;
+      font-weight: 500;
+      font-size: 52px;
+      line-height: 1.15;
+      color: #fff;
+      -webkit-text-stroke: 7px rgba(0, 0, 0, 0.85);
+      paint-order: stroke fill;
+      text-shadow: 0 2px 14px rgba(0, 0, 0, 0.6);
+    }
+  </style>
+  <div id="subs" data-composition-id="subs" data-width="1080" data-height="1920" data-duration="54.767">
+    <div id="sb-0" class="clip sub" data-start="0.1" data-duration="1.31"><span>Yang ini kan selalu</span></div>
+    <div id="sb-1" class="clip sub" data-start="1.39" data-duration="0.84"><span>dapat feedback tau.</span></div>
+    <div id="sb-2" class="clip sub" data-start="2.21" data-duration="2.58"><span>Dia kata, kenapa saya masak</span></div>
+    <div id="sb-3" class="clip sub" data-start="4.77" data-duration="3.44"><span>ayam tu dia macam sekejap je.</span></div>
+    <div id="sb-4" class="clip sub" data-start="8.19" data-duration="0.64"><span>Tiba-tiba dia dah</span></div>
+    <div id="sb-5" class="clip sub" data-start="8.81" data-duration="0.853"><span>suruh get food.</span></div>
+    <div id="sb-6" class="clip sub" data-start="9.643" data-duration="2.32"><span>So cara dia adalah kita</span></div>
+    <div id="sb-7" class="clip sub" data-start="11.943" data-duration="1.7"><span>cucuk dekat bahagian</span></div>
+    <div id="sb-8" class="clip sub" data-start="13.623" data-duration="2.707"><span>isi yang paling tebal.</span></div>
+    <div id="sb-9" class="clip sub" data-start="16.31" data-duration="0.88"><span>Okey biasa ni kita ambil</span></div>
+    <div id="sb-10" class="clip sub" data-start="17.17" data-duration="1.12"><span>bahagian dada lah sebab</span></div>
+    <div id="sb-11" class="clip sub" data-start="18.27" data-duration="1.293"><span>isi dia paling tebal.</span></div>
+    <div id="sb-12" class="clip sub" data-start="19.543" data-duration="1.18"><span>Suhu yang kita nak capai</span></div>
+    <div id="sb-13" class="clip sub" data-start="20.703" data-duration="2.527"><span>adalah 77 darjah Celsius.</span></div>
+    <div id="sb-14" class="clip sub" data-start="23.21" data-duration="2.8"><span>Selagi mana dalam isi ayam tu</span></div>
+    <div id="sb-15" class="clip sub" data-start="25.99" data-duration="2.407"><span>tak capai 77 darjah Celsius,</span></div>
+    <div id="sb-16" class="clip sub" data-start="28.377" data-duration="1.553"><span>Dia akan continue masak.</span></div>
+    <div id="sb-17" class="clip sub" data-start="29.91" data-duration="2.387"><span>Okey, ada dua possibility.</span></div>
+    <div id="sb-18" class="clip sub" data-start="32.277" data-duration="0.853"><span>Yang pertama,</span></div>
+    <div id="sb-19" class="clip sub" data-start="33.11" data-duration="2.14"><span>Kita salah cucuk.</span></div>
+    <div id="sb-20" class="clip sub" data-start="35.23" data-duration="1.72"><span>Kita cucuk di tempat yang</span></div>
+    <div id="sb-21" class="clip sub" data-start="36.93" data-duration="2.84"><span>dekat dengan tulang ataupun dekat</span></div>
+    <div id="sb-22" class="clip sub" data-start="39.75" data-duration="2.247"><span>tempat yang isinya nipis.</span></div>
+    <div id="sb-23" class="clip sub" data-start="41.977" data-duration="0.86"><span>Okey, so memang dia</span></div>
+    <div id="sb-24" class="clip sub" data-start="42.817" data-duration="0.88"><span>cepatlah masak.</span></div>
+    <div id="sb-25" class="clip sub" data-start="43.677" data-duration="1.586"><span>Okey, ataupun yang kedua,</span></div>
+    <div id="sb-26" class="clip sub" data-start="45.243" data-duration="1.38"><span>Waktu kita plug in dekat</span></div>
+    <div id="sb-27" class="clip sub" data-start="46.603" data-duration="1.96"><span>belakang bodi Cooven tu,</span></div>
+    <div id="sb-28" class="clip sub" data-start="48.543" data-duration="0.92"><span>Dia tak rapat.</span></div>
+    <div id="sb-29" class="clip sub" data-start="49.443" data-duration="1.04"><span>Okey, dia longgar.</span></div>
+    <div id="sb-30" class="clip sub" data-start="50.463" data-duration="1.2"><span>So, bila longgar,</span></div>
+    <div id="sb-31" class="clip sub" data-start="51.643" data-duration="1.78"><span>Bila kita baru je add food,</span></div>
+    <div id="sb-32" class="clip sub" data-start="53.403" data-duration="1.364"><span>Dia terus suruh get food.</span></div>
+  </div>
+  <script>
+  const tl = gsap.timeline({ paused: true });
+  tl.fromTo("#sb-0 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 0.1);
+  tl.fromTo("#sb-1 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 1.39);
+  tl.fromTo("#sb-2 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 2.21);
+  tl.fromTo("#sb-3 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 4.77);
+  tl.fromTo("#sb-4 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 8.19);
+  tl.fromTo("#sb-5 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 8.81);
+  tl.fromTo("#sb-6 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 9.643);
+  tl.fromTo("#sb-7 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 11.943);
+  tl.fromTo("#sb-8 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 13.623);
+  tl.fromTo("#sb-9 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 16.31);
+  tl.fromTo("#sb-10 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 17.17);
+  tl.fromTo("#sb-11 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 18.27);
+  tl.fromTo("#sb-12 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 19.543);
+  tl.fromTo("#sb-13 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 20.703);
+  tl.fromTo("#sb-14 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 23.21);
+  tl.fromTo("#sb-15 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 25.99);
+  tl.fromTo("#sb-16 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 28.377);
+  tl.fromTo("#sb-17 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 29.91);
+  tl.fromTo("#sb-18 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 32.277);
+  tl.fromTo("#sb-19 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 33.11);
+  tl.fromTo("#sb-20 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 35.23);
+  tl.fromTo("#sb-21 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 36.93);
+  tl.fromTo("#sb-22 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 39.75);
+  tl.fromTo("#sb-23 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 41.977);
+  tl.fromTo("#sb-24 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 42.817);
+  tl.fromTo("#sb-25 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 43.677);
+  tl.fromTo("#sb-26 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 45.243);
+  tl.fromTo("#sb-27 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 46.603);
+  tl.fromTo("#sb-28 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 48.543);
+  tl.fromTo("#sb-29 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 49.443);
+  tl.fromTo("#sb-30 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 50.463);
+  tl.fromTo("#sb-31 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 51.643);
+  tl.fromTo("#sb-32 span", { opacity: 0 }, { opacity: 1, duration: 0.1, ease: "power1.out" }, 53.403);
+  window.__timelines = window.__timelines || {};
+  window.__timelines["subs"] = tl;
+  </script>
+</template>
