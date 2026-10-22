@@ -1,0 +1,294 @@
+{
+ "pieces": [
+  {
+   "src_in": 3535.06,
+   "src_out": 3538.12,
+   "out_start": 0.0,
+   "out_dur": 3.067
+  },
+  {
+   "src_in": 3538.24,
+   "src_out": 3540.16,
+   "out_start": 3.067,
+   "out_dur": 1.933
+  },
+  {
+   "src_in": 3543.76,
+   "src_out": 3556.02,
+   "out_start": 5.0,
+   "out_dur": 12.267
+  },
+  {
+   "src_in": 3556.18,
+   "src_out": 3560.08,
+   "out_start": 17.267,
+   "out_dur": 3.9
+  },
+  {
+   "src_in": 3560.12,
+   "src_out": 3568.36,
+   "out_start": 21.167,
+   "out_dur": 8.267
+  },
+  {
+   "src_in": 3569.9,
+   "src_out": 3577.28,
+   "out_start": 29.433,
+   "out_dur": 7.4
+  },
+  {
+   "src_in": 3618.32,
+   "src_out": 3620.64,
+   "out_start": 36.833,
+   "out_dur": 2.333
+  },
+  {
+   "src_in": 3620.82,
+   "src_out": 3624.16,
+   "out_start": 39.167,
+   "out_dur": 3.333
+  },
+  {
+   "src_in": 3624.32,
+   "src_out": 3626.06,
+   "out_start": 42.5,
+   "out_dur": 1.733
+  },
+  {
+   "src_in": 3626.28,
+   "src_out": 3629.24,
+   "out_start": 44.233,
+   "out_dur": 2.967
+  },
+  {
+   "src_in": 3634.4,
+   "src_out": 3634.9,
+   "out_start": 47.2,
+   "out_dur": 0.5
+  },
+  {
+   "src_in": 3635.34,
+   "src_out": 3642.84,
+   "out_start": 47.7,
+   "out_dur": 7.5
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 1.247,
+   "text": "Fungsi slow cook ni pun antara"
+  },
+  {
+   "start": 1.247,
+   "end": 2.94,
+   "text": "fungsi yang K suka sebab apa?"
+  },
+  {
+   "start": 3.127,
+   "end": 3.907,
+   "text": "Sebab kita boleh"
+  },
+  {
+   "start": 3.907,
+   "end": 4.867,
+   "text": "masak sambil tidur."
+  },
+  {
+   "start": 5.06,
+   "end": 5.46,
+   "text": "Tidur."
+  },
+  {
+   "start": 5.74,
+   "end": 6.88,
+   "text": "Kita boleh masak sambil tidur,"
+  },
+  {
+   "start": 7.04,
+   "end": 7.9,
+   "text": "kita boleh masak sambil"
+  },
+  {
+   "start": 7.9,
+   "end": 9.025,
+   "text": "bersembang dengan jiran"
+  },
+  {
+   "start": 9.025,
+   "end": 10.36,
+   "text": "sebelah, kita boleh masak sambil"
+  },
+  {
+   "start": 10.36,
+   "end": 11.48,
+   "text": "main dengan anak-anak, kita"
+  },
+  {
+   "start": 11.48,
+   "end": 12.62,
+   "text": "boleh masak sambil kita"
+  },
+  {
+   "start": 12.62,
+   "end": 14.2,
+   "text": "mengaji, lepas tu kita boleh"
+  },
+  {
+   "start": 14.2,
+   "end": 15.96,
+   "text": "tidur tanpa kita fikir apa"
+  },
+  {
+   "start": 15.96,
+   "end": 17.14,
+   "text": "benda yang ada dekat dapur."
+  },
+  {
+   "start": 17.327,
+   "end": 18.567,
+   "text": "Haa tanpa kita fikir eh tadi"
+  },
+  {
+   "start": 18.567,
+   "end": 19.827,
+   "text": "aku masak aku dah tutup ke"
+  },
+  {
+   "start": 19.827,
+   "end": 21.047,
+   "text": "belum api, tak payah fikir."
+  },
+  {
+   "start": 21.227,
+   "end": 23.127,
+   "text": "Sebab bila kita gunakan fungsi"
+  },
+  {
+   "start": 23.127,
+   "end": 24.647,
+   "text": "slow cook ni dia akan masak"
+  },
+  {
+   "start": 24.647,
+   "end": 26.267,
+   "text": "masakan kita tu dengan perlahan"
+  },
+  {
+   "start": 26.267,
+   "end": 29.287,
+   "text": "tapi dia akan keluarkan semua"
+  },
+  {
+   "start": 29.493,
+   "end": 31.073,
+   "text": "jus-jus yang ada dekat"
+  },
+  {
+   "start": 31.073,
+   "end": 32.253,
+   "text": "dalam masakan kita tu."
+  },
+  {
+   "start": 32.313,
+   "end": 33.373,
+   "text": "Maksudnya kita punya"
+  },
+  {
+   "start": 33.373,
+   "end": 35.013,
+   "text": "masakan tu dia akan jadi"
+  },
+  {
+   "start": 35.013,
+   "end": 36.693,
+   "text": "original punya rasa tau."
+  },
+  {
+   "start": 36.893,
+   "end": 37.993,
+   "text": "Contoh kan, Kak nak"
+  },
+  {
+   "start": 37.993,
+   "end": 39.033,
+   "text": "bawa bekal anak esok,"
+  },
+  {
+   "start": 39.227,
+   "end": 39.967,
+   "text": "Kak dah plan siap-siap."
+  },
+  {
+   "start": 40.067,
+   "end": 41.367,
+   "text": "Oh, esok nak masakkan"
+  },
+  {
+   "start": 41.367,
+   "end": 42.387,
+   "text": "sup ayam lah."
+  },
+  {
+   "start": 42.56,
+   "end": 43.34,
+   "text": "So, malam ni, Kak"
+  },
+  {
+   "start": 43.34,
+   "end": 44.12,
+   "text": "letak-letak bahan."
+  },
+  {
+   "start": 44.293,
+   "end": 45.293,
+   "text": "Lepas tu, Kak tinggal je."
+  },
+  {
+   "start": 45.393,
+   "end": 45.993,
+   "text": "Set je masa."
+  },
+  {
+   "start": 46.153,
+   "end": 47.073,
+   "text": "Oh, satu jam tu tidur."
+  },
+  {
+   "start": 47.26,
+   "end": 47.58,
+   "text": "Tidur."
+  },
+  {
+   "start": 47.76,
+   "end": 49.04,
+   "text": "Haa, lepas tu esok pagi, Kak"
+  },
+  {
+   "start": 49.04,
+   "end": 50.3,
+   "text": "punya masakan pun dah siap."
+  },
+  {
+   "start": 50.56,
+   "end": 51.64,
+   "text": "So, dah boleh ready untuk"
+  },
+  {
+   "start": 51.64,
+   "end": 52.84,
+   "text": "makan, dah boleh ready"
+  },
+  {
+   "start": 52.84,
+   "end": 54.26,
+   "text": "untuk bagi bekal anak-anak."
+  },
+  {
+   "start": 54.48,
+   "end": 55.08,
+   "text": "Mudah sangat."
+  }
+ ],
+ "duration": 57.4
+}

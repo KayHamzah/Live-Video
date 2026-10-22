@@ -56,56 +56,56 @@
   },
   {
    "src_in": 1784.62,
-   "src_out": 1786.92,
+   "src_out": 1785.6,
    "out_start": 27.167,
-   "out_dur": 2.3
+   "out_dur": 0.967
   },
   {
    "src_in": 1787.2,
    "src_out": 1790.34,
-   "out_start": 29.467,
+   "out_start": 28.133,
    "out_dur": 3.133
   },
   {
-   "src_in": 1790.5,
+   "src_in": 1790.6,
    "src_out": 1795.36,
-   "out_start": 32.6,
-   "out_dur": 4.867
+   "out_start": 31.267,
+   "out_dur": 4.767
   },
   {
    "src_in": 1799.66,
    "src_out": 1803.34,
-   "out_start": 37.467,
+   "out_start": 36.033,
    "out_dur": 3.667
   },
   {
    "src_in": 1816.48,
    "src_out": 1818.94,
-   "out_start": 41.133,
+   "out_start": 39.7,
    "out_dur": 2.467
   },
   {
    "src_in": 1819.24,
    "src_out": 1821.46,
-   "out_start": 43.6,
+   "out_start": 42.167,
    "out_dur": 2.233
   },
   {
    "src_in": 1821.64,
    "src_out": 1826.64,
-   "out_start": 45.833,
+   "out_start": 44.4,
    "out_dur": 5.0
   },
   {
    "src_in": 1826.92,
    "src_out": 1829.46,
-   "out_start": 50.833,
+   "out_start": 49.4,
    "out_dur": 2.533
   },
   {
    "src_in": 1829.88,
    "src_out": 1835.34,
-   "out_start": 53.367,
+   "out_start": 51.933,
    "out_dur": 5.467
   }
  ],
@@ -191,110 +191,105 @@
    "text": "light soy sauce."
   },
   {
-   "start": 28.107,
-   "end": 29.347,
-   "text": "Yang tu kena letak semua tu."
-  },
-  {
-   "start": 29.527,
-   "end": 30.787,
+   "start": 28.193,
+   "end": 29.453,
    "text": "Lepas tu letak brown sugar"
   },
   {
-   "start": 30.787,
-   "end": 32.487,
+   "start": 29.453,
+   "end": 31.153,
    "text": "sikit ataupun gula kabung Thai."
   },
   {
-   "start": 32.66,
-   "end": 33.5,
-   "text": "Okey lepas dah letak"
+   "start": 31.327,
+   "end": 32.067,
+   "text": "Lepas dah letak"
   },
   {
-   "start": 33.5,
-   "end": 34.82,
+   "start": 32.067,
+   "end": 33.387,
    "text": "semua tu, gaul-gaul."
   },
   {
-   "start": 34.88,
-   "end": 35.82,
+   "start": 33.447,
+   "end": 34.387,
    "text": "Kita marinate-kan dia."
   },
   {
-   "start": 35.92,
-   "end": 36.68,
+   "start": 34.487,
+   "end": 35.247,
    "text": "At least satu malam"
   },
   {
-   "start": 36.68,
-   "end": 37.34,
+   "start": 35.247,
+   "end": 35.907,
    "text": "lagi sedap lah."
   },
   {
-   "start": 37.527,
-   "end": 39.107,
+   "start": 36.093,
+   "end": 37.673,
    "text": "Tapi kalau buat overnight lagi"
   },
   {
-   "start": 39.107,
-   "end": 40.087,
+   "start": 37.673,
+   "end": 38.653,
    "text": "sedap dia punya rasa sebab"
   },
   {
-   "start": 40.087,
-   "end": 41.027,
+   "start": 38.653,
+   "end": 39.593,
    "text": "dia akan masuk sampai dalam."
   },
   {
-   "start": 41.193,
-   "end": 42.273,
+   "start": 39.76,
+   "end": 40.84,
    "text": "Untuk naikkan dia"
   },
   {
-   "start": 42.273,
-   "end": 43.473,
+   "start": 40.84,
+   "end": 42.04,
    "text": "punya bau smoke tu,"
   },
   {
-   "start": 43.66,
-   "end": 44.56,
+   "start": 42.227,
+   "end": 43.127,
    "text": "letakkan dua"
   },
   {
-   "start": 44.56,
-   "end": 45.7,
+   "start": 43.127,
+   "end": 44.267,
    "text": "batang kayu manis,"
   },
   {
-   "start": 45.893,
-   "end": 48.833,
+   "start": 44.46,
+   "end": 47.4,
    "text": "tiga ketul star anise"
   },
   {
-   "start": 48.833,
-   "end": 50.713,
+   "start": 47.4,
+   "end": 49.28,
    "text": "ataupun bunga lawang,"
   },
   {
-   "start": 50.893,
-   "end": 51.993,
+   "start": 49.46,
+   "end": 50.56,
    "text": "lepas tu satu sudu"
   },
   {
-   "start": 51.993,
-   "end": 53.253,
+   "start": 50.56,
+   "end": 51.82,
    "text": "kecil white peppercorn,"
   },
   {
-   "start": 53.427,
-   "end": 55.947,
+   "start": 51.993,
+   "end": 54.513,
    "text": "lepas tu buah pelaga lebih"
   },
   {
-   "start": 55.947,
-   "end": 58.707,
+   "start": 54.513,
+   "end": 57.273,
    "text": "kurang dalam lima biji macam tu."
   }
  ],
- "duration": 61.033
+ "duration": 59.6
 }

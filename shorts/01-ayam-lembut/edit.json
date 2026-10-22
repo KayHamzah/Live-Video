@@ -1,63 +1,75 @@
 {
  "pieces": [
   {
-   "src_in": 4664.38,
+   "src_in": 4664.8,
    "src_out": 4666.32,
    "out_start": 0.0,
-   "out_dur": 1.967
+   "out_dur": 1.533
   },
   {
    "src_in": 4666.78,
    "src_out": 4668.28,
-   "out_start": 1.967,
+   "out_start": 1.533,
    "out_dur": 1.5
   },
   {
    "src_in": 4668.7,
    "src_out": 4671.52,
-   "out_start": 3.467,
+   "out_start": 3.033,
    "out_dur": 2.833
   },
   {
-   "src_in": 4673.48,
+   "src_in": 4673.86,
+   "src_out": 4684.74,
+   "out_start": 5.867,
+   "out_dur": 10.867
+  },
+  {
+   "src_in": 4685.6,
    "src_out": 4688.68,
-   "out_start": 6.3,
-   "out_dur": 15.2
+   "out_start": 16.733,
+   "out_dur": 3.1
   },
   {
-   "src_in": 4782.24,
+   "src_in": 4771.1,
+   "src_out": 4781.26,
+   "out_start": 19.833,
+   "out_dur": 10.167
+  },
+  {
+   "src_in": 4781.94,
    "src_out": 4784.04,
-   "out_start": 21.5,
-   "out_dur": 1.8
+   "out_start": 30.0,
+   "out_dur": 2.1
   },
   {
-   "src_in": 4784.64,
-   "src_out": 4786.62,
-   "out_start": 23.3,
-   "out_dur": 2.0
+   "src_in": 4786.1,
+   "src_out": 4786.6,
+   "out_start": 32.1,
+   "out_dur": 0.5
   },
   {
-   "src_in": 4786.8,
+   "src_in": 4786.74,
    "src_out": 4789.72,
-   "out_start": 25.3,
-   "out_dur": 2.933
+   "out_start": 32.6,
+   "out_dur": 3.0
   },
   {
-   "src_in": 4789.98,
+   "src_in": 4790.2,
    "src_out": 4794.06,
-   "out_start": 28.233,
-   "out_dur": 4.1
+   "out_start": 35.6,
+   "out_dur": 3.867
   },
   {
    "src_in": 4937.08,
    "src_out": 4944.64,
-   "out_start": 32.333,
+   "out_start": 39.467,
    "out_dur": 7.567
   },
   {
    "src_in": 4944.8,
    "src_out": 4946.88,
-   "out_start": 39.9,
+   "out_start": 47.033,
    "out_dur": 2.1
   }
  ],
@@ -65,158 +77,173 @@
   {
    "start": 0.06,
    "end": 1.4,
-   "text": "Okey tarik guna penyepit"
+   "text": "Tarik guna penyepit sahaja."
   },
   {
-   "start": 1.4,
-   "end": 1.82,
-   "text": "sahaja."
-  },
-  {
-   "start": 2.027,
-   "end": 3.347,
+   "start": 1.593,
+   "end": 2.913,
    "text": "Haa nampak tak?"
   },
   {
-   "start": 3.527,
-   "end": 5.667,
-   "text": "Punyalah dia masak sehingga ke"
+   "start": 3.093,
+   "end": 4.553,
+   "text": "Punyalah dia masak"
   },
   {
-   "start": 5.667,
-   "end": 6.167,
-   "text": "tulang."
+   "start": 4.553,
+   "end": 5.733,
+   "text": "sehingga ke tulang."
   },
   {
-   "start": 6.36,
-   "end": 8.66,
-   "text": "Okey kalau dulu kan masak guna"
+   "start": 5.927,
+   "end": 7.847,
+   "text": "Kalau dulu kan masak guna"
   },
   {
-   "start": 8.66,
-   "end": 10.4,
+   "start": 7.847,
+   "end": 9.587,
    "text": "oven untuk ayam bakar seekor"
   },
   {
-   "start": 10.4,
-   "end": 12.34,
+   "start": 9.587,
+   "end": 11.527,
    "text": "macam ni satu jam lebih."
   },
   {
-   "start": 12.56,
-   "end": 13.66,
+   "start": 11.747,
+   "end": 12.847,
    "text": "Nak dekat dua jam."
   },
   {
-   "start": 13.78,
-   "end": 15.0,
+   "start": 12.967,
+   "end": 14.187,
    "text": "Kadang-kadang barulah masak."
   },
   {
-   "start": 15.12,
-   "end": 17.44,
+   "start": 14.307,
+   "end": 16.627,
    "text": "Lepas tu tarik-tarik keras."
   },
   {
-   "start": 17.58,
-   "end": 18.4,
-   "text": "Tarik-tarik keras."
+   "start": 16.793,
+   "end": 17.913,
+   "text": "Rupanya tak masak lagi"
   },
   {
-   "start": 18.48,
-   "end": 19.9,
-   "text": "Rupanya tak masak lagi dekat"
+   "start": 17.913,
+   "end": 18.633,
+   "text": "dekat bahagian"
   },
   {
-   "start": 19.9,
-   "end": 21.24,
-   "text": "bahagian tulang-tulang pelipat"
+   "start": 18.633,
+   "end": 19.693,
+   "text": "tulang-tulang pelipat ni."
   },
   {
-   "start": 21.24,
-   "end": 21.38,
-   "text": "ni."
+   "start": 19.893,
+   "end": 21.533,
+   "text": "So inilah ayam kita"
   },
   {
-   "start": 21.56,
-   "end": 22.9,
-   "text": "bahagian dada ni tak makan"
+   "start": 21.533,
+   "end": 22.973,
+   "text": "sangat lembut tau."
   },
   {
-   "start": 22.9,
-   "end": 23.18,
-   "text": "tau."
+   "start": 23.213,
+   "end": 25.193,
+   "text": "Dulu kan anak-anak K kalau"
   },
   {
-   "start": 23.36,
-   "end": 24.52,
-   "text": "Okay dia orang tak makan"
+   "start": 25.193,
+   "end": 27.093,
+   "text": "kata bakar ayam seekor"
   },
   {
-   "start": 24.52,
-   "end": 25.16,
-   "text": "bahagian dada."
+   "start": 27.093,
+   "end": 28.673,
+   "text": "macam ni masa zaman-zaman"
   },
   {
-   "start": 25.36,
-   "end": 27.36,
-   "text": "Tapi bila kita masak guna"
+   "start": 28.673,
+   "end": 29.873,
+   "text": "K pakai oven dulu,"
   },
   {
-   "start": 27.36,
-   "end": 28.1,
-   "text": "Cooven,"
+   "start": 30.06,
+   "end": 30.8,
+   "text": "dia orang bahagian"
   },
   {
-   "start": 28.293,
-   "end": 30.033,
-   "text": "bahagian dada ni pun dia orang"
+   "start": 30.8,
+   "end": 31.98,
+   "text": "dada ni tak makan tau."
   },
   {
-   "start": 30.033,
-   "end": 31.353,
-   "text": "boleh makan sebab bahagian"
+   "start": 32.16,
+   "end": 32.48,
+   "text": "Dada."
   },
   {
-   "start": 31.353,
-   "end": 32.193,
-   "text": "dada ni tak dry."
+   "start": 32.66,
+   "end": 34.0,
+   "text": "Tapi bila kita"
   },
   {
-   "start": 32.393,
-   "end": 34.173,
-   "text": "tapi yang ini dah lah boleh"
+   "start": 34.0,
+   "end": 35.46,
+   "text": "masak guna Cooven,"
   },
   {
-   "start": 34.173,
-   "end": 35.573,
+   "start": 35.66,
+   "end": 37.07,
+   "text": "bahagian dada ni pun dia"
+  },
+  {
+   "start": 37.07,
+   "end": 38.12,
+   "text": "orang boleh makan sebab"
+  },
+  {
+   "start": 38.12,
+   "end": 39.34,
+   "text": "bahagian dada ni tak dry."
+  },
+  {
+   "start": 39.527,
+   "end": 41.307,
+   "text": "Tapi yang ini dah lah boleh"
+  },
+  {
+   "start": 41.307,
+   "end": 42.707,
    "text": "masuk dua ekor sekaligus."
   },
   {
-   "start": 35.773,
-   "end": 37.413,
-   "text": "Lepas tu masa nak bakar tu"
+   "start": 42.907,
+   "end": 44.407,
+   "text": "Lepas tu masa nak bakar"
   },
   {
-   "start": 37.413,
-   "end": 38.693,
-   "text": "lebih kurang dalam 40 minit"
+   "start": 44.407,
+   "end": 45.427,
+   "text": "tu lebih kurang dalam 40"
   },
   {
-   "start": 38.693,
-   "end": 39.773,
-   "text": "macam tu dah siap."
+   "start": 45.427,
+   "end": 46.907,
+   "text": "minit macam tu dah siap."
   },
   {
-   "start": 39.96,
-   "end": 41.06,
-   "text": "Tak perlu nak tunggu sampai"
+   "start": 47.093,
+   "end": 48.013,
+   "text": "Tak perlu nak tunggu"
   },
   {
-   "start": 41.06,
-   "end": 41.86,
-   "text": "satu jam pun."
+   "start": 48.013,
+   "end": 48.993,
+   "text": "sampai satu jam pun."
   }
  ],
- "duration": 43.8
+ "duration": 51.333
 }

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="ms" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="assets/vendor/gsap.min.js"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        width: 1080px;
+        height: 1920px;
+        overflow: hidden;
+        background: #000;
+      }
+      #root {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+      /* The camera: push-ins move this wrapper, never the video. */
+      #cam {
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+      }
+      #clip {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      #text-host {
+        z-index: 2;
+      }
+      #subs-host {
+        z-index: 3;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="51.6" data-width="1080" data-height="1920">
+      <div id="cam">
+        <!-- Cut from the live (see edit.json); natural grade and noise reduction are baked in. -->
+        <video id="clip" class="clip" src="assets/clip.mp4" data-start="0" data-duration="49.4" data-has-audio="true" data-track-index="0" playsinline></video>
+      </div>
+      <div id="text-host" data-composition-id="text" data-composition-src="compositions/text.html" data-start="0" data-duration="51.6" data-track-index="1" data-track-kind="graphics" data-width="1080" data-height="1920"></div>
+      <div id="subs-host" data-composition-id="subs" data-composition-src="compositions/subs.html" data-start="0" data-duration="49.4" data-track-index="2" data-track-kind="captions" data-width="1080" data-height="1920"></div>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      // A slow push on every cut, alternating direction; close-ups punch in on the overhead inset.
+      tl.set("#cam", { scale: 1, transformOrigin: "50% 42%" }, 0);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 0.000);
+      tl.to("#cam", { scale: 1.035, duration: 9.727, ease: "none" }, 0.000);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 9.767);
+      tl.to("#cam", { scale: 1.0, duration: 5.993, ease: "none" }, 9.767);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 15.800);
+      tl.to("#cam", { scale: 1.035, duration: 2.027, ease: "none" }, 15.800);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 17.867);
+      tl.to("#cam", { scale: 1.0, duration: 1.127, ease: "none" }, 17.867);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 19.033);
+      tl.to("#cam", { scale: 1.035, duration: 2.393, ease: "none" }, 19.033);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 21.467);
+      tl.to("#cam", { scale: 1.0, duration: 2.760, ease: "none" }, 21.467);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 24.267);
+      tl.to("#cam", { scale: 1.035, duration: 0.560, ease: "none" }, 24.267);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 24.867);
+      tl.to("#cam", { scale: 1.0, duration: 5.960, ease: "none" }, 24.867);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 30.867);
+      tl.to("#cam", { scale: 1.035, duration: 8.660, ease: "none" }, 30.867);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 39.567);
+      tl.to("#cam", { scale: 1.0, duration: 3.860, ease: "none" }, 39.567);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 43.467);
+      tl.to("#cam", { scale: 1.035, duration: 5.893, ease: "none" }, 43.467);
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

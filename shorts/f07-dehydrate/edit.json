@@ -1,0 +1,255 @@
+{
+ "pieces": [
+  {
+   "src_in": 3317.42,
+   "src_out": 3324.48,
+   "out_start": 0.0,
+   "out_dur": 7.067
+  },
+  {
+   "src_in": 3324.8,
+   "src_out": 3325.7,
+   "out_start": 7.067,
+   "out_dur": 0.9
+  },
+  {
+   "src_in": 3325.88,
+   "src_out": 3333.88,
+   "out_start": 7.967,
+   "out_dur": 8.0
+  },
+  {
+   "src_in": 3334.26,
+   "src_out": 3336.2,
+   "out_start": 15.967,
+   "out_dur": 1.933
+  },
+  {
+   "src_in": 3336.34,
+   "src_out": 3343.98,
+   "out_start": 17.9,
+   "out_dur": 7.667
+  },
+  {
+   "src_in": 3395.12,
+   "src_out": 3412.08,
+   "out_start": 25.567,
+   "out_dur": 16.967
+  },
+  {
+   "src_in": 3412.2,
+   "src_out": 3416.72,
+   "out_start": 42.533,
+   "out_dur": 4.533
+  },
+  {
+   "src_in": 3417.32,
+   "src_out": 3426.86,
+   "out_start": 47.067,
+   "out_dur": 9.533
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 1.44,
+   "text": "Okay, lepas tu apa lagi"
+  },
+  {
+   "start": 1.44,
+   "end": 2.34,
+   "text": "fungsi yang kita ada?"
+  },
+  {
+   "start": 2.54,
+   "end": 4.22,
+   "text": "Kita ada fungsi dehydrate."
+  },
+  {
+   "start": 4.5,
+   "end": 5.66,
+   "text": "Ramai orang tanya, okay,"
+  },
+  {
+   "start": 5.8,
+   "end": 6.94,
+   "text": "dehydrate ni nak buat apa?"
+  },
+  {
+   "start": 7.127,
+   "end": 7.847,
+   "text": "Haa kan?"
+  },
+  {
+   "start": 8.027,
+   "end": 9.147,
+   "text": "Kadang-kadang kan kita tak"
+  },
+  {
+   "start": 9.147,
+   "end": 10.807,
+   "text": "terfikir kita nak dehydrate apa?"
+  },
+  {
+   "start": 11.087,
+   "end": 12.507,
+   "text": "Salah satu contoh yang kita"
+  },
+  {
+   "start": 12.507,
+   "end": 14.747,
+   "text": "boleh dehydrate adalah macam ni."
+  },
+  {
+   "start": 14.887,
+   "end": 15.847,
+   "text": "Macam K sendiri,"
+  },
+  {
+   "start": 16.027,
+   "end": 17.787,
+   "text": "K suka dehydrate dia daun."
+  },
+  {
+   "start": 17.96,
+   "end": 19.12,
+   "text": "Okay, macam yang ni kan?"
+  },
+  {
+   "start": 19.22,
+   "end": 20.42,
+   "text": "Ini adalah daun kari"
+  },
+  {
+   "start": 20.42,
+   "end": 21.36,
+   "text": "yang K dehydrate."
+  },
+  {
+   "start": 21.54,
+   "end": 22.76,
+   "text": "So, anytime nak masak,"
+  },
+  {
+   "start": 22.9,
+   "end": 23.84,
+   "text": "K just ambil sahaja"
+  },
+  {
+   "start": 23.84,
+   "end": 25.42,
+   "text": "dekat dalam plastik ni."
+  },
+  {
+   "start": 25.627,
+   "end": 26.607,
+   "text": "Fungsi dehydrate ni ada"
+  },
+  {
+   "start": 26.607,
+   "end": 28.427,
+   "text": "banyak lah dan kelebihan"
+  },
+  {
+   "start": 28.427,
+   "end": 30.007,
+   "text": "fungsi dehydrate ni berbanding"
+  },
+  {
+   "start": 30.007,
+   "end": 31.687,
+   "text": "kita jemur makanan dekat"
+  },
+  {
+   "start": 31.687,
+   "end": 33.547,
+   "text": "luar yang pertama kita"
+  },
+  {
+   "start": 33.547,
+   "end": 34.507,
+   "text": "tak payah nak bersiap lah."
+  },
+  {
+   "start": 34.747,
+   "end": 35.787,
+   "text": "Yang kedua kita boleh"
+  },
+  {
+   "start": 35.787,
+   "end": 36.947,
+   "text": "dehydrate pada waktu malam."
+  },
+  {
+   "start": 37.067,
+   "end": 38.167,
+   "text": "Tak semestinya kita kena"
+  },
+  {
+   "start": 38.167,
+   "end": 39.107,
+   "text": "dehydrate pada waktu"
+  },
+  {
+   "start": 39.107,
+   "end": 40.627,
+   "text": "siang yang waktu cerah"
+  },
+  {
+   "start": 40.627,
+   "end": 41.727,
+   "text": "yang ada cahaya matahari."
+  },
+  {
+   "start": 41.867,
+   "end": 42.407,
+   "text": "Tak semestinya."
+  },
+  {
+   "start": 42.593,
+   "end": 44.233,
+   "text": "So anytime kita rasa teringin"
+  },
+  {
+   "start": 44.233,
+   "end": 45.193,
+   "text": "nak makan ikan masin"
+  },
+  {
+   "start": 45.193,
+   "end": 46.933,
+   "text": "kita boleh buat sendiri kan."
+  },
+  {
+   "start": 47.127,
+   "end": 48.887,
+   "text": "Dari segi kebersihan, jauh"
+  },
+  {
+   "start": 48.887,
+   "end": 50.367,
+   "text": "lebih bersih lah Berbanding kita"
+  },
+  {
+   "start": 50.367,
+   "end": 51.787,
+   "text": "jemur kat luar Kita tak tahu"
+  },
+  {
+   "start": 51.787,
+   "end": 53.017,
+   "text": "binatang apa yang tengah"
+  },
+  {
+   "start": 53.017,
+   "end": 54.747,
+   "text": "terbang kan Binatang apa yang"
+  },
+  {
+   "start": 54.747,
+   "end": 56.487,
+   "text": "tinggalkan jejak Kita tak tahu"
+  }
+ ],
+ "duration": 58.8
+}

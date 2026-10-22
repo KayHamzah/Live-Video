@@ -1,0 +1,251 @@
+{
+ "pieces": [
+  {
+   "src_in": 2168.1,
+   "src_out": 2169.48,
+   "out_start": 0.0,
+   "out_dur": 1.4
+  },
+  {
+   "src_in": 2170.4,
+   "src_out": 2178.26,
+   "out_start": 1.4,
+   "out_dur": 7.867
+  },
+  {
+   "src_in": 2693.68,
+   "src_out": 2702.98,
+   "out_start": 9.267,
+   "out_dur": 9.3
+  },
+  {
+   "src_in": 2703.14,
+   "src_out": 2711.95,
+   "out_start": 18.567,
+   "out_dur": 8.833
+  },
+  {
+   "src_in": 2711.96,
+   "src_out": 2717.3,
+   "out_start": 27.4,
+   "out_dur": 5.333
+  },
+  {
+   "src_in": 2717.42,
+   "src_out": 2719.42,
+   "out_start": 32.733,
+   "out_dur": 2.0
+  },
+  {
+   "src_in": 2723.06,
+   "src_out": 2726.96,
+   "out_start": 34.733,
+   "out_dur": 3.9
+  },
+  {
+   "src_in": 2772.64,
+   "src_out": 2780.96,
+   "out_start": 38.633,
+   "out_dur": 8.333
+  },
+  {
+   "src_in": 2781.22,
+   "src_out": 2786.42,
+   "out_start": 46.967,
+   "out_dur": 5.2
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 1.26,
+   "text": "Walaupun daripada beras,"
+  },
+  {
+   "start": 1.46,
+   "end": 2.48,
+   "text": "dia punya rasa tu macam"
+  },
+  {
+   "start": 2.48,
+   "end": 3.46,
+   "text": "nasi goreng yang kita"
+  },
+  {
+   "start": 3.46,
+   "end": 4.62,
+   "text": "goreng daripada nasi sejuk."
+  },
+  {
+   "start": 4.9,
+   "end": 6.56,
+   "text": "Sebab dia ada rasa wok hei,"
+  },
+  {
+   "start": 6.82,
+   "end": 7.94,
+   "text": "sebab kita guna kaedah"
+  },
+  {
+   "start": 7.94,
+   "end": 9.14,
+   "text": "pembakaran juga tau."
+  },
+  {
+   "start": 9.327,
+   "end": 10.687,
+   "text": "Okey fungsi smart cook ni apa?"
+  },
+  {
+   "start": 10.927,
+   "end": 12.167,
+   "text": "Fungsi smart cook ni dia adalah"
+  },
+  {
+   "start": 12.167,
+   "end": 14.207,
+   "text": "gabungan dua kaedah memasak"
+  },
+  {
+   "start": 14.207,
+   "end": 16.587,
+   "text": "iaitu kaedah merebus ataupun"
+  },
+  {
+   "start": 16.587,
+   "end": 18.447,
+   "text": "mereneh dan juga membakar."
+  },
+  {
+   "start": 18.627,
+   "end": 20.327,
+   "text": "So kalau apa-apa fungsi yang"
+  },
+  {
+   "start": 20.327,
+   "end": 21.507,
+   "text": "kita nak kena rebus dulu"
+  },
+  {
+   "start": 21.507,
+   "end": 22.927,
+   "text": "lepas tu baru kita nak bakar"
+  },
+  {
+   "start": 22.927,
+   "end": 24.167,
+   "text": "kita dah tak payah nak guna"
+  },
+  {
+   "start": 24.167,
+   "end": 25.287,
+   "text": "dua fungsi yang berbeza."
+  },
+  {
+   "start": 25.467,
+   "end": 26.547,
+   "text": "Kita tekan sahaja"
+  },
+  {
+   "start": 26.547,
+   "end": 27.307,
+   "text": "fungsi smart cook."
+  },
+  {
+   "start": 27.46,
+   "end": 28.78,
+   "text": "So apa contoh masakan yang"
+  },
+  {
+   "start": 28.78,
+   "end": 29.6,
+   "text": "kita boleh masak dengan"
+  },
+  {
+   "start": 29.6,
+   "end": 30.46,
+   "text": "fungsi smart cook ni?"
+  },
+  {
+   "start": 30.72,
+   "end": 31.7,
+   "text": "Contoh nasi goreng"
+  },
+  {
+   "start": 31.7,
+   "end": 32.62,
+   "text": "daripada beras,"
+  },
+  {
+   "start": 32.793,
+   "end": 33.693,
+   "text": "lepas tu contoh lagi"
+  },
+  {
+   "start": 33.693,
+   "end": 34.613,
+   "text": "kita boleh buat"
+  },
+  {
+   "start": 34.793,
+   "end": 36.013,
+   "text": "one pot tuna sushi bake."
+  },
+  {
+   "start": 36.233,
+   "end": 37.373,
+   "text": "Lepas tu kita boleh buat"
+  },
+  {
+   "start": 37.373,
+   "end": 38.513,
+   "text": "one pot mac and cheese."
+  },
+  {
+   "start": 38.693,
+   "end": 40.353,
+   "text": "Apa perbezaan kalau"
+  },
+  {
+   "start": 40.353,
+   "end": 41.293,
+   "text": "kita guna fungsi smart"
+  },
+  {
+   "start": 41.293,
+   "end": 41.973,
+   "text": "cook dengan cooker?"
+  },
+  {
+   "start": 42.253,
+   "end": 43.473,
+   "text": "Bila kita guna fungsi"
+  },
+  {
+   "start": 43.473,
+   "end": 44.733,
+   "text": "smart cook, kita tinggal"
+  },
+  {
+   "start": 44.733,
+   "end": 46.833,
+   "text": "lah 20 minit tanpa kacau,"
+  },
+  {
+   "start": 47.027,
+   "end": 48.847,
+   "text": "dia takkan hangit dan dia tidak"
+  },
+  {
+   "start": 48.847,
+   "end": 50.647,
+   "text": "akan mengeringkan kuah berbanding"
+  },
+  {
+   "start": 50.647,
+   "end": 52.047,
+   "text": "kita guna fungsi cooker."
+  }
+ ],
+ "duration": 54.367
+}

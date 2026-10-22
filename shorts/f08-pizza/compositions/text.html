@@ -99,12 +99,12 @@
         <div class="hook-title">Fungsi Pizza:<br />siap secepat 6 minit</div>
       </div>
     </div>
-
+    <div id="pt-0" class="clip point" data-start="6.26" data-duration="3.2"><span>Secepat 6 minit</span></div>
     <div id="end" class="clip" data-start="48.867" data-duration="2.2">
       <div class="end-box">
         <div class="end-series">FUNGSI COOVEN · 8</div>
         <div class="end-rule"></div>
-        <div class="end-text">Follow untuk tip seterusnya</div>
+        <div class="end-text">Follow Kay sekarang untuk lebih banyak tips</div>
       </div>
     </div>
   </div>
@@ -118,7 +118,8 @@
   tl.fromTo("#hook .hook-rule", { scaleX: 0.2 }, { scaleX: 1, duration: 0.6, ease: "power3.out" }, 0);
   tl.fromTo("#hook .hook-title", { opacity: 0.85, y: 10 }, { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }, 0);
   tl.to("#hook .hook", { opacity: 0, y: -12, duration: 0.4, ease: "power2.in" }, titleEnd - 0.42);
-
+  tl.fromTo("#pt-0 span", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.45, ease: "power2.out" }, 6.26);
+  tl.to("#pt-0 span", { opacity: 0, duration: 0.35, ease: "power2.in" }, 9.110);
   tl.fromTo("#end .end-box", { opacity: 0, y: 12 }, { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }, endStart);
   window.__timelines = window.__timelines || {};
   window.__timelines["text"] = tl;

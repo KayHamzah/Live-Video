@@ -1,0 +1,127 @@
+<template>
+  <style>
+    #text {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      font-family: "Inter", sans-serif;
+      color: #fff;
+    }
+    #text .clip {
+      position: absolute;
+      inset: 0;
+    }
+    /* series label: quiet, top-left, inside the platform-safe band */
+    .series {
+      position: absolute;
+      left: 72px;
+      top: 190px;
+      padding: 8px 16px 9px 18px;
+      background: rgba(0, 0, 0, 0.55);
+      border-radius: 4px;
+      font-size: 28px;
+      font-weight: 500;
+      letter-spacing: 0.24em;
+    }
+    #hook-scrim {
+      background: linear-gradient(180deg, rgba(0, 0, 0, 0.72) 0%, rgba(0, 0, 0, 0.55) 26%, rgba(0, 0, 0, 0) 46%);
+    }
+    .hook {
+      position: absolute;
+      left: 72px;
+      right: 72px;
+      top: 262px;
+    }
+    .hook-rule {
+      width: 88px;
+      height: 4px;
+      background: #fff;
+      transform-origin: 0 50%;
+    }
+    .hook-title {
+      margin-top: 26px;
+      font-size: 82px;
+      font-weight: 800;
+      line-height: 1.06;
+      letter-spacing: -0.02em;
+    }
+    /* key point: black on white, light weight, top-left where the hook was */
+    .point {
+      display: block;
+    }
+    .point span {
+      position: absolute;
+      left: 72px;
+      top: 262px;
+      max-width: 936px;
+      padding: 16px 28px 18px;
+      background: #fff;
+      color: #000;
+      font-size: 40px;
+      font-weight: 500;
+      line-height: 1.2;
+      border-radius: 6px;
+    }
+    #end {
+      background: #000;
+    }
+    .end-box {
+      position: absolute;
+      left: 72px;
+      right: 72px;
+      top: 820px;
+      text-align: center;
+    }
+    .end-series {
+      font-size: 28px;
+      font-weight: 500;
+      letter-spacing: 0.24em;
+      color: rgba(255, 255, 255, 0.7);
+    }
+    .end-rule {
+      width: 64px;
+      height: 3px;
+      margin: 30px auto;
+      background: #fff;
+    }
+    .end-text {
+      font-size: 52px;
+      font-weight: 600;
+      line-height: 1.2;
+    }
+  </style>
+  <div id="text" data-composition-id="text" data-width="1080" data-height="1920" data-duration="56.3">
+    <div id="series" class="clip" data-start="0" data-duration="54.1"><div class="series">FUNGSI COOVEN · 5</div></div>
+    <div id="hook-scrim" class="clip" data-start="0" data-duration="3.4"></div>
+    <div id="hook" class="clip" data-start="0" data-duration="3.4">
+      <div class="hook">
+        <div class="hook-rule"></div>
+        <div class="hook-title">Fungsi Rice:<br />tumis &amp; masak satu periuk</div>
+      </div>
+    </div>
+    <div id="pt-0" class="clip point" data-start="37.96" data-duration="3.2"><span>Secepat 15 minit</span></div>
+    <div id="end" class="clip" data-start="54.1" data-duration="2.2">
+      <div class="end-box">
+        <div class="end-series">FUNGSI COOVEN · 5</div>
+        <div class="end-rule"></div>
+        <div class="end-text">Follow Kay sekarang untuk lebih banyak tips</div>
+      </div>
+    </div>
+  </div>
+  <script>
+  const tl = gsap.timeline({ paused: true });
+  const titleEnd = 3.4;
+  const endStart = 54.1;
+  // The hook is on screen from the first frame (it is the thumbnail), then eases out.
+  tl.fromTo("#series .series", { opacity: 0 }, { opacity: 0.9, duration: 0.6, ease: "power1.out" }, titleEnd - 0.2);
+  tl.fromTo("#hook-scrim", { opacity: 1 }, { opacity: 0, duration: 0.45, ease: "power1.in" }, titleEnd - 0.45);
+  tl.fromTo("#hook .hook-rule", { scaleX: 0.2 }, { scaleX: 1, duration: 0.6, ease: "power3.out" }, 0);
+  tl.fromTo("#hook .hook-title", { opacity: 0.85, y: 10 }, { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }, 0);
+  tl.to("#hook .hook", { opacity: 0, y: -12, duration: 0.4, ease: "power2.in" }, titleEnd - 0.42);
+  tl.fromTo("#pt-0 span", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.45, ease: "power2.out" }, 37.96);
+  tl.to("#pt-0 span", { opacity: 0, duration: 0.35, ease: "power2.in" }, 40.810);
+  tl.fromTo("#end .end-box", { opacity: 0, y: 12 }, { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }, endStart);
+  window.__timelines = window.__timelines || {};
+  window.__timelines["text"] = tl;
+  </script>
+</template>

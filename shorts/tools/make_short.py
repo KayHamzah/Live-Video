@@ -53,6 +53,7 @@ GLOBAL_FIX = [
     ("food engine cooven", "Cooven"), ("food engine kooven", "Cooven"),
     ("pot ujin kooven", "Cooven"), ("foodijing cover", "Cooven"), ("kooven", "Cooven"),
     ("prop", "probe"), ("prop,", "probe,"), ("kee", "K"), ("singki", "sinki"), ("browning sugar", "brown sugar"),
+    ("cooven cooker", "Cooven"), ("cooven cook", "Cooven"), ("100 %", "100%"), ("70 %", "70%"),
     ("seikur", "seekor"), ("seko", "seekor"), ("eko", "ekor"), ("cucu", "cucur"), ("diorang", "dia orang"),
 ]
 
@@ -186,6 +187,14 @@ def subtitle_lines(words, max_chars=30):
             cur = []
     if cur:
         sentences.append(cur)
+    # a lone filler ("So,", "Okay,") reads better joined to what follows
+    merged = []
+    for sent in sentences:
+        if merged and len(" ".join(w["text"] for w in merged[-1])) < 8 and merged[-1][-1]["text"][-1] not in ".?!":
+            merged[-1] = merged[-1] + sent
+        else:
+            merged.append(sent)
+    sentences = merged
     lines = []
     for i, sent in enumerate(sentences):
         if i == 0 or sentences[i - 1][-1]["text"][-1] in ".?!":
