@@ -37,7 +37,7 @@ D=$(dur "$BUILD/base.mp4")
 # Caption windows (seconds)
 T0=0.2                                   # title in
 C1=1.3;  C1E=$O1                         # Masak 2 jam tanpa kacau (clip 1)
-C2=$(echo "$O1+0.5" | bc -l); C2E=$O2    # pun tak berkerak (clip 2)
+C2=$(echo "$O1+0.5" | bc -l); C2E=$O2    # tak berkerak (clip 2)
 C3=$(echo "$O2+0.5" | bc -l)             # lembut & sedap (clip 1 reversed)
 C3E=$(echo "$C3+3.4" | bc -l)
 SC=$(echo "$C3E+0.2" | bc -l)            # Smart Cook (until end)

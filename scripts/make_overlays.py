@@ -173,7 +173,6 @@ def main(out_dir):
         [("t", "tanpa kacau", mid, WHITE)],
     ]).save(os.path.join(out_dir, "cap1.png"))
     caption([
-        [("t", "pun", mid, WHITE)],
         [("t", "TAK BERKERAK!", big, GOLD), ("e", "✅", 66, None)],
     ]).save(os.path.join(out_dir, "cap2.png"))
     caption([
