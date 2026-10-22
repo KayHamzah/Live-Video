@@ -1,30 +1,46 @@
 #!/usr/bin/env bash
-# Render the edited dendeng video: slow-mo + boomerang, warm colour grade,
-# slow push-in, and animated title/caption overlays.
+# Render the edited dendeng video: two clips joined with crossfades, warm
+# colour grade, slow push-in, and animated title/caption overlays.
+#
+#   clip 1 (slow-mo)  ->  clip 2 (spatula shows the pot bottom)  ->  clip 1 reversed
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-IN="${1:-$ROOT/input/VID_20261022_205427.mp4}"
-OUT="${2:-$ROOT/output/dendeng_food_engine_cooven.mp4}"
+IN1="${1:-$ROOT/input/VID_20261022_205427.mp4}"
+IN2="${2:-$ROOT/input/VID_20261022_231432.mp4}"
+OUT="${3:-$ROOT/output/dendeng_food_engine_cooven.mp4}"
 BUILD="$ROOT/build"
+XF=0.5                 # crossfade length (s)
 
 python3 "$ROOT/scripts/make_overlays.py" "$BUILD"
 mkdir -p "$(dirname "$OUT")"
 
-# 1) Base clip: half speed (60fps -> smooth 30fps slow-mo), then play it back
-#    in reverse so the 3.4s source becomes a ~13.7s seamless loop.
-ffmpeg -v error -y -i "$IN" -an \
-  -filter_complex "[0:v]setpts=2*PTS,fps=30,format=yuv420p,split[a][b];[b]reverse[r];[a][r]concat=n=2:v=1[v]" \
+dur() { ffprobe -v error -show_entries format=duration -of csv=p=0 "$1"; }
+
+# 1) Base clip. Clip 1 at half speed (60fps -> smooth 30fps slow-mo), clip 2
+#    at 0.6x, then clip 1 again in reverse for the ending.
+D1=$(echo "$(dur "$IN1")*2" | bc -l)
+D2=$(echo "$(dur "$IN2")/0.6" | bc -l)
+O1=$(echo "$D1-$XF" | bc -l)
+O2=$(echo "$D1+$D2-2*$XF" | bc -l)
+NORM="fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1,format=yuv420p,settb=AVTB"
+ffmpeg -v error -y -i "$IN1" -i "$IN2" -an \
+  -filter_complex "
+    [0:v]setpts=2*PTS,$NORM,split[a][b];[b]reverse,setpts=PTS-STARTPTS[r];
+    [1:v]setpts=PTS/0.6,$NORM[c];
+    [a][c]xfade=transition=fade:duration=$XF:offset=$O1[ac];
+    [ac][r]xfade=transition=fade:duration=$XF:offset=$O2[v]" \
   -map "[v]" -c:v libx264 -crf 12 -preset fast "$BUILD/base.mp4"
 
-D=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$BUILD/base.mp4")
+D=$(dur "$BUILD/base.mp4")
 
 # Caption windows (seconds)
-T0=0.2                 # title in
-C1=1.3;  C1E=4.6       # Masak 2 jam tanpa kacau
-C2=4.8;  C2E=7.9       # pun tak berkerak
-C3=8.1;  C3E=11.0      # lembut & sedap
-SC=11.2                # Smart Cook (until end)
+T0=0.2                                   # title in
+C1=1.3;  C1E=$O1                         # Masak 2 jam tanpa kacau (clip 1)
+C2=$(echo "$O1+0.5" | bc -l); C2E=$O2    # pun tak berkerak (clip 2)
+C3=$(echo "$O2+0.5" | bc -l)             # lembut & sedap (clip 1 reversed)
+C3E=$(echo "$C3+3.4" | bc -l)
+SC=$(echo "$C3E+0.2" | bc -l)            # Smart Cook (until end)
 
 # Fade in/out with a short ease-out slide up (or down for the title).
 slide() { # $1 start, $2 offset px
