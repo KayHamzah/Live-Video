@@ -1,0 +1,6 @@
+.media/
+assets/*.mp4
+assets/*.wav
+renders/
+snapshots/
+node_modules/
