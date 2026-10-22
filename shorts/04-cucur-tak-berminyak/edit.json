@@ -1,0 +1,247 @@
+{
+ "pieces": [
+  {
+   "src_in": 2440.6,
+   "src_out": 2442.74,
+   "out_start": 0.0,
+   "out_dur": 2.167
+  },
+  {
+   "src_in": 2443.04,
+   "src_out": 2445.28,
+   "out_start": 2.167,
+   "out_dur": 2.233
+  },
+  {
+   "src_in": 2445.78,
+   "src_out": 2449.24,
+   "out_start": 4.4,
+   "out_dur": 3.467
+  },
+  {
+   "src_in": 2449.78,
+   "src_out": 2451.5,
+   "out_start": 7.867,
+   "out_dur": 1.733
+  },
+  {
+   "src_in": 2453.66,
+   "src_out": 2454.3,
+   "out_start": 9.6,
+   "out_dur": 0.633
+  },
+  {
+   "src_in": 1494.06,
+   "src_out": 1500.8,
+   "out_start": 10.233,
+   "out_dur": 6.767
+  },
+  {
+   "src_in": 1501.22,
+   "src_out": 1503.12,
+   "out_start": 17.0,
+   "out_dur": 1.9
+  },
+  {
+   "src_in": 1504.4,
+   "src_out": 1506.32,
+   "out_start": 18.9,
+   "out_dur": 1.933
+  },
+  {
+   "src_in": 1507.26,
+   "src_out": 1508.22,
+   "out_start": 20.833,
+   "out_dur": 0.967
+  },
+  {
+   "src_in": 1508.56,
+   "src_out": 1512.92,
+   "out_start": 21.8,
+   "out_dur": 4.367
+  },
+  {
+   "src_in": 1514.06,
+   "src_out": 1517.52,
+   "out_start": 26.167,
+   "out_dur": 3.467
+  },
+  {
+   "src_in": 1517.66,
+   "src_out": 1519.82,
+   "out_start": 29.633,
+   "out_dur": 2.167
+  },
+  {
+   "src_in": 1538.96,
+   "src_out": 1540.86,
+   "out_start": 31.8,
+   "out_dur": 1.9
+  },
+  {
+   "src_in": 1541.08,
+   "src_out": 1543.08,
+   "out_start": 33.7,
+   "out_dur": 2.0
+  },
+  {
+   "src_in": 1545.6,
+   "src_out": 1553.16,
+   "out_start": 35.7,
+   "out_dur": 7.567
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 2.02,
+   "text": "Ini cucur jagung gluten free."
+  },
+  {
+   "start": 2.227,
+   "end": 4.287,
+   "text": "Tak gunakan tepung gandum pun."
+  },
+  {
+   "start": 4.46,
+   "end": 5.58,
+   "text": "Ini adalah hasil"
+  },
+  {
+   "start": 5.58,
+   "end": 7.74,
+   "text": "kita punya cucur tu."
+  },
+  {
+   "start": 7.927,
+   "end": 9.467,
+   "text": "Dia cantik tak resap minyak."
+  },
+  {
+   "start": 9.66,
+   "end": 10.12,
+   "text": "Minyak."
+  },
+  {
+   "start": 10.293,
+   "end": 11.993,
+   "text": "Kalau you all nak tahu apa"
+  },
+  {
+   "start": 11.993,
+   "end": 14.093,
+   "text": "beza bila kita goreng menggunakan"
+  },
+  {
+   "start": 14.093,
+   "end": 15.493,
+   "text": "fungsi deep fry berbanding"
+  },
+  {
+   "start": 15.493,
+   "end": 16.853,
+   "text": "kita goreng guna kuali,"
+  },
+  {
+   "start": 17.06,
+   "end": 17.7,
+   "text": "bila kita guna"
+  },
+  {
+   "start": 17.7,
+   "end": 18.78,
+   "text": "fungsi deep fry ni,"
+  },
+  {
+   "start": 18.96,
+   "end": 20.7,
+   "text": "dia punya suhu tu safety tau."
+  },
+  {
+   "start": 20.893,
+   "end": 21.673,
+   "text": "Contoh kan,"
+  },
+  {
+   "start": 21.86,
+   "end": 23.12,
+   "text": "kalau macam sekarang kita"
+  },
+  {
+   "start": 23.12,
+   "end": 26.04,
+   "text": "gunakan suhu 180 darjah celsius,"
+  },
+  {
+   "start": 26.227,
+   "end": 27.367,
+   "text": "dia akan maintain"
+  },
+  {
+   "start": 27.367,
+   "end": 29.507,
+   "text": "sahaja pada 180 tu,"
+  },
+  {
+   "start": 29.693,
+   "end": 31.073,
+   "text": "sehinggalah habis"
+  },
+  {
+   "start": 31.073,
+   "end": 31.673,
+   "text": "dia menggoreng."
+  },
+  {
+   "start": 31.86,
+   "end": 32.54,
+   "text": "Katalah kita punya"
+  },
+  {
+   "start": 32.54,
+   "end": 33.58,
+   "text": "adunan tu sejuk,"
+  },
+  {
+   "start": 33.76,
+   "end": 34.64,
+   "text": "minyak tu pun dia"
+  },
+  {
+   "start": 34.64,
+   "end": 35.58,
+   "text": "akan sejuk balik."
+  },
+  {
+   "start": 35.76,
+   "end": 36.44,
+   "text": "Lepas tu kita kena"
+  },
+  {
+   "start": 36.44,
+   "end": 37.64,
+   "text": "kuatkan api balik."
+  },
+  {
+   "start": 37.92,
+   "end": 38.72,
+   "text": "Kadang-kadang bila"
+  },
+  {
+   "start": 38.72,
+   "end": 40.08,
+   "text": "kita silap kawal api,"
+  },
+  {
+   "start": 40.36,
+   "end": 41.72,
+   "text": "itu yang menyebabkan cucur"
+  },
+  {
+   "start": 41.72,
+   "end": 43.14,
+   "text": "kita tu serap minyak."
+  }
+ ],
+ "duration": 45.467
+}

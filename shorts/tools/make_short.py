@@ -12,6 +12,7 @@ For each video in specs.json (with data/<id>.words.json from asr_ranges.py):
 """
 import html
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -213,7 +214,11 @@ def build(video, source, work_root):
     pieces = plan(video, ranges)
     proj = ROOT / video["id"]
     (proj / "assets").mkdir(parents=True, exist_ok=True)
-    real = cut(source, pieces, work_root / video["id"], proj / "assets" / "clip.mp4")
+    work = work_root / video["id"]
+    if os.environ.get("LAYOUT_ONLY") and (proj / "assets" / "clip.mp4").exists() and len(list(work.glob("p*.mov"))) == len(pieces):
+        real = [probe_duration(f) for f in sorted(work.glob("p*.mov"))]
+    else:
+        real = cut(source, pieces, work, proj / "assets" / "clip.mp4")
 
     # words on the output timeline
     words, starts, t = [], [], 0.0
@@ -270,7 +275,7 @@ def build(video, source, work_root):
         "%CLIP_DUR%": str(clip_dur), "%TOTAL%": str(total), "%END_START%": str(clip_dur),
         "%CAM%": "\n      ".join(cam), "%POINTS%": "\n".join(points_html), "%POINTS_JS%": "\n".join(points_js),
         "%SUBS%": "\n".join(subs_html), "%SUBS_JS%": "\n".join(subs_js), "%SUBS_DUR%": str(clip_dur),
-        "%TITLE_END%": str(TITLE_END), "%END_DUR%": str(END_CARD), "%END_TEXT%": html.escape(video.get("end", "Follow untuk tip seterusnya")),
+        "%TITLE_END%": str(TITLE_END), "%END_DUR%": str(END_CARD), "%END_TEXT%": html.escape(video.get("end", "Follow Kay sekarang untuk lebih banyak tips")),
     }
     for src in TEMPLATE.rglob("*"):
         if src.is_dir():

@@ -1,0 +1,300 @@
+{
+ "pieces": [
+  {
+   "src_in": 1165.7,
+   "src_out": 1169.42,
+   "out_start": 0.0,
+   "out_dur": 3.733
+  },
+  {
+   "src_in": 1169.62,
+   "src_out": 1171.42,
+   "out_start": 3.733,
+   "out_dur": 1.8
+  },
+  {
+   "src_in": 1757.62,
+   "src_out": 1767.8,
+   "out_start": 5.533,
+   "out_dur": 10.167
+  },
+  {
+   "src_in": 1768.76,
+   "src_out": 1773.1,
+   "out_start": 15.7,
+   "out_dur": 4.333
+  },
+  {
+   "src_in": 1773.58,
+   "src_out": 1775.04,
+   "out_start": 20.033,
+   "out_dur": 1.467
+  },
+  {
+   "src_in": 1775.24,
+   "src_out": 1777.46,
+   "out_start": 21.5,
+   "out_dur": 2.233
+  },
+  {
+   "src_in": 1778.08,
+   "src_out": 1779.04,
+   "out_start": 23.733,
+   "out_dur": 0.967
+  },
+  {
+   "src_in": 1781.78,
+   "src_out": 1783.12,
+   "out_start": 24.7,
+   "out_dur": 1.333
+  },
+  {
+   "src_in": 1783.34,
+   "src_out": 1784.46,
+   "out_start": 26.033,
+   "out_dur": 1.133
+  },
+  {
+   "src_in": 1784.62,
+   "src_out": 1786.92,
+   "out_start": 27.167,
+   "out_dur": 2.3
+  },
+  {
+   "src_in": 1787.2,
+   "src_out": 1790.34,
+   "out_start": 29.467,
+   "out_dur": 3.133
+  },
+  {
+   "src_in": 1790.5,
+   "src_out": 1795.36,
+   "out_start": 32.6,
+   "out_dur": 4.867
+  },
+  {
+   "src_in": 1799.66,
+   "src_out": 1803.34,
+   "out_start": 37.467,
+   "out_dur": 3.667
+  },
+  {
+   "src_in": 1816.48,
+   "src_out": 1818.94,
+   "out_start": 41.133,
+   "out_dur": 2.467
+  },
+  {
+   "src_in": 1819.24,
+   "src_out": 1821.46,
+   "out_start": 43.6,
+   "out_dur": 2.233
+  },
+  {
+   "src_in": 1821.64,
+   "src_out": 1826.64,
+   "out_start": 45.833,
+   "out_dur": 5.0
+  },
+  {
+   "src_in": 1826.92,
+   "src_out": 1829.46,
+   "out_start": 50.833,
+   "out_dur": 2.533
+  },
+  {
+   "src_in": 1829.88,
+   "src_out": 1835.34,
+   "out_start": 53.367,
+   "out_dur": 5.467
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 1.18,
+   "text": "Kalau siapa yang buat"
+  },
+  {
+   "start": 1.18,
+   "end": 2.22,
+   "text": "resepi ni memang"
+  },
+  {
+   "start": 2.22,
+   "end": 3.6,
+   "text": "akan bau semerbak lah."
+  },
+  {
+   "start": 3.793,
+   "end": 5.413,
+   "text": "Ok satu rumah bau."
+  },
+  {
+   "start": 5.593,
+   "end": 9.293,
+   "text": "Cara dia adalah mula-mula"
+  },
+  {
+   "start": 9.293,
+   "end": 10.993,
+   "text": "kita marinade ayam tu"
+  },
+  {
+   "start": 10.993,
+   "end": 15.593,
+   "text": "dengan barbecue seasoning."
+  },
+  {
+   "start": 15.76,
+   "end": 17.44,
+   "text": "Lepas letak barbecue"
+  },
+  {
+   "start": 17.44,
+   "end": 18.32,
+   "text": "seasoning, letaklah"
+  },
+  {
+   "start": 18.32,
+   "end": 19.92,
+   "text": "dalam 2-3 sudu macam tu."
+  },
+  {
+   "start": 20.093,
+   "end": 21.373,
+   "text": "Lepas tu letak garam sikit."
+  },
+  {
+   "start": 21.56,
+   "end": 23.6,
+   "text": "Lepas tu letak minyak sikit"
+  },
+  {
+   "start": 23.793,
+   "end": 24.573,
+   "text": "letak."
+  },
+  {
+   "start": 24.76,
+   "end": 25.92,
+   "text": "Lepas tu letak oyster sauce,"
+  },
+  {
+   "start": 26.093,
+   "end": 27.033,
+   "text": "dark soy sauce,"
+  },
+  {
+   "start": 27.227,
+   "end": 28.027,
+   "text": "light soy sauce."
+  },
+  {
+   "start": 28.107,
+   "end": 29.347,
+   "text": "Yang tu kena letak semua tu."
+  },
+  {
+   "start": 29.527,
+   "end": 30.787,
+   "text": "Lepas tu letak brown sugar"
+  },
+  {
+   "start": 30.787,
+   "end": 32.487,
+   "text": "sikit ataupun gula kabung Thai."
+  },
+  {
+   "start": 32.66,
+   "end": 33.5,
+   "text": "Okey lepas dah letak"
+  },
+  {
+   "start": 33.5,
+   "end": 34.82,
+   "text": "semua tu, gaul-gaul."
+  },
+  {
+   "start": 34.88,
+   "end": 35.82,
+   "text": "Kita marinate-kan dia."
+  },
+  {
+   "start": 35.92,
+   "end": 36.68,
+   "text": "At least satu malam"
+  },
+  {
+   "start": 36.68,
+   "end": 37.34,
+   "text": "lagi sedap lah."
+  },
+  {
+   "start": 37.527,
+   "end": 39.107,
+   "text": "Tapi kalau buat overnight lagi"
+  },
+  {
+   "start": 39.107,
+   "end": 40.087,
+   "text": "sedap dia punya rasa sebab"
+  },
+  {
+   "start": 40.087,
+   "end": 41.027,
+   "text": "dia akan masuk sampai dalam."
+  },
+  {
+   "start": 41.193,
+   "end": 42.273,
+   "text": "Untuk naikkan dia"
+  },
+  {
+   "start": 42.273,
+   "end": 43.473,
+   "text": "punya bau smoke tu,"
+  },
+  {
+   "start": 43.66,
+   "end": 44.56,
+   "text": "letakkan dua"
+  },
+  {
+   "start": 44.56,
+   "end": 45.7,
+   "text": "batang kayu manis,"
+  },
+  {
+   "start": 45.893,
+   "end": 48.833,
+   "text": "tiga ketul star anise"
+  },
+  {
+   "start": 48.833,
+   "end": 50.713,
+   "text": "ataupun bunga lawang,"
+  },
+  {
+   "start": 50.893,
+   "end": 51.993,
+   "text": "lepas tu satu sudu"
+  },
+  {
+   "start": 51.993,
+   "end": 53.253,
+   "text": "kecil white peppercorn,"
+  },
+  {
+   "start": 53.427,
+   "end": 55.947,
+   "text": "lepas tu buah pelaga lebih"
+  },
+  {
+   "start": 55.947,
+   "end": 58.707,
+   "text": "kurang dalam lima biji macam tu."
+  }
+ ],
+ "duration": 61.033
+}
