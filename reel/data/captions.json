@@ -1,0 +1,1682 @@
+[
+ {
+  "text": "Tarik",
+  "start": 0.06,
+  "end": 0.9,
+  "beat": "hook",
+  "cut": 0
+ },
+ {
+  "text": "guna",
+  "start": 0.9,
+  "end": 1.1,
+  "beat": "hook",
+  "cut": 0
+ },
+ {
+  "text": "penyepit",
+  "start": 1.1,
+  "end": 1.52,
+  "beat": "hook",
+  "cut": 0
+ },
+ {
+  "text": "sahaja",
+  "start": 1.52,
+  "end": 1.96,
+  "beat": "hook",
+  "cut": 0
+ },
+ {
+  "text": "Haa",
+  "start": 2.127,
+  "end": 2.767,
+  "beat": "hook",
+  "cut": 1
+ },
+ {
+  "text": "nampak",
+  "start": 2.767,
+  "end": 3.127,
+  "beat": "hook",
+  "cut": 1
+ },
+ {
+  "text": "tak",
+  "start": 3.127,
+  "end": 3.367,
+  "beat": "hook",
+  "cut": 1
+ },
+ {
+  "text": "Punyalah",
+  "start": 3.527,
+  "end": 4.167,
+  "beat": "hook",
+  "cut": 2
+ },
+ {
+  "text": "dia",
+  "start": 4.167,
+  "end": 4.367,
+  "beat": "hook",
+  "cut": 2
+ },
+ {
+  "text": "masak",
+  "start": 4.367,
+  "end": 4.847,
+  "beat": "hook",
+  "cut": 2
+ },
+ {
+  "text": "sehingga",
+  "start": 4.847,
+  "end": 5.347,
+  "beat": "hook",
+  "cut": 2
+ },
+ {
+  "text": "ke",
+  "start": 5.347,
+  "end": 5.567,
+  "beat": "hook",
+  "cut": 2
+ },
+ {
+  "text": "tulang",
+  "start": 5.567,
+  "end": 6.027,
+  "beat": "hook",
+  "cut": 2
+ },
+ {
+  "text": "Bukan",
+  "start": 6.12,
+  "end": 6.36,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "kerja",
+  "start": 6.36,
+  "end": 6.66,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "masak",
+  "start": 6.66,
+  "end": 6.98,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "tu",
+  "start": 6.98,
+  "end": 7.1,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "yang",
+  "start": 7.1,
+  "end": 7.18,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "penat.",
+  "start": 7.18,
+  "end": 7.5,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "Tapi",
+  "start": 7.7,
+  "end": 8.04,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "penatnya",
+  "start": 8.04,
+  "end": 8.54,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "adalah",
+  "start": 8.54,
+  "end": 8.8,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "kerja",
+  "start": 8.8,
+  "end": 9.12,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "mengemas",
+  "start": 9.12,
+  "end": 9.52,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "selepas",
+  "start": 9.52,
+  "end": 9.84,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "masak",
+  "start": 9.84,
+  "end": 10.2,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "tu.",
+  "start": 10.2,
+  "end": 10.36,
+  "beat": "premise",
+  "cut": 3
+ },
+ {
+  "text": "So",
+  "start": 10.44,
+  "end": 10.74,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "sebelum",
+  "start": 10.74,
+  "end": 11.22,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "nak",
+  "start": 11.22,
+  "end": 11.36,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "bakar",
+  "start": 11.36,
+  "end": 11.7,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "ayam,",
+  "start": 11.7,
+  "end": 12.1,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "kita",
+  "start": 12.28,
+  "end": 12.48,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "ni",
+  "start": 12.48,
+  "end": 12.66,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "kan",
+  "start": 12.66,
+  "end": 12.86,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "jenis",
+  "start": 12.86,
+  "end": 13.2,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "tak",
+  "start": 13.2,
+  "end": 13.38,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "berapa",
+  "start": 13.38,
+  "end": 13.72,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "nak",
+  "start": 13.72,
+  "end": 14.02,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "rajin",
+  "start": 14.02,
+  "end": 14.5,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "membasuh",
+  "start": 14.5,
+  "end": 15.12,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "kan",
+  "start": 15.12,
+  "end": 15.62,
+  "beat": "tip-lapik",
+  "cut": 4
+ },
+ {
+  "text": "So",
+  "start": 15.707,
+  "end": 16.167,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "you",
+  "start": 16.167,
+  "end": 16.347,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "all",
+  "start": 16.347,
+  "end": 16.427,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "letak",
+  "start": 16.427,
+  "end": 16.767,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "je",
+  "start": 16.767,
+  "end": 16.907,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "baking",
+  "start": 16.907,
+  "end": 17.147,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "paper",
+  "start": 17.147,
+  "end": 17.467,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "ni",
+  "start": 17.467,
+  "end": 17.627,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "kat",
+  "start": 17.627,
+  "end": 17.787,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "dalam",
+  "start": 17.787,
+  "end": 18.027,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "ni",
+  "start": 18.027,
+  "end": 18.247,
+  "beat": "tip-lapik",
+  "cut": 5
+ },
+ {
+  "text": "Tak",
+  "start": 18.317,
+  "end": 18.957,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "payahlah",
+  "start": 18.957,
+  "end": 19.357,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "kita",
+  "start": 19.357,
+  "end": 19.597,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "nak",
+  "start": 19.597,
+  "end": 19.757,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "basuh",
+  "start": 19.757,
+  "end": 20.077,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "beria",
+  "start": 20.077,
+  "end": 20.377,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "Nak",
+  "start": 20.377,
+  "end": 20.557,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "menyental",
+  "start": 20.557,
+  "end": 20.997,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "beria",
+  "start": 20.997,
+  "end": 21.397,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "semua",
+  "start": 21.397,
+  "end": 21.697,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "tu",
+  "start": 21.697,
+  "end": 21.897,
+  "beat": "tip-lapik",
+  "cut": 6
+ },
+ {
+  "text": "Kita",
+  "start": 21.963,
+  "end": 22.303,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "guna",
+  "start": 22.303,
+  "end": 22.663,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "oven",
+  "start": 22.663,
+  "end": 23.023,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "Kita",
+  "start": 23.023,
+  "end": 23.403,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "guna",
+  "start": 23.403,
+  "end": 23.683,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "air",
+  "start": 23.683,
+  "end": 23.863,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "fryer",
+  "start": 23.863,
+  "end": 24.203,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "10",
+  "start": 24.203,
+  "end": 24.963,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "tahun",
+  "start": 24.963,
+  "end": 25.423,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "kita",
+  "start": 25.423,
+  "end": 25.643,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "guna",
+  "start": 25.643,
+  "end": 25.983,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "10",
+  "start": 25.983,
+  "end": 26.363,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "tahun",
+  "start": 26.363,
+  "end": 26.863,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "lah",
+  "start": 26.863,
+  "end": 27.023,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "kita",
+  "start": 27.023,
+  "end": 27.223,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "tak",
+  "start": 27.223,
+  "end": 27.363,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "pernah",
+  "start": 27.363,
+  "end": 27.583,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "cuci",
+  "start": 27.583,
+  "end": 27.923,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "Betul",
+  "start": 27.923,
+  "end": 28.203,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "tak?",
+  "start": 28.203,
+  "end": 28.363,
+  "beat": "joke-oven",
+  "cut": 7
+ },
+ {
+  "text": "Okey",
+  "start": 28.42,
+  "end": 28.94,
+  "beat": "tip-aroma",
+  "cut": 8
+ },
+ {
+  "text": "satu",
+  "start": 28.94,
+  "end": 29.2,
+  "beat": "tip-aroma",
+  "cut": 8
+ },
+ {
+  "text": "rumah",
+  "start": 29.2,
+  "end": 29.56,
+  "beat": "tip-aroma",
+  "cut": 8
+ },
+ {
+  "text": "bau.",
+  "start": 29.56,
+  "end": 29.86,
+  "beat": "tip-aroma",
+  "cut": 8
+ },
+ {
+  "text": "Sebab",
+  "start": 29.94,
+  "end": 30.7,
+  "beat": "tip-aroma",
+  "cut": 9
+ },
+ {
+  "text": "kita",
+  "start": 30.7,
+  "end": 31.14,
+  "beat": "tip-aroma",
+  "cut": 9
+ },
+ {
+  "text": "guna",
+  "start": 31.14,
+  "end": 31.46,
+  "beat": "tip-aroma",
+  "cut": 9
+ },
+ {
+  "text": "buah",
+  "start": 31.46,
+  "end": 31.66,
+  "beat": "tip-aroma",
+  "cut": 9
+ },
+ {
+  "text": "orange",
+  "start": 31.66,
+  "end": 32.1,
+  "beat": "tip-aroma",
+  "cut": 9
+ },
+ {
+  "text": "lepas",
+  "start": 32.1,
+  "end": 32.74,
+  "beat": "tip-aroma",
+  "cut": 9
+ },
+ {
+  "text": "tu",
+  "start": 32.74,
+  "end": 32.98,
+  "beat": "tip-aroma",
+  "cut": 9
+ },
+ {
+  "text": "ada",
+  "start": 32.98,
+  "end": 33.4,
+  "beat": "tip-aroma",
+  "cut": 9
+ },
+ {
+  "text": "serai.",
+  "start": 33.4,
+  "end": 34.1,
+  "beat": "tip-aroma",
+  "cut": 9
+ },
+ {
+  "text": "Lepas",
+  "start": 34.26,
+  "end": 34.64,
+  "beat": "tip-aroma",
+  "cut": 10
+ },
+ {
+  "text": "tu",
+  "start": 34.64,
+  "end": 34.74,
+  "beat": "tip-aroma",
+  "cut": 10
+ },
+ {
+  "text": "kita",
+  "start": 34.74,
+  "end": 34.96,
+  "beat": "tip-aroma",
+  "cut": 10
+ },
+ {
+  "text": "guna",
+  "start": 34.96,
+  "end": 35.56,
+  "beat": "tip-aroma",
+  "cut": 10
+ },
+ {
+  "text": "kulit",
+  "start": 35.56,
+  "end": 36.46,
+  "beat": "tip-aroma",
+  "cut": 10
+ },
+ {
+  "text": "kayu",
+  "start": 36.46,
+  "end": 36.72,
+  "beat": "tip-aroma",
+  "cut": 10
+ },
+ {
+  "text": "manis",
+  "start": 36.72,
+  "end": 37.14,
+  "beat": "tip-aroma",
+  "cut": 10
+ },
+ {
+  "text": "Kita",
+  "start": 37.227,
+  "end": 38.327,
+  "beat": "tip-probe",
+  "cut": 11
+ },
+ {
+  "text": "cucuk",
+  "start": 38.327,
+  "end": 38.827,
+  "beat": "tip-probe",
+  "cut": 11
+ },
+ {
+  "text": "dekat",
+  "start": 38.827,
+  "end": 39.087,
+  "beat": "tip-probe",
+  "cut": 11
+ },
+ {
+  "text": "bahagian",
+  "start": 39.087,
+  "end": 39.987,
+  "beat": "tip-probe",
+  "cut": 11
+ },
+ {
+  "text": "Isi",
+  "start": 40.06,
+  "end": 40.66,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "yang",
+  "start": 40.66,
+  "end": 40.78,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "paling",
+  "start": 40.78,
+  "end": 41.02,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "tebal",
+  "start": 41.02,
+  "end": 41.36,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "Okay",
+  "start": 41.36,
+  "end": 41.82,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "biasa",
+  "start": 41.82,
+  "end": 42.16,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "ni",
+  "start": 42.16,
+  "end": 42.3,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "kita",
+  "start": 42.3,
+  "end": 42.44,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "ambil",
+  "start": 42.44,
+  "end": 42.58,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "bahagian",
+  "start": 42.58,
+  "end": 42.86,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "dada",
+  "start": 42.86,
+  "end": 43.14,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "lah",
+  "start": 43.14,
+  "end": 43.36,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "Sebab",
+  "start": 43.36,
+  "end": 43.7,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "isi",
+  "start": 43.7,
+  "end": 44.02,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "dia",
+  "start": 44.02,
+  "end": 44.16,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "paling",
+  "start": 44.16,
+  "end": 44.42,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "tebal",
+  "start": 44.42,
+  "end": 44.78,
+  "beat": "tip-probe",
+  "cut": 12
+ },
+ {
+  "text": "Suhu",
+  "start": 44.863,
+  "end": 45.283,
+  "beat": "tip-probe",
+  "cut": 13
+ },
+ {
+  "text": "yang",
+  "start": 45.283,
+  "end": 45.423,
+  "beat": "tip-probe",
+  "cut": 13
+ },
+ {
+  "text": "kita",
+  "start": 45.423,
+  "end": 45.643,
+  "beat": "tip-probe",
+  "cut": 13
+ },
+ {
+  "text": "nak",
+  "start": 45.643,
+  "end": 45.803,
+  "beat": "tip-probe",
+  "cut": 13
+ },
+ {
+  "text": "capai",
+  "start": 45.803,
+  "end": 46.183,
+  "beat": "tip-probe",
+  "cut": 13
+ },
+ {
+  "text": "adalah",
+  "start": 46.183,
+  "end": 46.563,
+  "beat": "tip-probe",
+  "cut": 13
+ },
+ {
+  "text": "77",
+  "start": 46.563,
+  "end": 47.383,
+  "beat": "tip-probe",
+  "cut": 13
+ },
+ {
+  "text": "darjah",
+  "start": 47.383,
+  "end": 48.163,
+  "beat": "tip-probe",
+  "cut": 13
+ },
+ {
+  "text": "celsius",
+  "start": 48.163,
+  "end": 48.623,
+  "beat": "tip-probe",
+  "cut": 13
+ },
+ {
+  "text": "suhu",
+  "start": 48.663,
+  "end": 49.003,
+  "beat": "tip-180",
+  "cut": 14
+ },
+ {
+  "text": "180",
+  "start": 49.003,
+  "end": 49.783,
+  "beat": "tip-180",
+  "cut": 14
+ },
+ {
+  "text": "darjah",
+  "start": 49.783,
+  "end": 50.443,
+  "beat": "tip-180",
+  "cut": 14
+ },
+ {
+  "text": "Celsius.",
+  "start": 50.443,
+  "end": 50.923,
+  "beat": "tip-180",
+  "cut": 14
+ },
+ {
+  "text": "Dia",
+  "start": 50.963,
+  "end": 51.423,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "akan",
+  "start": 51.423,
+  "end": 51.683,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "maintain",
+  "start": 51.683,
+  "end": 52.143,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "sahaja",
+  "start": 52.143,
+  "end": 52.623,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "pada",
+  "start": 52.623,
+  "end": 52.903,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "180",
+  "start": 52.903,
+  "end": 53.623,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "tu",
+  "start": 53.623,
+  "end": 54.263,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "sehinggalah",
+  "start": 54.263,
+  "end": 55.683,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "habis",
+  "start": 55.683,
+  "end": 55.983,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "dia",
+  "start": 55.983,
+  "end": 56.163,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "menggoreng.",
+  "start": 56.163,
+  "end": 56.6,
+  "beat": "tip-180",
+  "cut": 15
+ },
+ {
+  "text": "Kadang-kadang",
+  "start": 56.65,
+  "end": 57.21,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "bila",
+  "start": 57.21,
+  "end": 57.43,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "kita",
+  "start": 57.43,
+  "end": 57.69,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "silap",
+  "start": 57.69,
+  "end": 58.05,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "kawal",
+  "start": 58.05,
+  "end": 58.33,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "api",
+  "start": 58.33,
+  "end": 58.81,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "itu",
+  "start": 58.81,
+  "end": 59.29,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "yang",
+  "start": 59.29,
+  "end": 59.49,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "menyebabkan",
+  "start": 59.49,
+  "end": 60.09,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "cucur",
+  "start": 60.09,
+  "end": 60.41,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "kita",
+  "start": 60.41,
+  "end": 60.69,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "tu",
+  "start": 60.69,
+  "end": 60.85,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "serap",
+  "start": 60.85,
+  "end": 61.23,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "minyak.",
+  "start": 61.23,
+  "end": 61.71,
+  "beat": "tip-180",
+  "cut": 16
+ },
+ {
+  "text": "dia",
+  "start": 61.817,
+  "end": 62.817,
+  "beat": "tip-180",
+  "cut": 17
+ },
+ {
+  "text": "cantik",
+  "start": 62.817,
+  "end": 63.257,
+  "beat": "tip-180",
+  "cut": 17
+ },
+ {
+  "text": "tak",
+  "start": 63.257,
+  "end": 63.397,
+  "beat": "tip-180",
+  "cut": 17
+ },
+ {
+  "text": "resah",
+  "start": 63.397,
+  "end": 63.597,
+  "beat": "tip-180",
+  "cut": 17
+ },
+ {
+  "text": "minyak",
+  "start": 63.597,
+  "end": 64.057,
+  "beat": "tip-180",
+  "cut": 17
+ },
+ {
+  "text": "Sebab",
+  "start": 64.173,
+  "end": 65.033,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "tu",
+  "start": 65.033,
+  "end": 65.173,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "dekat",
+  "start": 65.173,
+  "end": 65.373,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "rumah",
+  "start": 65.373,
+  "end": 65.653,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "K",
+  "start": 65.653,
+  "end": 65.893,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "pun",
+  "start": 65.893,
+  "end": 66.053,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "dah",
+  "start": 66.053,
+  "end": 66.213,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "tak",
+  "start": 66.213,
+  "end": 66.353,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "ada",
+  "start": 66.353,
+  "end": 66.473,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "dapur",
+  "start": 66.473,
+  "end": 66.653,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "gas",
+  "start": 66.653,
+  "end": 67.113,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "Sebab",
+  "start": 67.113,
+  "end": 67.893,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "hari",
+  "start": 67.893,
+  "end": 68.433,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "tu",
+  "start": 68.433,
+  "end": 68.573,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "lepas",
+  "start": 68.573,
+  "end": 68.973,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "beli",
+  "start": 68.973,
+  "end": 69.273,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "Cooven",
+  "start": 69.473,
+  "end": 69.673,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "ni",
+  "start": 69.673,
+  "end": 69.813,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "dapur",
+  "start": 69.813,
+  "end": 70.033,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "gas",
+  "start": 70.033,
+  "end": 70.173,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "rosak",
+  "start": 70.173,
+  "end": 70.553,
+  "beat": "joke-dapur",
+  "cut": 18
+ },
+ {
+  "text": "Haa",
+  "start": 70.62,
+  "end": 71.24,
+  "beat": "reveal",
+  "cut": 19
+ },
+ {
+  "text": "nampak",
+  "start": 71.24,
+  "end": 71.56,
+  "beat": "reveal",
+  "cut": 19
+ },
+ {
+  "text": "tak",
+  "start": 71.56,
+  "end": 71.7,
+  "beat": "reveal",
+  "cut": 19
+ },
+ {
+  "text": "ayam",
+  "start": 71.7,
+  "end": 71.96,
+  "beat": "reveal",
+  "cut": 19
+ },
+ {
+  "text": "kita",
+  "start": 71.96,
+  "end": 72.16,
+  "beat": "reveal",
+  "cut": 19
+ },
+ {
+  "text": "dah",
+  "start": 72.16,
+  "end": 72.3,
+  "beat": "reveal",
+  "cut": 19
+ },
+ {
+  "text": "siap",
+  "start": 72.3,
+  "end": 72.78,
+  "beat": "reveal",
+  "cut": 19
+ },
+ {
+  "text": "Kata",
+  "start": 72.84,
+  "end": 73.26,
+  "beat": "reveal",
+  "cut": 20
+ },
+ {
+  "text": "ayam",
+  "start": 73.26,
+  "end": 73.66,
+  "beat": "reveal",
+  "cut": 20
+ },
+ {
+  "text": "ni",
+  "start": 73.66,
+  "end": 73.8,
+  "beat": "reveal",
+  "cut": 20
+ },
+ {
+  "text": "gelap",
+  "start": 73.8,
+  "end": 74.26,
+  "beat": "reveal",
+  "cut": 20
+ },
+ {
+  "text": "hitam",
+  "start": 74.26,
+  "end": 74.86,
+  "beat": "reveal",
+  "cut": 20
+ },
+ {
+  "text": "Itu",
+  "start": 74.86,
+  "end": 75.44,
+  "beat": "reveal",
+  "cut": 20
+ },
+ {
+  "text": "normal",
+  "start": 75.44,
+  "end": 75.82,
+  "beat": "reveal",
+  "cut": 20
+ },
+ {
+  "text": "tau",
+  "start": 75.82,
+  "end": 76.08,
+  "beat": "reveal",
+  "cut": 20
+ },
+ {
+  "text": "sebab",
+  "start": 76.08,
+  "end": 76.567,
+  "beat": "reveal",
+  "cut": 20
+ },
+ {
+  "text": "Kita",
+  "start": 76.567,
+  "end": 76.827,
+  "beat": "reveal",
+  "cut": 21
+ },
+ {
+  "text": "guna",
+  "start": 76.827,
+  "end": 77.107,
+  "beat": "reveal",
+  "cut": 21
+ },
+ {
+  "text": "kicap,",
+  "start": 77.107,
+  "end": 77.547,
+  "beat": "reveal",
+  "cut": 21
+ },
+ {
+  "text": "kita",
+  "start": 77.787,
+  "end": 77.787,
+  "beat": "reveal",
+  "cut": 21
+ },
+ {
+  "text": "guna",
+  "start": 77.787,
+  "end": 78.107,
+  "beat": "reveal",
+  "cut": 21
+ },
+ {
+  "text": "brown",
+  "start": 78.107,
+  "end": 78.307,
+  "beat": "reveal",
+  "cut": 21
+ },
+ {
+  "text": "sugar",
+  "start": 78.307,
+  "end": 78.747,
+  "beat": "reveal",
+  "cut": 21
+ },
+ {
+  "text": "Tak",
+  "start": 78.81,
+  "end": 78.97,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "payah",
+  "start": 78.97,
+  "end": 79.25,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "dah",
+  "start": 79.25,
+  "end": 79.41,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "nak",
+  "start": 79.41,
+  "end": 79.57,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "pergi",
+  "start": 79.57,
+  "end": 79.79,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "Kenny",
+  "start": 79.79,
+  "end": 80.03,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "Rogers",
+  "start": 80.03,
+  "end": 80.43,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "ke",
+  "start": 80.43,
+  "end": 80.65,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "Nak",
+  "start": 80.65,
+  "end": 80.91,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "pergi",
+  "start": 80.91,
+  "end": 81.13,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "Baker's",
+  "start": 81.13,
+  "end": 81.51,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "Cottage",
+  "start": 81.51,
+  "end": 81.83,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "ke",
+  "start": 81.83,
+  "end": 81.95,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "Nak",
+  "start": 81.95,
+  "end": 82.07,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "beli",
+  "start": 82.07,
+  "end": 82.25,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "ayam",
+  "start": 82.25,
+  "end": 82.47,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "bakar",
+  "start": 82.47,
+  "end": 82.71,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "seekor",
+  "start": 82.71,
+  "end": 82.93,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "Tak",
+  "start": 82.93,
+  "end": 83.07,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "payah",
+  "start": 83.07,
+  "end": 83.37,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "Kita",
+  "start": 83.37,
+  "end": 83.83,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "bakar",
+  "start": 83.83,
+  "end": 84.07,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "sendiri",
+  "start": 84.07,
+  "end": 84.43,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "je",
+  "start": 84.43,
+  "end": 84.59,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "kat",
+  "start": 84.59,
+  "end": 84.71,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "rumah",
+  "start": 84.71,
+  "end": 84.99,
+  "beat": "closer",
+  "cut": 22
+ },
+ {
+  "text": "Jimat",
+  "start": 85.067,
+  "end": 85.527,
+  "beat": "closer",
+  "cut": 23
+ },
+ {
+  "text": "duit",
+  "start": 85.527,
+  "end": 85.987,
+  "beat": "closer",
+  "cut": 23
+ }
+]

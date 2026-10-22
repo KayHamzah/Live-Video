@@ -1,0 +1,571 @@
+<template>
+  <style>
+    #overlays {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      font-family: "Montserrat", sans-serif;
+      color: #fff6e8;
+      --gold: #f4bf55;
+      --cream: #fff6e8;
+      --espresso: rgba(26, 17, 10, 0.86);
+      --ember: #e2683c;
+    }
+    #overlays .clip {
+      position: absolute;
+      inset: 0;
+    }
+
+    /* ---------- hook title ---------- */
+    #hook-scrim {
+      background: linear-gradient(180deg, rgba(20, 12, 6, 0) 38%, rgba(20, 12, 6, 0.55) 52%, rgba(20, 12, 6, 0.35) 70%, rgba(20, 12, 6, 0) 82%);
+    }
+    .hook-box {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 830px;
+      text-align: center;
+    }
+    .hook-kicker {
+      font-weight: 700;
+      font-size: 34px;
+      letter-spacing: 0.32em;
+      color: var(--gold);
+    }
+    .hook-title {
+      margin-top: 10px;
+      font-family: "Playfair Display", serif;
+      font-style: italic;
+      font-weight: 700;
+      font-size: 104px;
+      line-height: 1.02;
+      text-shadow: 0 6px 24px rgba(0, 0, 0, 0.55);
+    }
+    .hook-rule {
+      width: 260px;
+      height: 4px;
+      margin: 22px auto 0;
+      background: var(--gold);
+      transform-origin: 50% 50%;
+    }
+
+    /* ---------- premise statement ---------- */
+    .statement {
+      position: absolute;
+      left: 70px;
+      right: 70px;
+      top: 300px;
+      text-align: center;
+    }
+    .statement .s1 {
+      display: inline-block;
+      padding: 8px 30px 14px;
+      background: var(--espresso);
+      border-radius: 14px;
+      font-family: "Playfair Display", serif;
+      font-style: italic;
+      font-size: 64px;
+    }
+    .statement .s2 {
+      display: inline-block;
+      margin-top: 14px;
+      padding: 10px 34px 14px;
+      background: var(--gold);
+      color: #24160b;
+      font-weight: 900;
+      font-size: 92px;
+      letter-spacing: 0.02em;
+      border-radius: 14px;
+    }
+
+    /* ---------- tip cards (top of the safe band) ---------- */
+    .tip-card {
+      position: absolute;
+      left: 60px;
+      top: 196px;
+      display: flex;
+      align-items: center;
+      gap: 26px;
+      padding: 22px 38px 22px 22px;
+      background: var(--espresso);
+      border: 2px solid rgba(244, 191, 85, 0.55);
+      border-radius: 28px;
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
+      backdrop-filter: blur(14px);
+    }
+    .tip-num {
+      width: 112px;
+      height: 112px;
+      border-radius: 22px;
+      background: var(--gold);
+      color: #24160b;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-weight: 900;
+      line-height: 1;
+    }
+    .tip-num small {
+      font-size: 28px;
+      letter-spacing: 0.18em;
+    }
+    .tip-num b {
+      font-size: 64px;
+    }
+    .tip-text {
+      max-width: 700px;
+    }
+    .tip-kicker {
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: 0.22em;
+      color: var(--gold);
+    }
+    .tip-title {
+      margin-top: 6px;
+      font-size: 50px;
+      font-weight: 800;
+      line-height: 1.08;
+    }
+
+    /* ---------- stickers / stamps ---------- */
+    .sticker {
+      position: absolute;
+      padding: 14px 30px 16px;
+      border-radius: 18px;
+      font-weight: 900;
+      white-space: nowrap;
+      box-shadow: 0 14px 30px rgba(0, 0, 0, 0.35);
+    }
+    .sticker.cream {
+      background: var(--cream);
+      color: #24160b;
+    }
+    .sticker.gold {
+      background: var(--gold);
+      color: #24160b;
+    }
+    .sticker.ember {
+      background: var(--ember);
+      color: var(--cream);
+    }
+    #st-malas {
+      left: 440px;
+      top: 470px;
+      font-size: 54px;
+      transform: rotate(-5deg);
+    }
+    #st-10tahun {
+      left: 90px;
+      top: 470px;
+      font-size: 68px;
+      line-height: 1;
+      transform: rotate(-4deg);
+      text-align: center;
+    }
+    #st-10tahun small {
+      display: block;
+      margin-top: 8px;
+      font-size: 34px;
+      letter-spacing: 0.08em;
+    }
+    #st-rip {
+      left: 300px;
+      top: 520px;
+      font-size: 70px;
+      transform: rotate(4deg);
+    }
+    #st-siap {
+      left: 640px;
+      top: 700px;
+      font-size: 96px;
+      transform: rotate(-6deg);
+    }
+    #st-hitam {
+      left: 90px;
+      top: 760px;
+      font-size: 46px;
+      line-height: 1.15;
+    }
+    #st-karamel {
+      left: 90px;
+      top: 760px;
+      font-size: 44px;
+      line-height: 1.15;
+    }
+    #st-karamel b {
+      color: #8c3b12;
+    }
+    #st-takminyak {
+      left: 470px;
+      top: 760px;
+      font-size: 56px;
+      transform: rotate(-4deg);
+    }
+    #st-jimat {
+      left: 400px;
+      top: 640px;
+      font-size: 74px;
+      transform: rotate(-5deg);
+    }
+
+    /* ---------- aroma ingredient chips ---------- */
+    .chip {
+      position: absolute;
+      right: 60px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 14px 28px 14px 16px;
+      background: var(--espresso);
+      border: 2px solid rgba(244, 191, 85, 0.55);
+      border-radius: 999px;
+      font-size: 44px;
+      font-weight: 800;
+    }
+    .chip i {
+      width: 46px;
+      height: 46px;
+      border-radius: 50%;
+      font-style: normal;
+      background: var(--gold);
+      color: #24160b;
+      font-size: 28px;
+      font-weight: 900;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #chip-oren { top: 720px; }
+    #chip-serai { top: 830px; }
+    #chip-kayu { top: 940px; }
+
+    /* ---------- probe gauge ---------- */
+    .gauge {
+      position: absolute;
+      right: 60px;
+      top: 640px;
+      width: 330px;
+      padding: 26px 26px 30px;
+      background: var(--espresso);
+      border: 2px solid rgba(244, 191, 85, 0.55);
+      border-radius: 32px;
+      text-align: center;
+    }
+    .gauge-label {
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      color: var(--gold);
+    }
+    .gauge-num {
+      margin-top: 8px;
+      font-size: 120px;
+      font-weight: 900;
+      line-height: 1;
+      font-variant-numeric: tabular-nums;
+    }
+    .gauge-num sup {
+      font-size: 44px;
+      vertical-align: 52px;
+    }
+    .gauge-track {
+      margin: 18px auto 0;
+      height: 14px;
+      border-radius: 7px;
+      background: rgba(255, 246, 232, 0.18);
+      overflow: hidden;
+    }
+    .gauge-fill {
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(90deg, #f4bf55, #e2683c);
+      transform-origin: 0 50%;
+    }
+    .gauge-done {
+      margin-top: 16px;
+      font-size: 30px;
+      font-weight: 800;
+    }
+
+    /* ---------- 180°C badge ---------- */
+    .temp-badge {
+      position: absolute;
+      right: 60px;
+      top: 700px;
+      padding: 18px 34px 22px;
+      background: var(--espresso);
+      border: 2px solid rgba(244, 191, 85, 0.55);
+      border-radius: 30px;
+      text-align: center;
+    }
+    .temp-badge b {
+      display: block;
+      font-size: 118px;
+      font-weight: 900;
+      line-height: 1;
+      color: var(--gold);
+    }
+    .temp-badge span {
+      font-size: 30px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+    }
+
+    /* ---------- end card ---------- */
+    #end-scrim {
+      background: rgba(20, 12, 6, 0.86);
+    }
+    .end-box {
+      position: absolute;
+      left: 80px;
+      right: 80px;
+      top: 560px;
+      text-align: center;
+    }
+    .end-kicker {
+      font-size: 30px;
+      font-weight: 700;
+      letter-spacing: 0.3em;
+      color: var(--gold);
+    }
+    .end-title {
+      margin-top: 22px;
+      font-family: "Playfair Display", serif;
+      font-style: italic;
+      font-weight: 700;
+      font-size: 88px;
+      line-height: 1.04;
+    }
+    .end-amp {
+      color: var(--gold);
+    }
+    .end-rule {
+      width: 200px;
+      height: 4px;
+      margin: 36px auto;
+      background: var(--gold);
+    }
+    .end-cta {
+      font-size: 44px;
+      font-weight: 800;
+    }
+    .end-sub {
+      margin-top: 14px;
+      font-size: 32px;
+      font-weight: 600;
+      color: rgba(255, 246, 232, 0.75);
+    }
+  </style>
+
+  <div id="overlays" data-composition-id="overlays" data-width="1080" data-height="1920" data-duration="88.6">
+    <!-- hook -->
+    <div id="hook-scrim" class="clip" data-start="0.15" data-duration="3.35"></div>
+    <div id="hook" class="clip" data-start="0.2" data-duration="3.3">
+      <div class="hook-box">
+        <div class="hook-kicker">SMOKED BBQ CHICKEN</div>
+        <div class="hook-title">Lembut sampai<br />ke tulang.</div>
+        <div class="hook-rule"></div>
+      </div>
+    </div>
+
+    <!-- premise -->
+    <div id="premise" class="clip" data-start="6.2" data-duration="4.1">
+      <div class="statement">
+        <div class="s1">Yang penat bukan masak&hellip;</div>
+        <div class="s2">MENGEMAS!</div>
+      </div>
+    </div>
+
+    <!-- tip 1 + joke -->
+    <div id="malas" class="clip" data-start="14.4" data-duration="2.1">
+      <div id="st-malas" class="sticker gold">#GengMalasBasuh</div>
+    </div>
+    <div id="tip1" class="clip" data-start="16.6" data-duration="5.2">
+      <div class="tip-card">
+        <div class="tip-num"><small>TIP</small><b>1</b></div>
+        <div class="tip-text">
+          <div class="tip-kicker">JIMAT MASA BASUH</div>
+          <div class="tip-title">Lapik inner pot dengan baking paper</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- joke: oven -->
+    <div id="tahun" class="clip" data-start="25.9" data-duration="2.45">
+      <div id="st-10tahun" class="sticker cream">10 TAHUN<small>TAK PERNAH CUCI?!</small></div>
+    </div>
+
+    <!-- tip 2: aroma -->
+    <div id="tip2" class="clip" data-start="28.5" data-duration="8.6">
+      <div class="tip-card">
+        <div class="tip-num"><small>TIP</small><b>2</b></div>
+        <div class="tip-text">
+          <div class="tip-kicker">AROMA SMOKE</div>
+          <div class="tip-title">Sumbat dalam perut ayam</div>
+        </div>
+      </div>
+    </div>
+    <div id="oren" class="clip" data-start="31.6" data-duration="5.5">
+      <div id="chip-oren" class="chip"><i>1</i>Buah oren</div>
+    </div>
+    <div id="serai" class="clip" data-start="33.35" data-duration="3.75">
+      <div id="chip-serai" class="chip"><i>2</i>Serai</div>
+    </div>
+    <div id="kayu" class="clip" data-start="35.7" data-duration="1.4">
+      <div id="chip-kayu" class="chip"><i>3</i>Kayu manis</div>
+    </div>
+
+    <!-- tip 3: probe -->
+    <div id="tip3" class="clip" data-start="37.3" data-duration="6.3">
+      <div class="tip-card">
+        <div class="tip-num"><small>TIP</small><b>3</b></div>
+        <div class="tip-text">
+          <div class="tip-kicker">TEMPERATURE PROBE</div>
+          <div class="tip-title">Cucuk di isi paling tebal (dada)</div>
+        </div>
+      </div>
+    </div>
+    <div id="probe" class="clip" data-start="44.8" data-duration="3.8">
+      <div class="gauge">
+        <div class="gauge-label">SUHU DALAM AYAM</div>
+        <div class="gauge-num"><span id="gauge-val">20</span><sup>&deg;C</sup></div>
+        <div class="gauge-track"><div id="gauge-fill" class="gauge-fill"></div></div>
+        <div id="gauge-done" class="gauge-done">Ayam dah masak</div>
+      </div>
+    </div>
+
+    <!-- tip 4: 180 -->
+    <div id="tip4" class="clip" data-start="48.8" data-duration="4.3">
+      <div class="tip-card">
+        <div class="tip-num"><small>TIP</small><b>4</b></div>
+        <div class="tip-text">
+          <div class="tip-kicker">DEEP FRY</div>
+          <div class="tip-title">Suhu minyak mesti stabil</div>
+        </div>
+      </div>
+    </div>
+    <div id="t180" class="clip" data-start="52.8" data-duration="3.6">
+      <div class="temp-badge"><b>180&deg;C</b><span>SAMPAI HABIS GORENG</span></div>
+    </div>
+    <div id="takminyak" class="clip" data-start="62.7" data-duration="1.4">
+      <div id="st-takminyak" class="sticker gold">Tak serap minyak</div>
+    </div>
+
+    <!-- joke: gas stove -->
+    <div id="rip" class="clip" data-start="70.15" data-duration="1.2">
+      <div id="st-rip" class="sticker ember">RIP dapur gas</div>
+    </div>
+
+    <!-- reveal -->
+    <div id="siap" class="clip" data-start="72.25" data-duration="1.9">
+      <div id="st-siap" class="sticker gold">SIAP!</div>
+    </div>
+    <div id="hitam" class="clip" data-start="74.2" data-duration="2.8">
+      <div id="st-hitam" class="sticker cream">Hitam = hangit?<br />Bukan!</div>
+    </div>
+    <div id="karamel" class="clip" data-start="77.05" data-duration="1.75">
+      <div id="st-karamel" class="sticker cream">Kicap + brown sugar<br /><b>= karamel</b></div>
+    </div>
+
+    <!-- closer -->
+    <div id="jimat" class="clip" data-start="84.0" data-duration="1.0">
+      <div id="st-jimat" class="sticker gold">Bakar sendiri!</div>
+    </div>
+    <div id="end-scrim" class="clip" data-start="85.0" data-duration="3.6"></div>
+    <div id="endcard" class="clip" data-start="85.1" data-duration="3.5">
+      <div class="end-box">
+        <div class="end-kicker">RESEPI HARI INI</div>
+        <div class="end-title">Smoked BBQ Chicken<br /><span class="end-amp">&amp;</span> Cucur Jagung<br />Gluten Free</div>
+        <div class="end-rule"></div>
+        <div class="end-cta">Follow untuk resepi seterusnya</div>
+        <div class="end-sub">Dimasak sepenuhnya dengan Cooven</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    const IN = { duration: 0.4, ease: "power2.out" };
+    const OUT = { duration: 0.35, ease: "power2.in" };
+
+    // A card slides in from the left and leaves the same way.
+    function card(sel, start, end) {
+      tl.fromTo(sel, { x: -80, opacity: 0 }, { x: 0, opacity: 1, ...IN }, start);
+      tl.to(sel, { x: -60, opacity: 0, ...OUT }, end - 0.35);
+    }
+    // A sticker pops with overshoot and drops out.
+    function pop(sel, start, end, rot) {
+      tl.fromTo(sel, { scale: 0.4, opacity: 0, rotation: rot - 8 }, { scale: 1, opacity: 1, rotation: rot, duration: 0.32, ease: "back.out(2.6)" }, start);
+      tl.to(sel, { scale: 0.85, opacity: 0, duration: 0.2, ease: "power2.in" }, end - 0.2);
+    }
+
+    // hook
+    tl.fromTo("#hook-scrim", { opacity: 0 }, { opacity: 1, duration: 0.3, ease: "power1.out" }, 0.15);
+    tl.to("#hook-scrim", { opacity: 0, duration: 0.3, ease: "power1.in" }, 3.2);
+    tl.fromTo("#hook .hook-kicker", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.35, ease: "power3.out" }, 0.2);
+    tl.fromTo("#hook .hook-title", { opacity: 0, y: 40, scale: 0.94 }, { opacity: 1, y: 0, scale: 1, duration: 0.5, ease: "power3.out" }, 0.32);
+    tl.fromTo("#hook .hook-rule", { scaleX: 0 }, { scaleX: 1, duration: 0.5, ease: "power3.inOut" }, 0.6);
+    tl.to("#hook .hook-box", { opacity: 0, y: -30, duration: 0.3, ease: "power2.in" }, 3.18);
+
+    // premise
+    tl.fromTo("#premise .s1", { opacity: 0, y: 24 }, { opacity: 1, y: 0, ...IN }, 6.2);
+    tl.fromTo("#premise .s2", { opacity: 0, scale: 0.5, rotation: -6 }, { opacity: 1, scale: 1, rotation: -2, duration: 0.35, ease: "back.out(2.4)" }, 8.65);
+    tl.to("#premise .statement", { opacity: 0, y: -20, ...OUT }, 9.95);
+
+    // tip 1 + joke
+    pop("#st-malas", 14.4, 16.5, -5);
+    card("#tip1 .tip-card", 16.6, 21.8);
+
+    // joke: oven
+    pop("#st-10tahun", 25.9, 28.35, -4);
+
+    // tip 2: aroma chips arrive on their words
+    card("#tip2 .tip-card", 28.5, 31.4);
+    tl.fromTo("#chip-oren", { x: 80, opacity: 0 }, { x: 0, opacity: 1, duration: 0.3, ease: "back.out(2)" }, 31.6);
+    tl.fromTo("#chip-serai", { x: 80, opacity: 0 }, { x: 0, opacity: 1, duration: 0.3, ease: "back.out(2)" }, 33.35);
+    tl.fromTo("#chip-kayu", { x: 80, opacity: 0 }, { x: 0, opacity: 1, duration: 0.3, ease: "back.out(2)" }, 35.7);
+    tl.to(["#chip-oren", "#chip-serai", "#chip-kayu"], { x: 60, opacity: 0, duration: 0.3, ease: "power2.in", stagger: 0.05 }, 36.75);
+
+    // tip 3: probe, counting 20 -> 77 to land on the spoken "77"
+    card("#tip3 .tip-card", 37.3, 43.6);
+    tl.fromTo("#probe .gauge", { opacity: 0, y: 30 }, { opacity: 1, y: 0, ...IN }, 44.8);
+    const gauge = { v: 20 };
+    tl.fromTo(gauge, { v: 20 }, {
+      v: 77, duration: 1.6, ease: "power2.out",
+      onUpdate: () => { document.getElementById("gauge-val").textContent = Math.round(gauge.v); },
+    }, 45.0);
+    tl.fromTo("#gauge-fill", { scaleX: 0.26 }, { scaleX: 1, duration: 1.6, ease: "power2.out" }, 45.0);
+    tl.fromTo("#gauge-done", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.25, ease: "power2.out" }, 46.6);
+    tl.to("#probe .gauge", { opacity: 0, y: -20, ...OUT }, 48.25);
+
+    // tip 4: 180
+    card("#tip4 .tip-card", 48.8, 53.1);
+    tl.fromTo("#t180 .temp-badge", { opacity: 0, scale: 0.7 }, { opacity: 1, scale: 1, duration: 0.35, ease: "back.out(2)" }, 52.8);
+    tl.to("#t180 .temp-badge", { opacity: 0, scale: 0.9, ...OUT }, 56.05);
+    pop("#st-takminyak", 62.7, 64.1, -4);
+
+    // jokes + reveal
+    pop("#st-rip", 70.15, 71.35, 4);
+    pop("#st-siap", 72.25, 74.15, -6);
+    tl.fromTo("#st-hitam", { opacity: 0, x: -40 }, { opacity: 1, x: 0, ...IN }, 74.2);
+    tl.to("#st-hitam", { opacity: 0, x: -30, duration: 0.25, ease: "power2.in" }, 76.75);
+    tl.fromTo("#st-karamel", { opacity: 0, x: -40 }, { opacity: 1, x: 0, ...IN }, 77.05);
+    tl.to("#st-karamel", { opacity: 0, x: -30, duration: 0.25, ease: "power2.in" }, 78.55);
+
+    // closer + end card
+    pop("#st-jimat", 84.0, 85.0, -5);
+    tl.fromTo("#end-scrim", { opacity: 0 }, { opacity: 1, duration: 0.6, ease: "power1.inOut" }, 85.0);
+    tl.to("#end-scrim", { backgroundColor: "rgba(20, 12, 6, 1)", duration: 0.5, ease: "power1.inOut" }, 85.6);
+    tl.fromTo("#endcard .end-kicker", { opacity: 0, y: 16 }, { opacity: 1, y: 0, ...IN }, 85.2);
+    tl.fromTo("#endcard .end-title", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.55, ease: "power3.out" }, 85.35);
+    tl.fromTo("#endcard .end-rule", { scaleX: 0 }, { scaleX: 1, duration: 0.45, ease: "power3.inOut" }, 85.7);
+    tl.fromTo("#endcard .end-cta", { opacity: 0, y: 16 }, { opacity: 1, y: 0, ...IN }, 85.8);
+    tl.fromTo("#endcard .end-sub", { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "power1.out" }, 85.95);
+
+    window.__timelines = window.__timelines || {};
+    window.__timelines["overlays"] = tl;
+  </script>
+</template>

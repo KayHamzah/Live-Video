@@ -1,0 +1,203 @@
+{
+ "cuts": [
+  {
+   "src_in": 4664.24,
+   "src_out": 4666.3,
+   "beat": "hook"
+  },
+  {
+   "src_in": 4666.88,
+   "src_out": 4668.28,
+   "beat": "hook"
+  },
+  {
+   "src_in": 4668.82,
+   "src_out": 4671.45,
+   "beat": "hook"
+  },
+  {
+   "src_in": 4345.7,
+   "src_out": 4350.0,
+   "beat": "premise"
+  },
+  {
+   "src_in": 520.2,
+   "src_out": 525.45,
+   "beat": "tip-lapik"
+  },
+  {
+   "src_in": 541.9,
+   "src_out": 544.5,
+   "beat": "tip-lapik"
+  },
+  {
+   "src_in": 551.45,
+   "src_out": 555.1,
+   "beat": "tip-lapik"
+  },
+  {
+   "src_in": 2227.65,
+   "src_out": 2234.1,
+   "beat": "joke-oven"
+  },
+  {
+   "src_in": 1169.8,
+   "src_out": 1171.3,
+   "beat": "tip-aroma"
+  },
+  {
+   "src_in": 1172.0,
+   "src_out": 1176.3,
+   "beat": "tip-aroma"
+  },
+  {
+   "src_in": 1176.54,
+   "src_out": 1179.5,
+   "beat": "tip-aroma"
+  },
+  {
+   "src_in": 818.12,
+   "src_out": 820.95,
+   "beat": "tip-probe"
+  },
+  {
+   "src_in": 822.12,
+   "src_out": 826.95,
+   "beat": "tip-probe"
+  },
+  {
+   "src_in": 2520.45,
+   "src_out": 2524.25,
+   "beat": "tip-probe"
+  },
+  {
+   "src_in": 1510.35,
+   "src_out": 1512.65,
+   "beat": "tip-180"
+  },
+  {
+   "src_in": 1514.05,
+   "src_out": 1519.7,
+   "beat": "tip-180"
+  },
+  {
+   "src_in": 1547.75,
+   "src_out": 1552.9,
+   "beat": "tip-180"
+  },
+  {
+   "src_in": 2449.05,
+   "src_out": 2451.4,
+   "beat": "tip-180"
+  },
+  {
+   "src_in": 2643.9,
+   "src_out": 2650.35,
+   "beat": "joke-dapur"
+  },
+  {
+   "src_in": 4541.2,
+   "src_out": 4543.4,
+   "beat": "reveal"
+  },
+  {
+   "src_in": 4545.2,
+   "src_out": 4548.94,
+   "beat": "reveal"
+  },
+  {
+   "src_in": 4550.68,
+   "src_out": 4552.9,
+   "beat": "reveal"
+  },
+  {
+   "src_in": 5111.15,
+   "src_out": 5117.4,
+   "beat": "closer"
+  },
+  {
+   "src_in": 5119.94,
+   "src_out": 5120.9,
+   "beat": "closer"
+  }
+ ],
+ "beats": [
+  {
+   "beat": "hook",
+   "start": 0.0,
+   "end": 6.1
+  },
+  {
+   "beat": "premise",
+   "start": 6.1,
+   "end": 10.4
+  },
+  {
+   "beat": "tip-lapik",
+   "start": 10.4,
+   "end": 21.933
+  },
+  {
+   "beat": "joke-oven",
+   "start": 21.933,
+   "end": 28.4
+  },
+  {
+   "beat": "tip-aroma",
+   "start": 28.4,
+   "end": 37.167
+  },
+  {
+   "beat": "tip-probe",
+   "start": 37.167,
+   "end": 48.633
+  },
+  {
+   "beat": "tip-180",
+   "start": 48.633,
+   "end": 64.133
+  },
+  {
+   "beat": "joke-dapur",
+   "start": 64.133,
+   "end": 70.6
+  },
+  {
+   "beat": "reveal",
+   "start": 70.6,
+   "end": 78.8
+  },
+  {
+   "beat": "closer",
+   "start": 78.8,
+   "end": 86.033
+  }
+ ],
+ "duration": 86.033,
+ "cut_starts": [
+  0.0,
+  2.067,
+  3.467,
+  6.1,
+  10.4,
+  15.667,
+  18.267,
+  21.933,
+  28.4,
+  29.9,
+  34.2,
+  37.167,
+  40.0,
+  44.833,
+  48.633,
+  50.933,
+  56.6,
+  61.767,
+  64.133,
+  70.6,
+  72.8,
+  76.567,
+  78.8,
+  85.067
+ ]
+}

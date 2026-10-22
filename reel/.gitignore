@@ -4,3 +4,4 @@ assets/*.wav
 renders/
 snapshots/
 node_modules/
+.hyperframes/
