@@ -1,0 +1,203 @@
+{
+ "pieces": [
+  {
+   "src_in": 2644.38,
+   "src_out": 2646.98,
+   "out_start": 0.0,
+   "out_dur": 2.6
+  },
+  {
+   "src_in": 2647.24,
+   "src_out": 2656.02,
+   "out_start": 2.6,
+   "out_dur": 8.767
+  },
+  {
+   "src_in": 989.54,
+   "src_out": 1006.82,
+   "out_start": 11.367,
+   "out_dur": 17.3
+  },
+  {
+   "src_in": 1016.86,
+   "src_out": 1027.0,
+   "out_start": 28.667,
+   "out_dur": 10.133
+  },
+  {
+   "src_in": 1027.18,
+   "src_out": 1030.88,
+   "out_start": 38.8,
+   "out_dur": 3.7
+  },
+  {
+   "src_in": 1031.08,
+   "src_out": 1036.26,
+   "out_start": 42.5,
+   "out_dur": 5.167
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.06,
+   "end": 1.34,
+   "text": "Sebab tu dekat rumah K"
+  },
+  {
+   "start": 1.34,
+   "end": 2.48,
+   "text": "pun dah takde dapur gas."
+  },
+  {
+   "start": 2.66,
+   "end": 4.4,
+   "text": "Sebab hari tu lepas beli"
+  },
+  {
+   "start": 4.4,
+   "end": 5.7,
+   "text": "Cooven ni dapur gas rosak."
+  },
+  {
+   "start": 5.82,
+   "end": 6.56,
+   "text": "Jadi memang K takde"
+  },
+  {
+   "start": 6.56,
+   "end": 7.24,
+   "text": "dapur gas dah lah."
+  },
+  {
+   "start": 7.38,
+   "end": 8.58,
+   "text": "Sebab tu K akan masak"
+  },
+  {
+   "start": 8.58,
+   "end": 9.44,
+   "text": "memang 100 % dengan"
+  },
+  {
+   "start": 9.44,
+   "end": 11.26,
+   "text": "menggunakan Cooven sahaja."
+  },
+  {
+   "start": 11.427,
+   "end": 12.927,
+   "text": "So siapa-siapa yang duduk"
+  },
+  {
+   "start": 12.927,
+   "end": 15.027,
+   "text": "dekat rumah yang dapur dia"
+  },
+  {
+   "start": 15.027,
+   "end": 16.467,
+   "text": "kecil kan yang tak berapa nak"
+  },
+  {
+   "start": 16.467,
+   "end": 18.647,
+   "text": "ada ruang tu sangat sesuai"
+  },
+  {
+   "start": 18.647,
+   "end": 20.467,
+   "text": "lah untuk you all ada satu"
+  },
+  {
+   "start": 20.467,
+   "end": 22.647,
+   "text": "gadget Cooven ni sebab dengan"
+  },
+  {
+   "start": 22.647,
+   "end": 24.187,
+   "text": "satu gadget Cooven ni dia"
+  },
+  {
+   "start": 24.187,
+   "end": 27.267,
+   "text": "boleh selesaikan semua masalah"
+  },
+  {
+   "start": 27.267,
+   "end": 28.527,
+   "text": "kita nak masak kat dapur."
+  },
+  {
+   "start": 28.727,
+   "end": 31.207,
+   "text": "Tak perlu nak ada air fryer,"
+  },
+  {
+   "start": 31.467,
+   "end": 33.007,
+   "text": "tak perlu nak ada steamer,"
+  },
+  {
+   "start": 33.167,
+   "end": 34.207,
+   "text": "tak perlu dah nak ada"
+  },
+  {
+   "start": 34.207,
+   "end": 34.947,
+   "text": "banyak-banyak gadget."
+  },
+  {
+   "start": 35.087,
+   "end": 35.987,
+   "text": "Cukup ada satu"
+  },
+  {
+   "start": 35.987,
+   "end": 37.167,
+   "text": "Cooven pun tak apa."
+  },
+  {
+   "start": 37.307,
+   "end": 38.687,
+   "text": "Tak ada dapur gas pun tak apa."
+  },
+  {
+   "start": 38.86,
+   "end": 41.28,
+   "text": "Sebab dah ada Cooven, walaupun"
+  },
+  {
+   "start": 41.28,
+   "end": 42.38,
+   "text": "kita tak ada dapur gas,"
+  },
+  {
+   "start": 42.56,
+   "end": 42.92,
+   "text": "it's ok."
+  },
+  {
+   "start": 43.12,
+   "end": 44.16,
+   "text": "Sebab kita dah boleh masak."
+  },
+  {
+   "start": 44.24,
+   "end": 45.42,
+   "text": "Nak tumis-tumis boleh, nak"
+  },
+  {
+   "start": 45.42,
+   "end": 46.607,
+   "text": "goreng-goreng boleh, nak"
+  },
+  {
+   "start": 46.607,
+   "end": 47.56,
+   "text": "buat nasi goreng boleh."
+  }
+ ],
+ "duration": 49.867
+}
