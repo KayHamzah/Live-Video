@@ -1,0 +1,194 @@
+<title>Short Video Kay</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+  /* Layout: a dark screening room. Header, then one grid of 9:16 tiles per series; black and white only, like the videos. */
+  :root {
+    --ground: #0c0c0b;
+    --tile: #171716;
+    --line: #2b2b29;
+    --ink: #f4f4f1;
+    --mute: #a3a39e;
+    --font-display: "Plus Jakarta Sans", "Helvetica Neue", Arial, sans-serif;
+    --font-body: "Plus Jakarta Sans", "Helvetica Neue", Arial, sans-serif;
+    --font-data: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+    color-scheme: dark;
+  }
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 15px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+    padding-block: 40px 64px;
+    display: grid;
+    gap: 48px;
+  }
+  header { display: grid; gap: 14px; max-width: 62ch; }
+  .rule { width: 56px; height: 3px; background: var(--ink); }
+  h1 {
+    margin: 0;
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: clamp(30px, 6vw, 48px);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+  .lede { margin: 0; color: var(--mute); font-size: 16px; }
+  .facts {
+    display: flex; flex-wrap: wrap; gap: 8px 20px;
+    font-family: var(--font-data); font-size: 12px; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--mute);
+  }
+  section { display: grid; gap: 18px; }
+  .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
+  h2 { margin: 0; font-size: 13px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; }
+  .count { font-family: var(--font-data); font-size: 12px; color: var(--mute); }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 26px 18px;
+  }
+  @media (max-width: 440px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 12px; } }
+  .card { display: grid; gap: 10px; align-content: start; min-width: 0; }
+  .frame {
+    position: relative; aspect-ratio: 9 / 16; max-width: 100%;
+    background: var(--tile); border: 1px solid var(--line); border-radius: 6px; overflow: hidden;
+  }
+  .frame video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; background: #000; }
+  .pending {
+    position: absolute; inset: 0; display: grid; place-items: center; padding: 16px; text-align: center;
+    color: var(--mute); font-size: 13px;
+  }
+  .meta { display: grid; gap: 4px; min-width: 0; }
+  .num { font-family: var(--font-data); font-size: 11px; letter-spacing: 0.1em; color: var(--mute); }
+  .title { margin: 0; font-weight: 700; font-size: 15px; line-height: 1.3; text-wrap: balance; }
+  .row { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
+  .dur { font-family: var(--font-data); font-size: 12px; color: var(--mute); font-variant-numeric: tabular-nums; }
+  button.save {
+    font: 600 13px/1 var(--font-body); color: var(--ground); background: var(--ink);
+    border: 0; border-radius: 999px; padding: 9px 14px; cursor: pointer;
+  }
+  button.save:hover { background: #ffffff; }
+  button.save:disabled { opacity: 0.55; cursor: progress; }
+  button.save:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+  .status { font-size: 12px; color: var(--mute); min-height: 1em; }
+  footer { color: var(--mute); font-size: 13px; max-width: 70ch; display: grid; gap: 6px; }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="rule"></div>
+    <h1>Short Video Kay</h1>
+    <p class="lede">23 video pendek daripada live masak bersama Cooven. Tekan video untuk tonton, atau tekan <b>Simpan video</b> untuk muat turun ke telefon dan upload ke TikTok atau Reels.</p>
+    <div class="facts"><span>1080 × 1920</span><span>9:16</span><span>35–59 saat</span><span>Live asal: 87 minit</span></div>
+  </header>
+
+  <section aria-labelledby="h-tips">
+    <div class="section-head"><h2 id="h-tips">Tip dapur &amp; resepi</h2><span class="count" id="c-tips"></span></div>
+    <div class="grid" id="g-tips"></div>
+  </section>
+
+  <section aria-labelledby="h-fn">
+    <div class="section-head"><h2 id="h-fn">Fungsi Cooven</h2><span class="count" id="c-fn"></span></div>
+    <div class="grid" id="g-fn"></div>
+  </section>
+
+  <footer>
+    <span>Subtitle dijana daripada transkripsi automatik dan disemak satu per satu. Semak sekali lagi sebelum posting.</span>
+    <span>Video yang disimpan dari page ini ialah versi web (±13 MB). Versi kualiti penuh ada dalam chat Claude.</span>
+  </footer>
+</div>
+
+<script>
+  // src is filled in once each file is uploaded to this page.
+  const VIDEOS = [
+    { id: "01-ayam-lembut", group: "tips", title: "Ayam bakar seekor, lembut sampai ke tulang", dur: 50.8, src: "/_blob/9a67fd58076bb16685da7ac318f3e0b9" },
+    { id: "02-temperature-probe", group: "tips", title: "Cara betul guna temperature probe", dur: 57.0, src: "/_blob/fff3bc934725980e944f7f0346710492" },
+    { id: "03-resepi-smoked-bbq", group: "tips", title: "Resepi Smoked BBQ Chicken", dur: 58.6, src: "/_blob/b99254b17acb6bf8543acdb02c7c5ec6" },
+    { id: "04-cucur-tak-berminyak", group: "tips", title: "Kenapa cucur serap minyak?", dur: 44.8, src: "/_blob/7c2ad88e29671ddec86df1e80a84b3b8" },
+    { id: "05-auto-switch-off", group: "tips", title: "Lupa tutup api? Tak perlu risau", dur: 38.7, src: "/_blob/047b661059ec00be02497baf8c27d00a" },
+    { id: "06-lapik-baking-paper", group: "tips", title: "Malas basuh periuk? Buat ini", dur: 35.6, src: "/_blob/b0427f83030581a0d49e37f04274a339" },
+    { id: "07-tanpa-dapur-gas", group: "tips", title: "Tak ada dapur gas pun tak apa", dur: 49.9, src: "/_blob/3b24ec488ead446cc290d7d32cf05bc2" },
+    { id: "08-ayam-hitam-bukan-hangit", group: "tips", title: "Ayam nampak hitam? Bukan hangit", dur: 38.6, src: "/_blob/a164cdd9abb3bbebb036ce37cce24b6b" },
+    { id: "f00-apa-itu-cooven", group: "fn", title: "Cooven = Cooker + Oven", dur: 45.9, src: "/_blob/3743e7b6ef06db2637e3f8680efdc2ba" },
+    { id: "f01-cooker", group: "fn", title: "Fungsi Cooker: ganti dapur gas", dur: 57.4, src: "/_blob/06f6f8202249f3e438d573eabc27f259" },
+    { id: "f02-smart-cook", group: "fn", title: "Fungsi Smart Cook: rebus + bakar", dur: 54.4, src: "/_blob/eb470ebffe8c70c7531af3a00e8b9a1d" },
+    { id: "f03-sous-vide", group: "fn", title: "Fungsi Sous Vide: dada ayam juicy", dur: 50.5, src: "/_blob/93302cf5dc11724441fe263651fe83d8" },
+    { id: "f04-steam", group: "fn", title: "Fungsi Steam: 3 lapis sekali kukus", dur: 58.6, src: "/_blob/ea8e75bc74350e39fe06cbe673564fbe" },
+    { id: "f05-rice", group: "fn", title: "Fungsi Rice: tumis & masak satu periuk", dur: 56.3, src: "/_blob/370b6540f2ff52129c60f4fd2d6adc58" },
+    { id: "f06-air-crisp", group: "fn", title: "Fungsi Air Crisp: juicy, tak kering", dur: 56.5, src: "/_blob/9b9400689cb5ad3e6803d6a19c50f2ae" },
+    { id: "f07-dehydrate", group: "fn", title: "Fungsi Dehydrate: buat ikan masin sendiri", dur: 58.8, src: "/_blob/7c57fe4926ca57a66234c00fa0ecfe24" },
+    { id: "f08-pizza", group: "fn", title: "Fungsi Pizza: siap secepat 6 minit", dur: 50.4, src: "/_blob/3d30c9e83fe414543619da15ef253835" },
+    { id: "f09-deep-fry", group: "fn", title: "Fungsi Deep Fry: tak berminyak, tak memercik", dur: 56.0, src: "/_blob/2ad91ee3304811dee4dccf4b918b2426" },
+    { id: "f10-slow-cook", group: "fn", title: "Fungsi Slow Cook: masak sambil tidur", dur: 56.2, src: "/_blob/c94ff67c797260e139386e10324e077c" },
+    { id: "f11-broil", group: "fn", title: "Fungsi Broil: bakar dari atas", dur: 43.2, src: "/_blob/ba57a953796ab9a5931437c3a2c12df2" },
+    { id: "f12-roast", group: "fn", title: "Fungsi Roast: masak sekata 360°", dur: 45.4, src: "/_blob/7cce962a2e80abf0dfb9eb1c893dbf77" },
+    { id: "f13-bbq-grill", group: "fn", title: "BBQ vs Grill: apa bezanya?", dur: 49.5, src: "/_blob/77463733c8038d52c4b1f68b8ef49255" },
+    { id: "f14-oven", group: "fn", title: "Fungsi Oven: kek, roti, pastri", dur: 49.9, src: "/_blob/fa780a800865c19c7b42bfac84f8c3f3" },
+  ];
+
+  const fmt = (s) => `0:${String(Math.round(s)).padStart(2, "0")}`;
+  let downloadsPromise = null;
+  const getDownloads = () => (downloadsPromise ||= (window.claude?.use ? window.claude.use("downloads") : Promise.resolve(null)));
+
+  function card(v, i) {
+    const el = document.createElement("article");
+    el.className = "card";
+    const label = v.group === "fn" ? `FUNGSI ${v.id.slice(1, 3) === "00" ? "· INTRO" : "· " + Number(v.id.slice(1, 3))}` : `VIDEO ${v.id.slice(0, 2)}`;
+    el.innerHTML = `
+      <div class="frame">${v.src
+        ? `<video controls playsinline preload="metadata" src="${v.src}#t=0.6"></video>`
+        : `<div class="pending">Video sedang dimuat naik…</div>`}</div>
+      <div class="meta">
+        <span class="num">${label}</span>
+        <p class="title"></p>
+        <div class="row"><span class="dur">${fmt(v.dur)}</span>${v.src ? `<button class="save" type="button">Simpan video</button>` : ""}</div>
+        <span class="status" aria-live="polite"></span>
+      </div>`;
+    el.querySelector(".title").textContent = v.title;
+    const btn = el.querySelector("button.save");
+    if (btn) btn.addEventListener("click", () => save(v, btn, el.querySelector(".status")));
+    return el;
+  }
+
+  async function save(v, btn, status) {
+    btn.disabled = true;
+    status.textContent = "Menyediakan fail…";
+    try {
+      const downloads = await getDownloads();
+      if (!downloads) {
+        status.textContent = "Simpan tak tersedia di sini. Tekan ⋮ pada video untuk muat turun.";
+        return;
+      }
+      const blob = await (await fetch(v.src)).blob();
+      await downloads.save({ filename: `${v.id}.mp4`, data: blob });
+      status.textContent = "Disimpan.";
+    } catch (e) {
+      const code = e && e.code;
+      status.textContent = code === "declined" ? "Dibatalkan."
+        : code === "rate_limited" ? "Tunggu sekejap, kemudian cuba lagi."
+        : "Tak dapat simpan. Cuba sekali lagi.";
+    } finally {
+      btn.disabled = false;
+    }
+  }
+
+  for (const [group, gridId, countId] of [["tips", "g-tips", "c-tips"], ["fn", "g-fn", "c-fn"]]) {
+    const list = VIDEOS.filter((v) => v.group === group);
+    const grid = document.getElementById(gridId);
+    list.forEach((v, i) => grid.appendChild(card(v, i)));
+    document.getElementById(countId).textContent = `${list.length} video`;
+  }
+</script>
