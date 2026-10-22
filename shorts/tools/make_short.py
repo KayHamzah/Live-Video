@@ -151,7 +151,7 @@ def cut(source, pieces, work, out_mp4):
         run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-ss", f"{p['in']:.3f}", "-i", str(source), "-t", f"{dur:.3f}",
              "-vf", f"fps={FPS},scale=1080:1920:flags=lanczos,setsar=1,{GRADE}",
              "-af", f"aresample=48000,{DENOISE},afade=t=in:d=0.02,afade=t=out:st={max(0, dur - 0.03):.3f}:d=0.03",
-             "-c:v", "libx264", "-preset", "medium", "-crf", "16", "-g", str(FPS), "-pix_fmt", "yuv420p",
+             "-c:v", "libx264", "-preset", "veryfast", "-crf", "14", "-g", str(FPS), "-pix_fmt", "yuv420p",
              "-color_primaries", "bt709", "-color_trc", "bt709", "-colorspace", "bt709",
              "-c:a", "pcm_s16le", "-ar", "48000", "-ac", "2", str(work / f"p{i:02d}.mov")])
     files = sorted(work.glob("p*.mov"))
@@ -163,7 +163,7 @@ def cut(source, pieces, work, out_mp4):
     cmd = ["ffmpeg", "-nostdin", "-v", "error", "-y"]
     for f in files:
         cmd += ["-i", str(f)]
-    cmd += ["-filter_complex", fc, "-map", "[v]", "-map", "[an]", "-c:v", "libx264", "-preset", "medium",
+    cmd += ["-filter_complex", fc, "-map", "[v]", "-map", "[an]", "-c:v", "libx264", "-preset", "fast",
             "-crf", "17", "-g", str(FPS), "-pix_fmt", "yuv420p", "-color_primaries", "bt709",
             "-color_trc", "bt709", "-colorspace", "bt709", "-c:a", "aac", "-b:a", "192k",
             "-movflags", "+faststart", str(out_mp4)]
@@ -290,7 +290,7 @@ def build(video, source, work_root):
         "subtitles": [{"start": l[0]["start"], "end": l[-1]["end"], "text": " ".join(w["text"] for w in l)} for l in lines],
         "duration": total,
     }, ensure_ascii=False, indent=1))
-    print(f"{video['id']}: {len(pieces)} cuts, {clip_dur:.1f}s + {END_CARD}s end = {total:.1f}s")
+    print(f"{video['id']}: {len(pieces)} cuts, {clip_dur:.1f}s + {END_CARD}s end = {total:.1f}s", flush=True)
     return total
 
 
