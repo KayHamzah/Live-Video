@@ -55,10 +55,10 @@
    "out_dur": 1.167
   },
   {
-   "src_in": 2944.86,
+   "src_in": 2945.16,
    "src_out": 2946.56,
    "out_start": 46.867,
-   "out_dur": 1.7
+   "out_dur": 1.4
   }
  ],
  "subtitles": [
@@ -180,12 +180,12 @@
   {
    "start": 31.96,
    "end": 33.64,
-   "text": "Dia bukan masak 100 % tau."
+   "text": "Dia bukan masak 100% tau."
   },
   {
    "start": 33.76,
    "end": 36.44,
-   "text": "Dia akan 70 % masak."
+   "text": "Dia akan 70% masak."
   },
   {
    "start": 36.627,
@@ -224,19 +224,14 @@
   },
   {
    "start": 46.927,
-   "end": 47.167,
-   "text": "Sedap."
-  },
-  {
-   "start": 47.227,
-   "end": 47.747,
+   "end": 47.447,
    "text": "Dia tak kering"
   },
   {
-   "start": 47.747,
-   "end": 48.447,
+   "start": 47.447,
+   "end": 48.147,
    "text": "lah, dia tak dry."
   }
  ],
- "duration": 50.767
+ "duration": 50.467
 }

@@ -46,13 +46,13 @@
     </style>
   </head>
   <body>
-    <div id="root" data-composition-id="main" data-start="0" data-duration="50.767" data-width="1080" data-height="1920">
+    <div id="root" data-composition-id="main" data-start="0" data-duration="50.467" data-width="1080" data-height="1920">
       <div id="cam">
         <!-- Cut from the live (see edit.json); natural grade and noise reduction are baked in. -->
-        <video id="clip" class="clip" src="assets/clip.mp4" data-start="0" data-duration="48.567" data-has-audio="true" data-track-index="0" playsinline></video>
+        <video id="clip" class="clip" src="assets/clip.mp4" data-start="0" data-duration="48.267" data-has-audio="true" data-track-index="0" playsinline></video>
       </div>
-      <div id="text-host" data-composition-id="text" data-composition-src="compositions/text.html" data-start="0" data-duration="50.767" data-track-index="1" data-track-kind="graphics" data-width="1080" data-height="1920"></div>
-      <div id="subs-host" data-composition-id="subs" data-composition-src="compositions/subs.html" data-start="0" data-duration="48.567" data-track-index="2" data-track-kind="captions" data-width="1080" data-height="1920"></div>
+      <div id="text-host" data-composition-id="text" data-composition-src="compositions/text.html" data-start="0" data-duration="50.467" data-track-index="1" data-track-kind="graphics" data-width="1080" data-height="1920"></div>
+      <div id="subs-host" data-composition-id="subs" data-composition-src="compositions/subs.html" data-start="0" data-duration="48.267" data-track-index="2" data-track-kind="captions" data-width="1080" data-height="1920"></div>
     </div>
     <script>
       const tl = gsap.timeline({ paused: true });
@@ -77,7 +77,7 @@
       tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 45.700);
       tl.to("#cam", { scale: 1.035, duration: 1.127, ease: "none" }, 45.700);
       tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 46.867);
-      tl.to("#cam", { scale: 1.0, duration: 1.660, ease: "none" }, 46.867);
+      tl.to("#cam", { scale: 1.0, duration: 1.360, ease: "none" }, 46.867);
       window.__timelines = window.__timelines || {};
       window.__timelines["main"] = tl;
     </script>

@@ -90,8 +90,8 @@
       line-height: 1.2;
     }
   </style>
-  <div id="text" data-composition-id="text" data-width="1080" data-height="1920" data-duration="45.467">
-    <div id="series" class="clip" data-start="0" data-duration="43.267"><div class="series">TIP DAPUR</div></div>
+  <div id="text" data-composition-id="text" data-width="1080" data-height="1920" data-duration="44.833">
+    <div id="series" class="clip" data-start="0" data-duration="42.633"><div class="series">TIP DAPUR</div></div>
     <div id="hook-scrim" class="clip" data-start="0" data-duration="3.4"></div>
     <div id="hook" class="clip" data-start="0" data-duration="3.4">
       <div class="hook">
@@ -99,8 +99,8 @@
         <div class="hook-title">Kenapa cucur<br />serap minyak?</div>
       </div>
     </div>
-    <div id="pt-0" class="clip point" data-start="24.28" data-duration="3.2"><span>Suhu stabil 180°C</span></div>
-    <div id="end" class="clip" data-start="43.267" data-duration="2.2">
+    <div id="pt-0" class="clip point" data-start="23.647" data-duration="3.2"><span>Suhu stabil 180°C</span></div>
+    <div id="end" class="clip" data-start="42.633" data-duration="2.2">
       <div class="end-box">
         <div class="end-series">TIP DAPUR</div>
         <div class="end-rule"></div>
@@ -111,15 +111,15 @@
   <script>
   const tl = gsap.timeline({ paused: true });
   const titleEnd = 3.4;
-  const endStart = 43.267;
+  const endStart = 42.633;
   // The hook is on screen from the first frame (it is the thumbnail), then eases out.
   tl.fromTo("#series .series", { opacity: 0 }, { opacity: 0.9, duration: 0.6, ease: "power1.out" }, titleEnd - 0.2);
   tl.fromTo("#hook-scrim", { opacity: 1 }, { opacity: 0, duration: 0.45, ease: "power1.in" }, titleEnd - 0.45);
   tl.fromTo("#hook .hook-rule", { scaleX: 0.2 }, { scaleX: 1, duration: 0.6, ease: "power3.out" }, 0);
   tl.fromTo("#hook .hook-title", { opacity: 0.85, y: 10 }, { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }, 0);
   tl.to("#hook .hook", { opacity: 0, y: -12, duration: 0.4, ease: "power2.in" }, titleEnd - 0.42);
-  tl.fromTo("#pt-0 span", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.45, ease: "power2.out" }, 24.28);
-  tl.to("#pt-0 span", { opacity: 0, duration: 0.35, ease: "power2.in" }, 27.130);
+  tl.fromTo("#pt-0 span", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.45, ease: "power2.out" }, 23.647);
+  tl.to("#pt-0 span", { opacity: 0, duration: 0.35, ease: "power2.in" }, 26.497);
   tl.fromTo("#end .end-box", { opacity: 0, y: 12 }, { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }, endStart);
   window.__timelines = window.__timelines || {};
   window.__timelines["text"] = tl;

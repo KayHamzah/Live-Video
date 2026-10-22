@@ -43,10 +43,10 @@
    "out_dur": 3.433
   },
   {
-   "src_in": 5060.64,
+   "src_in": 5061.24,
    "src_out": 5063.9,
    "out_start": 30.767,
-   "out_dur": 3.267
+   "out_dur": 2.667
   }
  ],
  "subtitles": [
@@ -157,19 +157,14 @@
   },
   {
    "start": 30.827,
-   "end": 31.267,
-   "text": "Sinki."
-  },
-  {
-   "start": 31.427,
-   "end": 32.647,
+   "end": 32.047,
    "text": "So takdalah kita punya"
   },
   {
-   "start": 32.647,
-   "end": 33.907,
+   "start": 32.047,
+   "end": 33.307,
    "text": "inner pot ni kotor."
   }
  ],
- "duration": 36.233
+ "duration": 35.633
 }

@@ -1,248 +1,232 @@
 {
  "pieces": [
   {
-   "src_in": 3906.34,
+   "src_in": 3907.46,
    "src_out": 3916.1,
    "out_start": 0.0,
-   "out_dur": 9.767
+   "out_dur": 8.633
   },
   {
    "src_in": 3916.32,
    "src_out": 3922.34,
-   "out_start": 9.767,
+   "out_start": 8.633,
    "out_dur": 6.033
   },
   {
    "src_in": 3922.54,
    "src_out": 3924.58,
-   "out_start": 15.8,
+   "out_start": 14.667,
    "out_dur": 2.067
   },
   {
    "src_in": 3924.78,
    "src_out": 3925.94,
-   "out_start": 17.867,
+   "out_start": 16.733,
    "out_dur": 1.167
   },
   {
    "src_in": 3926.12,
    "src_out": 3928.54,
-   "out_start": 19.033,
+   "out_start": 17.9,
    "out_dur": 2.433
   },
   {
    "src_in": 3936.24,
    "src_out": 3939.04,
-   "out_start": 21.467,
+   "out_start": 20.333,
    "out_dur": 2.8
-  },
-  {
-   "src_in": 3941.18,
-   "src_out": 3941.78,
-   "out_start": 24.267,
-   "out_dur": 0.6
   },
   {
    "src_in": 3941.92,
    "src_out": 3947.92,
-   "out_start": 24.867,
+   "out_start": 23.133,
    "out_dur": 6.0
   },
   {
    "src_in": 3948.12,
    "src_out": 3956.82,
-   "out_start": 30.867,
+   "out_start": 29.133,
    "out_dur": 8.7
   },
   {
    "src_in": 3957.02,
    "src_out": 3960.9,
-   "out_start": 39.567,
+   "out_start": 37.833,
    "out_dur": 3.9
   },
   {
    "src_in": 3961.64,
    "src_out": 3967.58,
-   "out_start": 43.467,
+   "out_start": 41.733,
    "out_dur": 5.933
   }
  ],
  "subtitles": [
   {
    "start": 0.06,
-   "end": 0.96,
-   "text": "Oven."
-  },
-  {
-   "start": 1.18,
-   "end": 2.14,
+   "end": 1.02,
    "text": "So itu adalah fungsi yang"
   },
   {
-   "start": 2.14,
-   "end": 3.16,
+   "start": 1.02,
+   "end": 2.04,
    "text": "terakhirlah, fungsi oven."
   },
   {
-   "start": 3.38,
-   "end": 4.32,
+   "start": 2.26,
+   "end": 3.2,
    "text": "So fungsi oven ni"
   },
   {
-   "start": 4.32,
-   "end": 5.32,
+   "start": 3.2,
+   "end": 4.2,
    "text": "untuk masak apa ke?"
   },
   {
-   "start": 5.52,
-   "end": 7.7,
+   "start": 4.4,
+   "end": 6.58,
    "text": "Fungsi oven ni macam mana kita"
   },
   {
-   "start": 7.7,
-   "end": 9.64,
+   "start": 6.58,
+   "end": 8.52,
    "text": "gunakan oven yang sebelum ni,"
   },
   {
-   "start": 9.827,
-   "end": 10.807,
+   "start": 8.693,
+   "end": 9.673,
    "text": "macam tu jugalah kita"
   },
   {
-   "start": 10.807,
-   "end": 11.667,
+   "start": 9.673,
+   "end": 10.533,
    "text": "gunakan dekat sini."
   },
   {
-   "start": 11.827,
-   "end": 12.807,
-   "text": "Kita boleh bakar ke?"
+   "start": 10.693,
+   "end": 11.673,
+   "text": "Kita boleh bakar kek,"
   },
   {
-   "start": 13.107,
-   "end": 14.007,
-   "text": "Kita boleh bakar roti,"
+   "start": 11.973,
+   "end": 12.873,
+   "text": "kita boleh bakar roti,"
   },
   {
-   "start": 14.287,
-   "end": 15.667,
+   "start": 13.153,
+   "end": 14.533,
    "text": "kita boleh bakar sourdough,"
   },
   {
-   "start": 15.86,
-   "end": 17.72,
+   "start": 14.727,
+   "end": 16.587,
    "text": "kita boleh bakar scone,"
   },
   {
-   "start": 17.927,
-   "end": 18.907,
+   "start": 16.793,
+   "end": 17.773,
    "text": "kita boleh bakar pastry,"
   },
   {
-   "start": 19.093,
-   "end": 20.033,
+   "start": 17.96,
+   "end": 18.9,
    "text": "semua tu kita boleh bakar"
   },
   {
-   "start": 20.033,
-   "end": 21.333,
+   "start": 18.9,
+   "end": 20.2,
    "text": "dengan menggunakan fungsi oven."
   },
   {
-   "start": 21.527,
-   "end": 22.807,
+   "start": 20.393,
+   "end": 21.673,
    "text": "Ada pinggan macam ni"
   },
   {
-   "start": 22.807,
-   "end": 24.147,
+   "start": 21.673,
+   "end": 23.013,
    "text": "ataupun mangkuk ke kan."
   },
   {
-   "start": 24.327,
-   "end": 24.747,
-   "text": "Mangkuk."
-  },
-  {
-   "start": 24.927,
-   "end": 26.587,
+   "start": 23.193,
+   "end": 24.853,
    "text": "Mangkuk ni kita letak ayam,"
   },
   {
-   "start": 26.807,
-   "end": 28.347,
+   "start": 25.073,
+   "end": 26.613,
    "text": "kita letak kuah apa semua kan."
   },
   {
-   "start": 28.447,
-   "end": 29.387,
+   "start": 26.713,
+   "end": 27.653,
    "text": "Katalah kita letak ibu"
   },
   {
-   "start": 29.387,
-   "end": 30.747,
+   "start": 27.653,
+   "end": 29.013,
    "text": "sambal, letak ayam semua."
   },
   {
-   "start": 30.927,
-   "end": 32.507,
+   "start": 29.193,
+   "end": 30.773,
    "text": "Lepas tu kita letak sekali"
   },
   {
-   "start": 32.507,
-   "end": 33.707,
+   "start": 30.773,
+   "end": 31.973,
    "text": "dengan mangkuk-mangkuk ni dekat"
   },
   {
-   "start": 33.707,
-   "end": 35.107,
+   "start": 31.973,
+   "end": 33.373,
    "text": "dalam kita punya inner pot."
   },
   {
-   "start": 35.227,
-   "end": 36.827,
+   "start": 33.493,
+   "end": 35.093,
    "text": "Kita boleh gunakan fungsi oven"
   },
   {
-   "start": 36.827,
-   "end": 38.267,
+   "start": 35.093,
+   "end": 36.533,
    "text": "juga untuk masak masakan"
   },
   {
-   "start": 38.267,
-   "end": 39.447,
+   "start": 36.533,
+   "end": 37.713,
    "text": "kita dekat dalam bekas lain."
   },
   {
-   "start": 39.627,
-   "end": 40.887,
+   "start": 37.893,
+   "end": 39.153,
    "text": "So kita tak perlu basuh dah"
   },
   {
-   "start": 40.887,
-   "end": 43.327,
+   "start": 39.153,
+   "end": 41.593,
    "text": "kita punya inner pot tu tadi."
   },
   {
-   "start": 43.527,
-   "end": 44.927,
+   "start": 41.793,
+   "end": 43.193,
    "text": "Maksudnya macam kita masak"
   },
   {
-   "start": 44.927,
-   "end": 47.007,
-   "text": "benda dalam periuk kecil tapi"
+   "start": 43.193,
+   "end": 45.113,
+   "text": "benda dalam periuk kecil"
   },
   {
-   "start": 47.007,
-   "end": 48.287,
-   "text": "periuk kecil tu kita masukkan"
+   "start": 45.113,
+   "end": 46.073,
+   "text": "tapi periuk kecil tu kita"
   },
   {
-   "start": 48.287,
-   "end": 49.287,
-   "text": "dekat dalam Cooven cooker."
+   "start": 46.073,
+   "end": 47.553,
+   "text": "masukkan dekat dalam Cooven."
   }
  ],
- "duration": 51.6
+ "duration": 49.867
 }

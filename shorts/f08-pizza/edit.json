@@ -49,27 +49,27 @@
    "out_dur": 2.6
   },
   {
-   "src_in": 3460.28,
+   "src_in": 3460.92,
    "src_out": 3465.86,
    "out_start": 23.833,
-   "out_dur": 5.6
+   "out_dur": 4.967
   },
   {
    "src_in": 3465.98,
    "src_out": 3467.8,
-   "out_start": 29.433,
+   "out_start": 28.8,
    "out_dur": 1.833
   },
   {
    "src_in": 3467.98,
    "src_out": 3475.5,
-   "out_start": 31.267,
+   "out_start": 30.633,
    "out_dur": 7.533
   },
   {
    "src_in": 3475.94,
    "src_out": 3486.0,
-   "out_start": 38.8,
+   "out_start": 38.167,
    "out_dur": 10.067
   }
  ],
@@ -166,99 +166,89 @@
   },
   {
    "start": 23.893,
-   "end": 24.253,
-   "text": "air,"
-  },
-  {
-   "start": 24.533,
-   "end": 25.653,
+   "end": 25.013,
    "text": "nak kena tinggikan suhu,"
   },
   {
-   "start": 25.773,
-   "end": 26.833,
+   "start": 25.133,
+   "end": 26.193,
    "text": "lepas tu kita nak kena tahu"
   },
   {
-   "start": 26.833,
-   "end": 28.013,
+   "start": 26.193,
+   "end": 27.373,
    "text": "macam mana nak dapatkan"
   },
   {
-   "start": 28.013,
-   "end": 29.293,
+   "start": 27.373,
+   "end": 28.653,
    "text": "garing dekat bahagian tepi."
   },
   {
-   "start": 29.493,
-   "end": 30.593,
-   "text": "Tapi bila menggunakan"
+   "start": 28.86,
+   "end": 30.5,
+   "text": "Tapi bila menggunakan Cooven,"
   },
   {
-   "start": 30.593,
-   "end": 31.133,
-   "text": "Cooven cook,"
-  },
-  {
-   "start": 31.327,
-   "end": 33.287,
+   "start": 30.693,
+   "end": 32.653,
    "text": "any type of pizza kita"
   },
   {
-   "start": 33.287,
-   "end": 34.327,
+   "start": 32.653,
+   "end": 33.693,
    "text": "boleh bakar dekat dalam"
   },
   {
-   "start": 34.327,
-   "end": 36.827,
+   "start": 33.693,
+   "end": 36.193,
    "text": "ni dan hasil dia persis"
   },
   {
-   "start": 36.827,
-   "end": 38.667,
+   "start": 36.193,
+   "end": 38.033,
    "text": "kita gunakan oven pizza."
   },
   {
-   "start": 38.86,
-   "end": 40.4,
+   "start": 38.227,
+   "end": 39.767,
    "text": "Daripada kita beli oven"
   },
   {
-   "start": 40.4,
-   "end": 41.8,
+   "start": 39.767,
+   "end": 41.167,
    "text": "pizza yang harga RM2,000"
   },
   {
-   "start": 41.8,
-   "end": 42.44,
+   "start": 41.167,
+   "end": 41.807,
    "text": "lebih, nak dekat"
   },
   {
-   "start": 42.44,
-   "end": 43.92,
+   "start": 41.807,
+   "end": 43.287,
    "text": "RM3,000 tu kan, tak payah."
   },
   {
-   "start": 44.2,
-   "end": 45.66,
+   "start": 43.567,
+   "end": 45.027,
    "text": "Sebabnya kita bukan hari-hari"
   },
   {
-   "start": 45.66,
-   "end": 46.66,
+   "start": 45.027,
+   "end": 46.027,
    "text": "nak niaga pizza pun."
   },
   {
-   "start": 46.9,
-   "end": 47.84,
+   "start": 46.267,
+   "end": 47.207,
    "text": "Belum tentu kita akan"
   },
   {
-   "start": 47.84,
-   "end": 48.74,
+   "start": 47.207,
+   "end": 48.107,
    "text": "masak pizza hari-hari."
   }
  ],
- "duration": 51.067
+ "duration": 50.433
 }

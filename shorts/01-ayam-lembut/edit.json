@@ -43,33 +43,27 @@
    "out_dur": 2.1
   },
   {
-   "src_in": 4786.1,
-   "src_out": 4786.6,
-   "out_start": 32.1,
-   "out_dur": 0.5
-  },
-  {
    "src_in": 4786.74,
    "src_out": 4789.72,
-   "out_start": 32.6,
+   "out_start": 32.1,
    "out_dur": 3.0
   },
   {
    "src_in": 4790.2,
    "src_out": 4794.06,
-   "out_start": 35.6,
+   "out_start": 35.1,
    "out_dur": 3.867
   },
   {
    "src_in": 4937.08,
    "src_out": 4944.64,
-   "out_start": 39.467,
+   "out_start": 38.967,
    "out_dur": 7.567
   },
   {
    "src_in": 4944.8,
    "src_out": 4946.88,
-   "out_start": 47.033,
+   "out_start": 46.533,
    "out_dur": 2.1
   }
  ],
@@ -181,69 +175,64 @@
   },
   {
    "start": 32.16,
-   "end": 32.48,
-   "text": "Dada."
-  },
-  {
-   "start": 32.66,
-   "end": 34.0,
+   "end": 33.5,
    "text": "Tapi bila kita"
   },
   {
-   "start": 34.0,
-   "end": 35.46,
+   "start": 33.5,
+   "end": 34.96,
    "text": "masak guna Cooven,"
   },
   {
-   "start": 35.66,
-   "end": 37.07,
+   "start": 35.16,
+   "end": 36.57,
    "text": "bahagian dada ni pun dia"
   },
   {
-   "start": 37.07,
-   "end": 38.12,
+   "start": 36.57,
+   "end": 37.62,
    "text": "orang boleh makan sebab"
   },
   {
-   "start": 38.12,
-   "end": 39.34,
+   "start": 37.62,
+   "end": 38.84,
    "text": "bahagian dada ni tak dry."
   },
   {
-   "start": 39.527,
-   "end": 41.307,
+   "start": 39.027,
+   "end": 40.807,
    "text": "Tapi yang ini dah lah boleh"
   },
   {
-   "start": 41.307,
-   "end": 42.707,
+   "start": 40.807,
+   "end": 42.207,
    "text": "masuk dua ekor sekaligus."
   },
   {
-   "start": 42.907,
-   "end": 44.407,
+   "start": 42.407,
+   "end": 43.907,
    "text": "Lepas tu masa nak bakar"
   },
   {
-   "start": 44.407,
-   "end": 45.427,
+   "start": 43.907,
+   "end": 44.927,
    "text": "tu lebih kurang dalam 40"
   },
   {
-   "start": 45.427,
-   "end": 46.907,
+   "start": 44.927,
+   "end": 46.407,
    "text": "minit macam tu dah siap."
   },
   {
-   "start": 47.093,
-   "end": 48.013,
+   "start": 46.593,
+   "end": 47.513,
    "text": "Tak perlu nak tunggu"
   },
   {
-   "start": 48.013,
-   "end": 48.993,
+   "start": 47.513,
+   "end": 48.493,
    "text": "sampai satu jam pun."
   }
  ],
- "duration": 51.333
+ "duration": 50.833
 }

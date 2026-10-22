@@ -7,57 +7,51 @@
    "out_dur": 8.267
   },
   {
-   "src_in": 3229.78,
-   "src_out": 3230.3,
-   "out_start": 8.267,
-   "out_dur": 0.533
-  },
-  {
    "src_in": 3233.02,
    "src_out": 3235.02,
-   "out_start": 8.8,
+   "out_start": 8.267,
    "out_dur": 2.0
   },
   {
    "src_in": 3236.64,
    "src_out": 3240.72,
-   "out_start": 10.8,
+   "out_start": 10.267,
    "out_dur": 4.1
   },
   {
    "src_in": 3240.84,
    "src_out": 3247.5,
-   "out_start": 14.9,
+   "out_start": 14.367,
    "out_dur": 6.667
   },
   {
    "src_in": 3247.74,
    "src_out": 3263.2,
-   "out_start": 21.567,
+   "out_start": 21.033,
    "out_dur": 15.467
   },
   {
    "src_in": 3266.64,
    "src_out": 3271.72,
-   "out_start": 37.033,
+   "out_start": 36.5,
    "out_dur": 5.1
   },
   {
    "src_in": 3293.5,
    "src_out": 3297.88,
-   "out_start": 42.133,
+   "out_start": 41.6,
    "out_dur": 4.4
   },
   {
    "src_in": 3298.04,
    "src_out": 3302.34,
-   "out_start": 46.533,
+   "out_start": 46.0,
    "out_dur": 4.3
   },
   {
    "src_in": 3304.94,
    "src_out": 3308.96,
-   "out_start": 50.833,
+   "out_start": 50.3,
    "out_dur": 4.033
   }
  ],
@@ -89,174 +83,169 @@
   },
   {
    "start": 8.327,
-   "end": 8.667,
-   "text": "Kan."
-  },
-  {
-   "start": 8.86,
-   "end": 10.68,
+   "end": 10.147,
    "text": "Tapi apa yang tak sama?"
   },
   {
-   "start": 10.86,
-   "end": 12.56,
+   "start": 10.327,
+   "end": 12.027,
    "text": "Perbezaannya adalah bila"
   },
   {
-   "start": 12.56,
-   "end": 14.76,
+   "start": 12.027,
+   "end": 14.227,
    "text": "kita gunakan fungsi Cooven,"
   },
   {
-   "start": 14.96,
-   "end": 16.98,
+   "start": 14.427,
+   "end": 16.447,
    "text": "air crisp kita ni ayam"
   },
   {
-   "start": 16.98,
-   "end": 18.72,
+   "start": 16.447,
+   "end": 18.187,
    "text": "ataupun ikan yang kita goreng"
   },
   {
-   "start": 18.72,
-   "end": 19.78,
+   "start": 18.187,
+   "end": 19.247,
    "text": "menggunakan fungsi air"
   },
   {
-   "start": 19.78,
-   "end": 21.44,
+   "start": 19.247,
+   "end": 20.907,
    "text": "crisp ni dia lebih juicy."
   },
   {
-   "start": 21.627,
-   "end": 22.487,
+   "start": 21.093,
+   "end": 21.953,
    "text": "Dia tidak kering."
   },
   {
-   "start": 22.707,
-   "end": 23.747,
+   "start": 22.173,
+   "end": 23.213,
    "text": "Dia tak sama macam kita"
   },
   {
-   "start": 23.747,
-   "end": 24.647,
+   "start": 23.213,
+   "end": 24.113,
    "text": "goreng dalam air fryer."
   },
   {
-   "start": 24.787,
-   "end": 26.007,
+   "start": 24.253,
+   "end": 25.473,
    "text": "Kalau dalam air fryer tu"
   },
   {
-   "start": 26.007,
-   "end": 27.627,
+   "start": 25.473,
+   "end": 27.093,
    "text": "ayam tu dia akan dry."
   },
   {
-   "start": 27.787,
-   "end": 28.327,
+   "start": 27.253,
+   "end": 27.793,
    "text": "Kita kena letak"
   },
   {
-   "start": 28.327,
-   "end": 29.207,
+   "start": 27.793,
+   "end": 28.673,
    "text": "minyak yang banyak."
   },
   {
-   "start": 29.447,
-   "end": 30.507,
+   "start": 28.913,
+   "end": 29.973,
    "text": "Lepas tu kejap-kejap kita"
   },
   {
-   "start": 30.507,
-   "end": 32.147,
+   "start": 29.973,
+   "end": 31.613,
    "text": "kena buka letak minyak ataupun"
   },
   {
-   "start": 32.147,
-   "end": 33.227,
+   "start": 31.613,
+   "end": 32.693,
    "text": "ada satu lagi cara nak"
   },
   {
-   "start": 33.227,
-   "end": 34.247,
+   "start": 32.693,
+   "end": 33.713,
    "text": "hack kita kena letak air"
   },
   {
-   "start": 34.247,
-   "end": 35.727,
+   "start": 33.713,
+   "end": 35.193,
    "text": "satu mangkuk ataupun air dekat"
   },
   {
-   "start": 35.727,
-   "end": 36.907,
+   "start": 35.193,
+   "end": 36.373,
    "text": "bawah dia punya penapis."
   },
   {
-   "start": 37.093,
-   "end": 39.413,
+   "start": 36.56,
+   "end": 38.88,
    "text": "Hasil dia nanti semacam"
   },
   {
-   "start": 39.413,
-   "end": 40.933,
+   "start": 38.88,
+   "end": 40.4,
    "text": "kita deep fry, tapi"
   },
   {
-   "start": 40.933,
-   "end": 41.993,
+   "start": 40.4,
+   "end": 41.46,
    "text": "kita tak deep fry."
   },
   {
-   "start": 42.193,
-   "end": 44.133,
+   "start": 41.66,
+   "end": 43.6,
    "text": "Boleh goreng keropok"
   },
   {
-   "start": 44.133,
-   "end": 45.393,
+   "start": 43.6,
+   "end": 44.86,
    "text": "tanpa menggunakan minyak."
   },
   {
-   "start": 45.493,
-   "end": 46.393,
+   "start": 44.96,
+   "end": 45.86,
    "text": "Contoh macam papadum,"
   },
   {
-   "start": 46.593,
-   "end": 46.653,
+   "start": 46.06,
+   "end": 46.12,
    "text": "kan?"
   },
   {
-   "start": 46.873,
-   "end": 47.753,
+   "start": 46.34,
+   "end": 47.22,
    "text": "Kita nak buat popcorn."
   },
   {
-   "start": 48.053,
-   "end": 49.493,
+   "start": 47.52,
+   "end": 48.96,
    "text": "Yang tu semua kita boleh gunakan"
   },
   {
-   "start": 49.493,
-   "end": 50.713,
+   "start": 48.96,
+   "end": 50.18,
    "text": "fungsi air crisp ni tadi."
   },
   {
-   "start": 50.893,
-   "end": 52.053,
+   "start": 50.36,
+   "end": 51.52,
    "text": "Ataupun kita nak goreng nugget"
   },
   {
-   "start": 52.053,
-   "end": 53.313,
+   "start": 51.52,
+   "end": 52.78,
    "text": "ke, nak goreng kentang ke,"
   },
   {
-   "start": 53.493,
-   "end": 54.733,
+   "start": 52.96,
+   "end": 54.2,
    "text": "nak goreng keropok lekor ke."
   }
  ],
- "duration": 57.067
+ "duration": 56.533
 }

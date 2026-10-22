@@ -26,9 +26,9 @@
   },
   {
    "src_in": 3742.82,
-   "src_out": 3749.8,
+   "src_out": 3748.56,
    "out_start": 37.433,
-   "out_dur": 6.967
+   "out_dur": 5.733
   }
  ],
  "subtitles": [
@@ -171,12 +171,7 @@
    "start": 41.133,
    "end": 43.053,
    "text": "buat ikan ke semua boleh."
-  },
-  {
-   "start": 43.233,
-   "end": 44.293,
-   "text": "Boleh je tak guna fungsi"
   }
  ],
- "duration": 46.6
+ "duration": 45.367
 }

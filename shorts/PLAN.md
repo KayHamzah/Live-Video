@@ -5,7 +5,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 ## 01-ayam-lembut: Ayam bakar seekor, lembut sampai ke tulang
 
 - Siri: TIP DAPUR
-- Tempoh: 51.3 s
+- Tempoh: 50.8 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Ayam bakar seekor, lembut sampai ke tulang**
 - Label isi penting: Dulu: oven 1–2 jam; Sekarang: ±40 minit, muat 2 ekor
 
@@ -18,11 +18,10 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 5 | 1:18:05.60 – 1:18:08.68 | 00:16.73 | 3.10 s |
 | 6 | 1:19:31.10 – 1:19:41.26 | 00:19.83 | 10.17 s |
 | 7 | 1:19:41.94 – 1:19:44.04 | 00:30.00 | 2.10 s |
-| 8 | 1:19:46.10 – 1:19:46.60 | 00:32.10 | 0.50 s |
-| 9 | 1:19:46.74 – 1:19:49.72 | 00:32.60 | 3.00 s |
-| 10 | 1:19:50.20 – 1:19:54.06 | 00:35.60 | 3.87 s |
-| 11 | 1:22:17.08 – 1:22:24.64 | 00:39.47 | 7.57 s |
-| 12 | 1:22:24.80 – 1:22:26.88 | 00:47.03 | 2.10 s |
+| 8 | 1:19:46.74 – 1:19:49.72 | 00:32.10 | 3.00 s |
+| 9 | 1:19:50.20 – 1:19:54.06 | 00:35.10 | 3.87 s |
+| 10 | 1:22:17.08 – 1:22:24.64 | 00:38.97 | 7.57 s |
+| 11 | 1:22:24.80 – 1:22:26.88 | 00:46.53 | 2.10 s |
 
 <details><summary>Subtitle</summary>
 
@@ -49,19 +48,18 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:28.67 – 00:29.87 | K pakai oven dulu, |
 | 00:30.06 – 00:30.80 | dia orang bahagian |
 | 00:30.80 – 00:31.98 | dada ni tak makan tau. |
-| 00:32.16 – 00:32.48 | Dada. |
-| 00:32.66 – 00:34.00 | Tapi bila kita |
-| 00:34.00 – 00:35.46 | masak guna Cooven, |
-| 00:35.66 – 00:37.07 | bahagian dada ni pun dia |
-| 00:37.07 – 00:38.12 | orang boleh makan sebab |
-| 00:38.12 – 00:39.34 | bahagian dada ni tak dry. |
-| 00:39.53 – 00:41.31 | Tapi yang ini dah lah boleh |
-| 00:41.31 – 00:42.71 | masuk dua ekor sekaligus. |
-| 00:42.91 – 00:44.41 | Lepas tu masa nak bakar |
-| 00:44.41 – 00:45.43 | tu lebih kurang dalam 40 |
-| 00:45.43 – 00:46.91 | minit macam tu dah siap. |
-| 00:47.09 – 00:48.01 | Tak perlu nak tunggu |
-| 00:48.01 – 00:48.99 | sampai satu jam pun. |
+| 00:32.16 – 00:33.50 | Tapi bila kita |
+| 00:33.50 – 00:34.96 | masak guna Cooven, |
+| 00:35.16 – 00:36.57 | bahagian dada ni pun dia |
+| 00:36.57 – 00:37.62 | orang boleh makan sebab |
+| 00:37.62 – 00:38.84 | bahagian dada ni tak dry. |
+| 00:39.03 – 00:40.81 | Tapi yang ini dah lah boleh |
+| 00:40.81 – 00:42.21 | masuk dua ekor sekaligus. |
+| 00:42.41 – 00:43.91 | Lepas tu masa nak bakar |
+| 00:43.91 – 00:44.93 | tu lebih kurang dalam 40 |
+| 00:44.93 – 00:46.41 | minit macam tu dah siap. |
+| 00:46.59 – 00:47.51 | Tak perlu nak tunggu |
+| 00:47.51 – 00:48.49 | sampai satu jam pun. |
 
 </details>
 
@@ -133,7 +131,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 ## 03-resepi-smoked-bbq: Resepi Smoked BBQ Chicken
 
 - Siri: RESEPI
-- Tempoh: 59.6 s
+- Tempoh: 58.6 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Resepi Smoked BBQ Chicken**
 - Label isi penting: Perap semalaman, lagi sedap
 
@@ -145,18 +143,17 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 4 | 29:28.76 – 29:33.10 | 00:15.70 | 4.33 s |
 | 5 | 29:33.58 – 29:35.04 | 00:20.03 | 1.47 s |
 | 6 | 29:35.24 – 29:37.46 | 00:21.50 | 2.23 s |
-| 7 | 29:38.08 – 29:39.04 | 00:23.73 | 0.97 s |
-| 8 | 29:41.78 – 29:43.12 | 00:24.70 | 1.33 s |
-| 9 | 29:43.34 – 29:44.46 | 00:26.03 | 1.13 s |
-| 10 | 29:44.62 – 29:45.60 | 00:27.17 | 0.97 s |
-| 11 | 29:47.20 – 29:50.34 | 00:28.13 | 3.13 s |
-| 12 | 29:50.60 – 29:55.36 | 00:31.27 | 4.77 s |
-| 13 | 29:59.66 – 30:03.34 | 00:36.03 | 3.67 s |
-| 14 | 30:16.48 – 30:18.94 | 00:39.70 | 2.47 s |
-| 15 | 30:19.24 – 30:21.46 | 00:42.17 | 2.23 s |
-| 16 | 30:21.64 – 30:26.64 | 00:44.40 | 5.00 s |
-| 17 | 30:26.92 – 30:29.46 | 00:49.40 | 2.53 s |
-| 18 | 30:29.88 – 30:35.34 | 00:51.93 | 5.47 s |
+| 7 | 29:41.78 – 29:43.12 | 00:23.73 | 1.33 s |
+| 8 | 29:43.34 – 29:44.46 | 00:25.07 | 1.13 s |
+| 9 | 29:44.62 – 29:45.60 | 00:26.20 | 0.97 s |
+| 10 | 29:47.20 – 29:50.34 | 00:27.17 | 3.13 s |
+| 11 | 29:50.60 – 29:55.36 | 00:30.30 | 4.77 s |
+| 12 | 29:59.66 – 30:03.34 | 00:35.07 | 3.67 s |
+| 13 | 30:16.48 – 30:18.94 | 00:38.73 | 2.47 s |
+| 14 | 30:19.24 – 30:21.46 | 00:41.20 | 2.23 s |
+| 15 | 30:21.64 – 30:26.64 | 00:43.43 | 5.00 s |
+| 16 | 30:26.92 – 30:29.46 | 00:48.43 | 2.53 s |
+| 17 | 30:29.88 – 30:35.34 | 00:50.97 | 5.47 s |
 
 <details><summary>Subtitle</summary>
 
@@ -174,37 +171,36 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:18.32 – 00:19.92 | dalam 2-3 sudu macam tu. |
 | 00:20.09 – 00:21.37 | Lepas tu letak garam sikit. |
 | 00:21.56 – 00:23.60 | Lepas tu letak minyak sikit |
-| 00:23.79 – 00:24.57 | letak. |
-| 00:24.76 – 00:25.92 | Lepas tu letak oyster sauce, |
-| 00:26.09 – 00:27.03 | dark soy sauce, |
-| 00:27.23 – 00:28.03 | light soy sauce. |
-| 00:28.19 – 00:29.45 | Lepas tu letak brown sugar |
-| 00:29.45 – 00:31.15 | sikit ataupun gula kabung Thai. |
-| 00:31.33 – 00:32.07 | Lepas dah letak |
-| 00:32.07 – 00:33.39 | semua tu, gaul-gaul. |
-| 00:33.45 – 00:34.39 | Kita marinate-kan dia. |
-| 00:34.49 – 00:35.25 | At least satu malam |
-| 00:35.25 – 00:35.91 | lagi sedap lah. |
-| 00:36.09 – 00:37.67 | Tapi kalau buat overnight lagi |
-| 00:37.67 – 00:38.65 | sedap dia punya rasa sebab |
-| 00:38.65 – 00:39.59 | dia akan masuk sampai dalam. |
-| 00:39.76 – 00:40.84 | Untuk naikkan dia |
-| 00:40.84 – 00:42.04 | punya bau smoke tu, |
-| 00:42.23 – 00:43.13 | letakkan dua |
-| 00:43.13 – 00:44.27 | batang kayu manis, |
-| 00:44.46 – 00:47.40 | tiga ketul star anise |
-| 00:47.40 – 00:49.28 | ataupun bunga lawang, |
-| 00:49.46 – 00:50.56 | lepas tu satu sudu |
-| 00:50.56 – 00:51.82 | kecil white peppercorn, |
-| 00:51.99 – 00:54.51 | lepas tu buah pelaga lebih |
-| 00:54.51 – 00:57.27 | kurang dalam lima biji macam tu. |
+| 00:23.79 – 00:24.95 | Lepas tu letak oyster sauce, |
+| 00:25.13 – 00:26.07 | dark soy sauce, |
+| 00:26.26 – 00:27.06 | light soy sauce. |
+| 00:27.23 – 00:28.49 | Lepas tu letak brown sugar |
+| 00:28.49 – 00:30.19 | sikit ataupun gula kabung Thai. |
+| 00:30.36 – 00:31.10 | Lepas dah letak |
+| 00:31.10 – 00:32.42 | semua tu, gaul-gaul. |
+| 00:32.48 – 00:33.42 | Kita marinate-kan dia. |
+| 00:33.52 – 00:34.28 | At least satu malam |
+| 00:34.28 – 00:34.94 | lagi sedap lah. |
+| 00:35.13 – 00:36.71 | Tapi kalau buat overnight lagi |
+| 00:36.71 – 00:37.69 | sedap dia punya rasa sebab |
+| 00:37.69 – 00:38.63 | dia akan masuk sampai dalam. |
+| 00:38.79 – 00:39.87 | Untuk naikkan dia |
+| 00:39.87 – 00:41.07 | punya bau smoke tu, |
+| 00:41.26 – 00:42.16 | letakkan dua |
+| 00:42.16 – 00:43.30 | batang kayu manis, |
+| 00:43.49 – 00:46.43 | tiga ketul star anise |
+| 00:46.43 – 00:48.31 | ataupun bunga lawang, |
+| 00:48.49 – 00:49.59 | lepas tu satu sudu |
+| 00:49.59 – 00:50.85 | kecil white peppercorn, |
+| 00:51.03 – 00:53.55 | lepas tu buah pelaga lebih |
+| 00:53.55 – 00:56.31 | kurang dalam lima biji macam tu. |
 
 </details>
 
 ## 04-cucur-tak-berminyak: Kenapa cucur serap minyak?
 
 - Siri: TIP DAPUR
-- Tempoh: 45.5 s
+- Tempoh: 44.8 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Kenapa cucur serap minyak?**
 - Label isi penting: Suhu stabil 180°C
 
@@ -214,17 +210,16 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 2 | 40:43.04 – 40:45.28 | 00:02.17 | 2.23 s |
 | 3 | 40:45.78 – 40:49.24 | 00:04.40 | 3.47 s |
 | 4 | 40:49.78 – 40:51.50 | 00:07.87 | 1.73 s |
-| 5 | 40:53.66 – 40:54.30 | 00:09.60 | 0.63 s |
-| 6 | 24:54.06 – 25:00.80 | 00:10.23 | 6.77 s |
-| 7 | 25:01.22 – 25:03.12 | 00:17.00 | 1.90 s |
-| 8 | 25:04.40 – 25:06.32 | 00:18.90 | 1.93 s |
-| 9 | 25:07.26 – 25:08.22 | 00:20.83 | 0.97 s |
-| 10 | 25:08.56 – 25:12.92 | 00:21.80 | 4.37 s |
-| 11 | 25:14.06 – 25:17.52 | 00:26.17 | 3.47 s |
-| 12 | 25:17.66 – 25:19.82 | 00:29.63 | 2.17 s |
-| 13 | 25:38.96 – 25:40.86 | 00:31.80 | 1.90 s |
-| 14 | 25:41.08 – 25:43.08 | 00:33.70 | 2.00 s |
-| 15 | 25:45.60 – 25:53.16 | 00:35.70 | 7.57 s |
+| 5 | 24:54.06 – 25:00.80 | 00:09.60 | 6.77 s |
+| 6 | 25:01.22 – 25:03.12 | 00:16.37 | 1.90 s |
+| 7 | 25:04.40 – 25:06.32 | 00:18.27 | 1.93 s |
+| 8 | 25:07.26 – 25:08.22 | 00:20.20 | 0.97 s |
+| 9 | 25:08.56 – 25:12.92 | 00:21.17 | 4.37 s |
+| 10 | 25:14.06 – 25:17.52 | 00:25.53 | 3.47 s |
+| 11 | 25:17.66 – 25:19.82 | 00:29.00 | 2.17 s |
+| 12 | 25:38.96 – 25:40.86 | 00:31.17 | 1.90 s |
+| 13 | 25:41.08 – 25:43.08 | 00:33.07 | 2.00 s |
+| 14 | 25:45.60 – 25:53.16 | 00:35.07 | 7.57 s |
 
 <details><summary>Subtitle</summary>
 
@@ -235,31 +230,30 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:04.46 – 00:05.58 | Ini adalah hasil |
 | 00:05.58 – 00:07.74 | kita punya cucur tu. |
 | 00:07.93 – 00:09.47 | Dia cantik tak resap minyak. |
-| 00:09.66 – 00:10.12 | Minyak. |
-| 00:10.29 – 00:11.99 | Kalau you all nak tahu apa |
-| 00:11.99 – 00:14.09 | beza bila kita goreng menggunakan |
-| 00:14.09 – 00:15.49 | fungsi deep fry berbanding |
-| 00:15.49 – 00:16.85 | kita goreng guna kuali, |
-| 00:17.06 – 00:17.70 | bila kita guna |
-| 00:17.70 – 00:18.78 | fungsi deep fry ni, |
-| 00:18.96 – 00:20.70 | dia punya suhu tu safety tau. |
-| 00:20.89 – 00:21.67 | Contoh kan, |
-| 00:21.86 – 00:23.12 | kalau macam sekarang kita |
-| 00:23.12 – 00:26.04 | gunakan suhu 180 darjah celsius, |
-| 00:26.23 – 00:27.37 | dia akan maintain |
-| 00:27.37 – 00:29.51 | sahaja pada 180 tu, |
-| 00:29.69 – 00:31.07 | sehinggalah habis |
-| 00:31.07 – 00:31.67 | dia menggoreng. |
-| 00:31.86 – 00:32.54 | Katalah kita punya |
-| 00:32.54 – 00:33.58 | adunan tu sejuk, |
-| 00:33.76 – 00:34.64 | minyak tu pun dia |
-| 00:34.64 – 00:35.58 | akan sejuk balik. |
-| 00:35.76 – 00:36.44 | Lepas tu kita kena |
-| 00:36.44 – 00:37.64 | kuatkan api balik. |
-| 00:37.92 – 00:38.72 | Kadang-kadang bila |
-| 00:38.72 – 00:40.08 | kita silap kawal api, |
-| 00:40.36 – 00:41.72 | itu yang menyebabkan cucur |
-| 00:41.72 – 00:43.14 | kita tu serap minyak. |
+| 00:09.66 – 00:11.36 | Kalau you all nak tahu apa |
+| 00:11.36 – 00:13.46 | beza bila kita goreng menggunakan |
+| 00:13.46 – 00:14.86 | fungsi deep fry berbanding |
+| 00:14.86 – 00:16.22 | kita goreng guna kuali, |
+| 00:16.43 – 00:17.07 | bila kita guna |
+| 00:17.07 – 00:18.15 | fungsi deep fry ni, |
+| 00:18.33 – 00:20.07 | dia punya suhu tu safety tau. |
+| 00:20.26 – 00:21.04 | Contoh kan, |
+| 00:21.23 – 00:22.49 | kalau macam sekarang kita |
+| 00:22.49 – 00:25.41 | gunakan suhu 180 darjah celsius, |
+| 00:25.59 – 00:26.73 | dia akan maintain |
+| 00:26.73 – 00:28.87 | sahaja pada 180 tu, |
+| 00:29.06 – 00:30.44 | sehinggalah habis |
+| 00:30.44 – 00:31.04 | dia menggoreng. |
+| 00:31.23 – 00:31.91 | Katalah kita punya |
+| 00:31.91 – 00:32.95 | adunan tu sejuk, |
+| 00:33.13 – 00:34.01 | minyak tu pun dia |
+| 00:34.01 – 00:34.95 | akan sejuk balik. |
+| 00:35.13 – 00:35.81 | Lepas tu kita kena |
+| 00:35.81 – 00:37.01 | kuatkan api balik. |
+| 00:37.29 – 00:38.09 | Kadang-kadang bila |
+| 00:38.09 – 00:39.45 | kita silap kawal api, |
+| 00:39.73 – 00:41.09 | itu yang menyebabkan cucur |
+| 00:41.09 – 00:42.51 | kita tu serap minyak. |
 
 </details>
 
@@ -320,7 +314,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 ## 06-lapik-baking-paper: Malas basuh periuk? Buat ini
 
 - Siri: TIP DAPUR
-- Tempoh: 36.2 s
+- Tempoh: 35.6 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Malas basuh periuk? Buat ini**
 - Label isi penting: Lapik inner pot dengan baking paper
 
@@ -333,7 +327,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 5 | 09:05.00 – 09:10.72 | 00:14.50 | 5.73 s |
 | 6 | 09:11.40 – 09:18.50 | 00:20.23 | 7.10 s |
 | 7 | 1:24:15.58 – 1:24:19.02 | 00:27.33 | 3.43 s |
-| 8 | 1:24:20.64 – 1:24:23.90 | 00:30.77 | 3.27 s |
+| 8 | 1:24:21.24 – 1:24:23.90 | 00:30.77 | 2.67 s |
 
 <details><summary>Subtitle</summary>
 
@@ -360,9 +354,8 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:27.39 – 00:28.47 | Nampak tak kita angkat |
 | 00:28.47 – 00:29.59 | seketul macam ni terus |
 | 00:29.59 – 00:30.65 | letak dekat sinki. |
-| 00:30.83 – 00:31.27 | Sinki. |
-| 00:31.43 – 00:32.65 | So takdalah kita punya |
-| 00:32.65 – 00:33.91 | inner pot ni kotor. |
+| 00:30.83 – 00:32.05 | So takdalah kita punya |
+| 00:32.05 – 00:33.31 | inner pot ni kotor. |
 
 </details>
 
@@ -393,7 +386,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:05.82 – 00:06.56 | Jadi memang K takde |
 | 00:06.56 – 00:07.24 | dapur gas dah lah. |
 | 00:07.38 – 00:08.58 | Sebab tu K akan masak |
-| 00:08.58 – 00:09.44 | memang 100 % dengan |
+| 00:08.58 – 00:09.44 | memang 100% dengan |
 | 00:09.44 – 00:11.26 | menggunakan Cooven sahaja. |
 | 00:11.43 – 00:12.93 | So siapa-siapa yang duduk |
 | 00:12.93 – 00:15.03 | dekat rumah yang dapur dia |
@@ -502,9 +495,8 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:03.49 – 00:05.65 | COO tu adalah cooker |
 | 00:05.65 – 00:07.79 | dan VEN tu adalah |
 | 00:07.79 – 00:09.31 | daripada perkataan oven. |
-| 00:09.49 – 00:09.67 | So, |
-| 00:09.86 – 00:11.42 | cooker digabungkan dengan |
-| 00:11.42 – 00:13.00 | oven jadilah Cooven. |
+| 00:09.49 – 00:11.16 | So, cooker digabungkan |
+| 00:11.16 – 00:13.00 | dengan oven jadilah Cooven. |
 | 00:13.19 – 00:13.79 | Sebab apa? |
 | 00:13.99 – 00:15.99 | Sebab Cooven ni sendiri |
 | 00:15.99 – 00:17.83 | dia adalah gabungan |
@@ -512,14 +504,14 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:19.61 – 00:20.49 | juga fungsi oven. |
 | 00:20.63 – 00:21.61 | Dia adalah multi oven |
 | 00:21.61 – 00:23.31 | dan juga multi cooker. |
-| 00:23.49 – 00:24.21 | Okay, |
-| 00:24.39 – 00:25.85 | lepas tu kalau awak nak tahu |
-| 00:25.85 – 00:27.69 | dekat dalam Cooven ni dia ada |
-| 00:27.69 – 00:30.69 | 15 fungsi dan ada satu lagi |
-| 00:30.69 – 00:31.83 | tambahan yang kita panggil |
-| 00:31.83 – 00:33.21 | temperature probe yang inilah |
-| 00:33.21 – 00:34.97 | kalau awak perasan yang kita |
-| 00:34.97 – 00:36.71 | tengah guna untuk bakar ayam ni. |
+| 00:23.49 – 00:25.41 | Okay, lepas tu kalau awak |
+| 00:25.41 – 00:27.07 | nak tahu dekat dalam Cooven |
+| 00:27.07 – 00:29.65 | ni dia ada 15 fungsi dan |
+| 00:29.65 – 00:31.33 | ada satu lagi tambahan yang |
+| 00:31.33 – 00:32.19 | kita panggil temperature |
+| 00:32.19 – 00:34.07 | probe yang inilah kalau awak |
+| 00:34.07 – 00:35.13 | perasan yang kita tengah |
+| 00:35.13 – 00:36.71 | guna untuk bakar ayam ni. |
 | 00:36.83 – 00:37.93 | Okay temperature probe |
 | 00:37.93 – 00:39.59 | ni diberikan sekali. |
 | 00:39.71 – 00:41.27 | Dia built in sekali dekat dalam |
@@ -552,9 +544,8 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 
 | Output | Teks |
 |---|---|
-| 00:00.06 – 00:00.16 | Okay, |
-| 00:00.33 – 00:01.35 | so fungsi yang pertama |
-| 00:01.35 – 00:02.55 | yang ada pada Cooven |
+| 00:00.06 – 00:00.95 | Okay, so fungsi yang |
+| 00:00.95 – 00:02.55 | pertama yang ada pada Cooven |
 | 00:02.55 – 00:04.21 | adalah fungsi cooker. |
 | 00:04.39 – 00:05.81 | Fungsi cooker ni fungsi apa? |
 | 00:06.01 – 00:07.07 | Fungsi cooker ni dia |
@@ -566,17 +557,17 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:13.81 – 00:14.89 | korang ada dekat rumah tu. |
 | 00:15.09 – 00:16.81 | Dia boleh gantikan ke semua |
 | 00:16.81 – 00:17.97 | fungsi-fungsi tu tadi. |
-| 00:18.16 – 00:18.36 | Okay, |
-| 00:18.64 – 00:20.18 | paling senang kita cakap dia |
-| 00:20.18 – 00:21.42 | boleh gantikan dapur gas lah. |
+| 00:18.16 – 00:19.48 | Okay, paling senang |
+| 00:19.48 – 00:20.38 | kita cakap dia boleh |
+| 00:20.38 – 00:21.42 | gantikan dapur gas lah. |
 | 00:21.63 – 00:22.91 | Sebab tu dekat rumah K |
 | 00:22.91 – 00:24.05 | pun dah takde dapur gas. |
 | 00:24.23 – 00:25.97 | Sebab hari tu lepas beli |
-| 00:25.97 – 00:27.27 | Cooven ni dah purgen rosak. |
+| 00:25.97 – 00:27.27 | Cooven ni dapur gas rosak. |
 | 00:27.39 – 00:28.13 | Jadi memang K takde |
 | 00:28.13 – 00:28.81 | dapur gas dah lah. |
 | 00:28.95 – 00:30.15 | Sebab tu K akan masak |
-| 00:30.15 – 00:31.01 | memang 100 % dengan |
+| 00:30.15 – 00:31.01 | memang 100% dengan |
 | 00:31.01 – 00:32.83 | menggunakan Cooven sahaja. |
 | 00:32.99 – 00:34.67 | Okey so untuk fungsi cooker |
 | 00:34.67 – 00:36.59 | kita boleh adjust suhu tau. |
@@ -662,7 +653,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 ## f03-sous-vide: Fungsi Sous Vide: dada ayam juicy
 
 - Siri: FUNGSI COOVEN · 3
-- Tempoh: 50.8 s
+- Tempoh: 50.5 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Fungsi Sous Vide: dada ayam juicy**
 - Label isi penting: Suhu rendah, dalam vacuum pack
 
@@ -677,7 +668,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 7 | 48:53.54 – 48:54.62 | 00:38.83 | 1.10 s |
 | 8 | 48:54.74 – 49:00.50 | 00:39.93 | 5.77 s |
 | 9 | 49:00.70 – 49:01.86 | 00:45.70 | 1.17 s |
-| 10 | 49:04.86 – 49:06.56 | 00:46.87 | 1.70 s |
+| 10 | 49:05.16 – 49:06.56 | 00:46.87 | 1.40 s |
 
 <details><summary>Subtitle</summary>
 
@@ -706,8 +697,8 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:27.21 – 00:28.57 | menggunakan suhu yang rendah. |
 | 00:28.77 – 00:30.47 | Tapi kita kena |
 | 00:30.47 – 00:31.79 | masukkan dekat dalam. |
-| 00:31.96 – 00:33.64 | Dia bukan masak 100 % tau. |
-| 00:33.76 – 00:36.44 | Dia akan 70 % masak. |
+| 00:31.96 – 00:33.64 | Dia bukan masak 100% tau. |
+| 00:33.76 – 00:36.44 | Dia akan 70% masak. |
 | 00:36.63 – 00:38.73 | Tapi ayam tu dia jadi juicy, |
 | 00:38.89 – 00:39.79 | dia jadi lembut, |
 | 00:39.99 – 00:42.03 | dia jadi perapan tu dia |
@@ -715,16 +706,15 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:43.83 – 00:44.61 | Dan walaupun kita |
 | 00:44.61 – 00:45.57 | guna dada ayam, |
 | 00:45.76 – 00:46.74 | rasa dia tu sedap. |
-| 00:46.93 – 00:47.17 | Sedap. |
-| 00:47.23 – 00:47.75 | Dia tak kering |
-| 00:47.75 – 00:48.45 | lah, dia tak dry. |
+| 00:46.93 – 00:47.45 | Dia tak kering |
+| 00:47.45 – 00:48.15 | lah, dia tak dry. |
 
 </details>
 
 ## f04-steam: Fungsi Steam: 3 lapis sekali kukus
 
 - Siri: FUNGSI COOVEN · 4
-- Tempoh: 61.0 s
+- Tempoh: 58.6 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Fungsi Steam: 3 lapis sekali kukus**
 - Label isi penting: 3 lapis rak; 16 biji pau, ±5 minit
 
@@ -735,12 +725,12 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 3 | 50:36.80 – 50:40.80 | 00:11.20 | 4.00 s |
 | 4 | 50:41.42 – 50:46.58 | 00:15.20 | 5.17 s |
 | 5 | 50:47.74 – 50:50.72 | 00:20.37 | 3.00 s |
-| 6 | 50:50.90 – 50:57.96 | 00:23.37 | 7.07 s |
-| 7 | 50:58.14 – 51:02.68 | 00:30.43 | 4.57 s |
-| 8 | 51:03.20 – 51:19.06 | 00:35.00 | 15.87 s |
-| 9 | 51:19.22 – 51:24.04 | 00:50.87 | 4.83 s |
-| 10 | 51:24.20 – 51:25.80 | 00:55.70 | 1.60 s |
-| 11 | 51:25.94 – 51:27.46 | 00:57.30 | 1.53 s |
+| 6 | 50:53.30 – 50:57.96 | 00:23.37 | 4.67 s |
+| 7 | 50:58.14 – 51:02.68 | 00:28.03 | 4.57 s |
+| 8 | 51:03.20 – 51:19.06 | 00:32.60 | 15.87 s |
+| 9 | 51:19.22 – 51:24.04 | 00:48.47 | 4.83 s |
+| 10 | 51:24.20 – 51:25.80 | 00:53.30 | 1.60 s |
+| 11 | 51:25.94 – 51:27.46 | 00:54.90 | 1.53 s |
 
 <details><summary>Subtitle</summary>
 
@@ -756,34 +746,31 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:11.26 – 00:12.78 | Kalau kita tak sabar kan |
 | 00:12.78 – 00:14.02 | nak rebus cepat-cepat, kita |
 | 00:14.02 – 00:15.08 | boleh guna fungsi steam. |
-| 00:15.26 – 00:16.60 | Untuk siapa-siapa yang |
-| 00:16.60 – 00:17.52 | buat pembelian Cooven |
-| 00:17.52 – 00:18.82 | cooker, you boleh steam |
-| 00:18.82 – 00:20.24 | secara tiga layer tau. |
+| 00:15.26 – 00:16.76 | Untuk siapa-siapa yang buat |
+| 00:16.76 – 00:18.24 | pembelian Cooven, you boleh |
+| 00:18.24 – 00:20.24 | steam secara tiga layer tau. |
 | 00:20.43 – 00:22.27 | Ni layer atas sekali, kita |
 | 00:22.27 – 00:23.23 | panggil steaming rack. |
-| 00:23.43 – 00:24.51 | Lepas tu tadi kan, kita ada |
-| 00:24.51 – 00:25.71 | tunjuk dia kat awal-awal tadi, |
-| 00:25.83 – 00:27.23 | kita ada medium rack dan juga |
-| 00:27.23 – 00:29.03 | lower rack yang kita panggil |
-| 00:29.03 – 00:30.31 | sebagai multi-purpose rack tu. |
-| 00:30.49 – 00:31.13 | Yang tu kita boleh |
-| 00:31.13 – 00:31.91 | letak dekat bawah. |
-| 00:32.13 – 00:33.37 | So, kita boleh buat tiga |
-| 00:33.37 – 00:34.85 | layer terus untuk steaming. |
-| 00:35.06 – 00:36.50 | So, kalau macam kita nak steam |
-| 00:36.50 – 00:38.04 | kuih ke apa kan, kita boleh |
-| 00:38.04 – 00:41.10 | buat terus sekali 30 biji. |
-| 00:41.10 – 00:43.22 | Lepas tu kalau macam kita |
-| 00:43.22 – 00:45.36 | nak buat pau tu yang doh 50 |
-| 00:45.36 – 00:47.32 | gram tu Boleh buat dalam 16 |
-| 00:47.32 – 00:49.02 | biji sekali steam, lebih |
-| 00:49.02 – 00:50.74 | kurang dalam 5 minit sahaja. |
-| 00:50.93 – 00:54.07 | Jadi nak kata Cooven |
-| 00:54.07 – 00:55.57 | ni kecil, tak juga. |
-| 00:55.76 – 00:57.18 | Nak kata terlalu besar pun, |
-| 00:57.36 – 00:57.74 | tak juga. |
-| 00:57.94 – 00:58.70 | Dia just nice. |
+| 00:23.43 – 00:24.83 | Kita ada medium rack dan juga |
+| 00:24.83 – 00:26.63 | lower rack yang kita panggil |
+| 00:26.63 – 00:27.91 | sebagai multi-purpose rack tu. |
+| 00:28.09 – 00:28.73 | Yang tu kita boleh |
+| 00:28.73 – 00:29.51 | letak dekat bawah. |
+| 00:29.73 – 00:30.97 | So, kita boleh buat tiga |
+| 00:30.97 – 00:32.45 | layer terus untuk steaming. |
+| 00:32.66 – 00:34.10 | So, kalau macam kita nak steam |
+| 00:34.10 – 00:35.64 | kuih ke apa kan, kita boleh |
+| 00:35.64 – 00:38.70 | buat terus sekali 30 biji. |
+| 00:38.70 – 00:40.82 | Lepas tu kalau macam kita |
+| 00:40.82 – 00:42.96 | nak buat pau tu yang doh 50 |
+| 00:42.96 – 00:44.92 | gram tu, boleh buat dalam 16 |
+| 00:44.92 – 00:46.62 | biji sekali steam, lebih |
+| 00:46.62 – 00:48.34 | kurang dalam 5 minit sahaja. |
+| 00:48.53 – 00:51.67 | Jadi nak kata Cooven |
+| 00:51.67 – 00:53.17 | ni kecil, tak juga. |
+| 00:53.36 – 00:54.78 | Nak kata terlalu besar pun, |
+| 00:54.96 – 00:55.34 | tak juga. |
+| 00:55.54 – 00:56.30 | Dia just nice. |
 
 </details>
 
@@ -814,10 +801,9 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:04.53 – 00:05.13 | Sebab dia orang kata |
 | 00:05.13 – 00:06.29 | macam eh tak sangka |
 | 00:06.29 – 00:07.33 | lah saya pandai masak. |
-| 00:07.53 – 00:09.41 | Bezanya adalah bila kita |
-| 00:09.41 – 00:10.93 | guna fungsi rice yang |
-| 00:10.93 – 00:12.17 | ada pada Cooven cooker ni, |
-| 00:12.33 – 00:13.63 | kita tak perlu nak |
+| 00:07.53 – 00:09.73 | Bezanya adalah bila kita guna |
+| 00:09.73 – 00:11.33 | fungsi rice yang ada pada |
+| 00:11.33 – 00:13.63 | Cooven ni, kita tak perlu nak |
 | 00:13.63 – 00:16.59 | alih-alihkan periuk kita tu. |
 | 00:16.69 – 00:18.29 | Contoh, kalau macam sebelum |
 | 00:18.29 – 00:19.69 | ni, kita nak masak nasi ayam, |
@@ -832,8 +818,8 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:30.61 – 00:31.63 | terus masukkan air dan |
 | 00:31.63 – 00:32.95 | tekan terus fungsi rice. |
 | 00:32.95 – 00:34.15 | So tak perlu nak |
-| 00:34.15 – 00:35.07 | angkat-angkat Tak perlu |
-| 00:35.07 – 00:35.97 | nak tukar-tukar bekas |
+| 00:34.15 – 00:35.07 | angkat-angkat, tak perlu |
+| 00:35.07 – 00:35.97 | nak tukar-tukar bekas. |
 | 00:36.16 – 00:37.04 | So fungsi rice |
 | 00:37.04 – 00:39.24 | secepat 15 minit. |
 | 00:39.38 – 00:41.14 | Okey dia punya masa timing tu |
@@ -849,22 +835,21 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 ## f06-air-crisp: Fungsi Air Crisp: juicy, tak kering
 
 - Siri: FUNGSI COOVEN · 6
-- Tempoh: 63.2 s
+- Tempoh: 56.5 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Fungsi Air Crisp: juicy, tak kering**
 - Label isi penting: Minyak sangat minimum
 
 | # | Sumber | Output | Tempoh |
 |---|---|---|---|
 | 1 | 53:40.54 – 53:48.78 | 00:00.00 | 8.27 s |
-| 2 | 53:49.78 – 53:50.30 | 00:08.27 | 0.53 s |
-| 3 | 53:53.02 – 53:55.02 | 00:08.80 | 3.47 s |
-| 4 | 53:56.64 – 54:00.72 | 00:12.27 | 4.10 s |
-| 5 | 54:00.84 – 54:07.50 | 00:16.37 | 6.67 s |
-| 6 | 54:07.74 – 54:23.20 | 00:23.03 | 15.47 s |
-| 7 | 54:26.64 – 54:31.72 | 00:38.50 | 5.10 s |
-| 8 | 54:53.50 – 54:57.88 | 00:43.60 | 4.40 s |
-| 9 | 54:58.04 – 55:02.34 | 00:48.00 | 4.30 s |
-| 10 | 55:04.94 – 55:08.96 | 00:52.30 | 8.67 s |
+| 2 | 53:53.02 – 53:55.02 | 00:08.27 | 2.00 s |
+| 3 | 53:56.64 – 54:00.72 | 00:10.27 | 4.10 s |
+| 4 | 54:00.84 – 54:07.50 | 00:14.37 | 6.67 s |
+| 5 | 54:07.74 – 54:23.20 | 00:21.03 | 15.47 s |
+| 6 | 54:26.64 – 54:31.72 | 00:36.50 | 5.10 s |
+| 7 | 54:53.50 – 54:57.88 | 00:41.60 | 4.40 s |
+| 8 | 54:58.04 – 55:02.34 | 00:46.00 | 4.30 s |
+| 9 | 55:04.94 – 55:08.96 | 00:50.30 | 4.03 s |
 
 <details><summary>Subtitle</summary>
 
@@ -875,40 +860,39 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:03.44 – 00:04.50 | Fungsi air crisp. |
 | 00:04.50 – 00:06.52 | Ni dia similar kepada |
 | 00:06.52 – 00:08.12 | fungsi air fryer. |
-| 00:08.33 – 00:08.67 | Kan. |
-| 00:08.86 – 00:10.68 | Tapi apa yang tak sama? |
-| 00:12.33 – 00:14.03 | Perbezaannya adalah bila |
-| 00:14.03 – 00:16.23 | kita gunakan fungsi Cooven, |
-| 00:16.43 – 00:18.45 | air crisp kita ni ayam |
-| 00:18.45 – 00:20.19 | ataupun ikan yang kita goreng |
-| 00:20.19 – 00:21.25 | menggunakan fungsi air |
-| 00:21.25 – 00:22.91 | crisp ni dia lebih juicy. |
-| 00:23.09 – 00:23.95 | Dia tidak kering. |
-| 00:24.17 – 00:25.21 | Dia tak sama macam kita |
-| 00:25.21 – 00:26.11 | goreng dalam air fryer. |
-| 00:26.25 – 00:27.47 | Kalau dalam air fryer tu |
-| 00:27.47 – 00:29.09 | ayam tu dia akan dry. |
-| 00:29.25 – 00:29.79 | Kita kena letak |
-| 00:29.79 – 00:30.67 | minyak yang banyak. |
-| 00:30.91 – 00:31.97 | Lepas tu kejap-kejap kita |
-| 00:31.97 – 00:33.61 | kena buka letak minyak ataupun |
-| 00:33.61 – 00:34.69 | ada satu lagi cara nak |
-| 00:34.69 – 00:35.71 | hack kita kena letak air |
-| 00:35.71 – 00:37.19 | satu mangkuk ataupun air dekat |
-| 00:37.19 – 00:38.37 | bawah dia punya penapis. |
-| 00:38.56 – 00:40.88 | Hasil dia nanti semacam |
-| 00:40.88 – 00:42.40 | kita deep fry, tapi |
-| 00:42.40 – 00:43.46 | kita tak deep fry. |
-| 00:43.66 – 00:45.60 | Boleh goreng keropok |
-| 00:45.60 – 00:46.86 | tanpa menggunakan minyak. |
-| 00:46.96 – 00:47.86 | Contoh macam papadum, |
-| 00:48.06 – 00:48.12 | kan? |
-| 00:48.34 – 00:49.22 | Kita nak buat popcorn. |
-| 00:49.52 – 00:50.96 | Yang tu semua kita boleh gunakan |
-| 00:50.96 – 00:52.18 | fungsi air crisp ni tadi. |
-| 00:52.36 – 00:53.52 | Ataupun kita nak goreng nugget |
-| 00:53.52 – 00:54.78 | ke, nak goreng kentang ke, |
-| 00:54.96 – 00:56.20 | nak goreng keropok lekor ke. |
+| 00:08.33 – 00:10.15 | Tapi apa yang tak sama? |
+| 00:10.33 – 00:12.03 | Perbezaannya adalah bila |
+| 00:12.03 – 00:14.23 | kita gunakan fungsi Cooven, |
+| 00:14.43 – 00:16.45 | air crisp kita ni ayam |
+| 00:16.45 – 00:18.19 | ataupun ikan yang kita goreng |
+| 00:18.19 – 00:19.25 | menggunakan fungsi air |
+| 00:19.25 – 00:20.91 | crisp ni dia lebih juicy. |
+| 00:21.09 – 00:21.95 | Dia tidak kering. |
+| 00:22.17 – 00:23.21 | Dia tak sama macam kita |
+| 00:23.21 – 00:24.11 | goreng dalam air fryer. |
+| 00:24.25 – 00:25.47 | Kalau dalam air fryer tu |
+| 00:25.47 – 00:27.09 | ayam tu dia akan dry. |
+| 00:27.25 – 00:27.79 | Kita kena letak |
+| 00:27.79 – 00:28.67 | minyak yang banyak. |
+| 00:28.91 – 00:29.97 | Lepas tu kejap-kejap kita |
+| 00:29.97 – 00:31.61 | kena buka letak minyak ataupun |
+| 00:31.61 – 00:32.69 | ada satu lagi cara nak |
+| 00:32.69 – 00:33.71 | hack kita kena letak air |
+| 00:33.71 – 00:35.19 | satu mangkuk ataupun air dekat |
+| 00:35.19 – 00:36.37 | bawah dia punya penapis. |
+| 00:36.56 – 00:38.88 | Hasil dia nanti semacam |
+| 00:38.88 – 00:40.40 | kita deep fry, tapi |
+| 00:40.40 – 00:41.46 | kita tak deep fry. |
+| 00:41.66 – 00:43.60 | Boleh goreng keropok |
+| 00:43.60 – 00:44.86 | tanpa menggunakan minyak. |
+| 00:44.96 – 00:45.86 | Contoh macam papadum, |
+| 00:46.06 – 00:46.12 | kan? |
+| 00:46.34 – 00:47.22 | Kita nak buat popcorn. |
+| 00:47.52 – 00:48.96 | Yang tu semua kita boleh gunakan |
+| 00:48.96 – 00:50.18 | fungsi air crisp ni tadi. |
+| 00:50.36 – 00:51.52 | Ataupun kita nak goreng nugget |
+| 00:51.52 – 00:52.78 | ke, nak goreng kentang ke, |
+| 00:52.96 – 00:54.20 | nak goreng keropok lekor ke. |
 
 </details>
 
@@ -969,18 +953,19 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:44.23 – 00:45.19 | nak makan ikan masin |
 | 00:45.19 – 00:46.93 | kita boleh buat sendiri kan. |
 | 00:47.13 – 00:48.89 | Dari segi kebersihan, jauh |
-| 00:48.89 – 00:50.37 | lebih bersih lah Berbanding kita |
-| 00:50.37 – 00:51.79 | jemur kat luar Kita tak tahu |
-| 00:51.79 – 00:53.02 | binatang apa yang tengah |
-| 00:53.02 – 00:54.75 | terbang kan Binatang apa yang |
-| 00:54.75 – 00:56.49 | tinggalkan jejak Kita tak tahu |
+| 00:48.89 – 00:50.03 | lebih bersih lah berbanding |
+| 00:50.03 – 00:51.10 | kita jemur kat luar. |
+| 00:51.10 – 00:52.49 | Kita tak tahu binatang apa |
+| 00:52.49 – 00:53.84 | yang tengah terbang kan. |
+| 00:53.84 – 00:55.25 | Binatang apa yang tinggalkan |
+| 00:55.25 – 00:56.49 | jejak, kita tak tahu. |
 
 </details>
 
 ## f08-pizza: Fungsi Pizza: siap secepat 6 minit
 
 - Siri: FUNGSI COOVEN · 8
-- Tempoh: 51.1 s
+- Tempoh: 50.4 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Fungsi Pizza: siap secepat 6 minit**
 - Label isi penting: Secepat 6 minit
 
@@ -994,10 +979,10 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 6 | 57:31.46 – 57:35.20 | 00:15.97 | 3.73 s |
 | 7 | 57:35.38 – 57:36.89 | 00:19.70 | 1.53 s |
 | 8 | 57:36.89 – 57:39.46 | 00:21.23 | 2.60 s |
-| 9 | 57:40.28 – 57:45.86 | 00:23.83 | 5.60 s |
-| 10 | 57:45.98 – 57:47.80 | 00:29.43 | 1.83 s |
-| 11 | 57:47.98 – 57:55.50 | 00:31.27 | 7.53 s |
-| 12 | 57:55.94 – 58:06.00 | 00:38.80 | 10.07 s |
+| 9 | 57:40.92 – 57:45.86 | 00:23.83 | 4.97 s |
+| 10 | 57:45.98 – 57:47.80 | 00:28.80 | 1.83 s |
+| 11 | 57:47.98 – 57:55.50 | 00:30.63 | 7.53 s |
+| 12 | 57:55.94 – 58:06.00 | 00:38.17 | 10.07 s |
 
 <details><summary>Subtitle</summary>
 
@@ -1021,25 +1006,23 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:19.76 – 00:21.20 | Sebab itu je yang kita tahu. |
 | 00:21.24 – 00:22.54 | Kalau nak masak pizza |
 | 00:22.54 – 00:23.68 | ala-ala Neapolitan tu |
-| 00:23.89 – 00:24.25 | air, |
-| 00:24.53 – 00:25.65 | nak kena tinggikan suhu, |
-| 00:25.77 – 00:26.83 | lepas tu kita nak kena tahu |
-| 00:26.83 – 00:28.01 | macam mana nak dapatkan |
-| 00:28.01 – 00:29.29 | garing dekat bahagian tepi. |
-| 00:29.49 – 00:30.59 | Tapi bila menggunakan |
-| 00:30.59 – 00:31.13 | Cooven cook, |
-| 00:31.33 – 00:33.29 | any type of pizza kita |
-| 00:33.29 – 00:34.33 | boleh bakar dekat dalam |
-| 00:34.33 – 00:36.83 | ni dan hasil dia persis |
-| 00:36.83 – 00:38.67 | kita gunakan oven pizza. |
-| 00:38.86 – 00:40.40 | Daripada kita beli oven |
-| 00:40.40 – 00:41.80 | pizza yang harga RM2,000 |
-| 00:41.80 – 00:42.44 | lebih, nak dekat |
-| 00:42.44 – 00:43.92 | RM3,000 tu kan, tak payah. |
-| 00:44.20 – 00:45.66 | Sebabnya kita bukan hari-hari |
-| 00:45.66 – 00:46.66 | nak niaga pizza pun. |
-| 00:46.90 – 00:47.84 | Belum tentu kita akan |
-| 00:47.84 – 00:48.74 | masak pizza hari-hari. |
+| 00:23.89 – 00:25.01 | nak kena tinggikan suhu, |
+| 00:25.13 – 00:26.19 | lepas tu kita nak kena tahu |
+| 00:26.19 – 00:27.37 | macam mana nak dapatkan |
+| 00:27.37 – 00:28.65 | garing dekat bahagian tepi. |
+| 00:28.86 – 00:30.50 | Tapi bila menggunakan Cooven, |
+| 00:30.69 – 00:32.65 | any type of pizza kita |
+| 00:32.65 – 00:33.69 | boleh bakar dekat dalam |
+| 00:33.69 – 00:36.19 | ni dan hasil dia persis |
+| 00:36.19 – 00:38.03 | kita gunakan oven pizza. |
+| 00:38.23 – 00:39.77 | Daripada kita beli oven |
+| 00:39.77 – 00:41.17 | pizza yang harga RM2,000 |
+| 00:41.17 – 00:41.81 | lebih, nak dekat |
+| 00:41.81 – 00:43.29 | RM3,000 tu kan, tak payah. |
+| 00:43.57 – 00:45.03 | Sebabnya kita bukan hari-hari |
+| 00:45.03 – 00:46.03 | nak niaga pizza pun. |
+| 00:46.27 – 00:47.21 | Belum tentu kita akan |
+| 00:47.21 – 00:48.11 | masak pizza hari-hari. |
 
 </details>
 
@@ -1086,7 +1069,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:25.14 – 00:26.80 | then dia tak ada percikan-percikan |
 | 00:26.80 – 00:27.78 | dekat tepi-tepi ni. |
 | 00:27.78 – 00:29.50 | So, kuranglah kerja |
-| 00:29.50 – 00:30.86 | kita nak mengemas |
+| 00:29.50 – 00:30.86 | kita nak mengemas. |
 | 00:31.03 – 00:31.77 | Tak payah gigih dah. |
 | 00:32.01 – 00:35.79 | Sebab dia akan auto panaskan |
 | 00:35.79 – 00:37.51 | kita punya minyak sampai |
@@ -1106,7 +1089,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 ## f10-slow-cook: Fungsi Slow Cook: masak sambil tidur
 
 - Siri: FUNGSI COOVEN · 10
-- Tempoh: 60.8 s
+- Tempoh: 56.2 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Fungsi Slow Cook: masak sambil tidur**
 - Label isi penting: Rasa asli, daging lembut
 
@@ -1114,16 +1097,15 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 |---|---|---|---|
 | 1 | 58:55.06 – 58:58.12 | 00:00.00 | 3.07 s |
 | 2 | 58:58.24 – 59:00.16 | 00:03.07 | 1.93 s |
-| 3 | 59:00.32 – 59:16.02 | 00:05.00 | 15.70 s |
-| 4 | 59:16.18 – 59:20.08 | 00:20.70 | 3.90 s |
-| 5 | 59:20.12 – 59:28.36 | 00:24.60 | 8.27 s |
-| 6 | 59:29.90 – 59:37.28 | 00:32.87 | 7.40 s |
-| 7 | 1:00:18.32 – 1:00:20.64 | 00:40.27 | 2.33 s |
-| 8 | 1:00:20.82 – 1:00:24.16 | 00:42.60 | 3.33 s |
-| 9 | 1:00:24.32 – 1:00:26.06 | 00:45.93 | 1.73 s |
-| 10 | 1:00:26.28 – 1:00:29.24 | 00:47.67 | 2.97 s |
-| 11 | 1:00:34.40 – 1:00:34.90 | 00:50.63 | 0.50 s |
-| 12 | 1:00:35.34 – 1:00:42.84 | 00:51.13 | 7.50 s |
+| 3 | 59:04.44 – 59:16.02 | 00:05.00 | 11.60 s |
+| 4 | 59:16.18 – 59:20.08 | 00:16.60 | 3.90 s |
+| 5 | 59:20.12 – 59:28.36 | 00:20.50 | 8.27 s |
+| 6 | 59:29.90 – 59:37.28 | 00:28.77 | 7.40 s |
+| 7 | 1:00:18.32 – 1:00:20.64 | 00:36.17 | 2.33 s |
+| 8 | 1:00:20.82 – 1:00:24.16 | 00:38.50 | 3.33 s |
+| 9 | 1:00:24.32 – 1:00:26.06 | 00:41.83 | 1.73 s |
+| 10 | 1:00:26.28 – 1:00:29.24 | 00:43.57 | 2.97 s |
+| 11 | 1:00:35.34 – 1:00:42.84 | 00:46.53 | 7.50 s |
 
 <details><summary>Subtitle</summary>
 
@@ -1133,47 +1115,43 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:01.25 – 00:02.94 | fungsi yang K suka sebab apa? |
 | 00:03.13 – 00:03.91 | Sebab kita boleh |
 | 00:03.91 – 00:04.87 | masak sambil tidur. |
-| 00:05.06 – 00:06.92 | Haa bayangkan apa je |
-| 00:06.92 – 00:07.92 | benda yang kita boleh |
-| 00:07.92 – 00:08.90 | masak sambil tidur. |
-| 00:09.18 – 00:10.32 | Kita boleh masak sambil tidur, |
-| 00:10.48 – 00:11.34 | kita boleh masak sambil |
-| 00:11.34 – 00:12.46 | bersembang dengan jiran |
-| 00:12.46 – 00:13.80 | sebelah, kita boleh masak sambil |
-| 00:13.80 – 00:14.92 | main dengan anak-anak, kita |
-| 00:14.92 – 00:16.06 | boleh masak sambil kita |
-| 00:16.06 – 00:17.64 | mengaji, lepas tu kita boleh |
-| 00:17.64 – 00:19.40 | tidur tanpa kita fikir apa |
-| 00:19.40 – 00:20.58 | benda yang ada dekat dapur. |
-| 00:20.76 – 00:22.00 | Haa tanpa kita fikir eh tadi |
-| 00:22.00 – 00:23.26 | aku masak aku dah tutup ke |
-| 00:23.26 – 00:24.48 | belum api, tak payah fikir. |
-| 00:24.66 – 00:26.56 | Sebab bila kita gunakan fungsi |
-| 00:26.56 – 00:28.08 | slow cook ni dia akan masak |
-| 00:28.08 – 00:29.70 | masakan kita tu dengan perlahan |
-| 00:29.70 – 00:32.72 | tapi dia akan keluarkan semua |
-| 00:32.93 – 00:34.51 | jus-jus yang ada dekat |
-| 00:34.51 – 00:35.69 | dalam masakan kita tu. |
-| 00:35.75 – 00:36.81 | Maksudnya kita punya |
-| 00:36.81 – 00:38.45 | masakan tu dia akan jadi |
-| 00:38.45 – 00:40.13 | original punya rasa tau. |
-| 00:40.33 – 00:41.43 | Contoh kan, Kak nak |
-| 00:41.43 – 00:42.47 | bawa bekal anak esok, |
-| 00:42.66 – 00:43.40 | Kak dah plan siap-siap. |
-| 00:43.50 – 00:44.80 | Oh, esok nak masakkan |
-| 00:44.80 – 00:45.82 | sup ayam lah. |
-| 00:45.99 – 00:46.77 | So, malam ni, Kak |
-| 00:46.77 – 00:47.55 | letak-letak bahan. |
-| 00:47.73 – 00:48.73 | Lepas tu, Kak tinggal je. |
-| 00:48.83 – 00:49.43 | Set je masa. |
-| 00:49.59 – 00:50.51 | Oh, satu jam tu tidur. |
-| 00:50.69 – 00:51.01 | Tidur. |
-| 00:51.19 – 00:52.47 | Haa, lepas tu esok pagi, Kak |
-| 00:52.47 – 00:53.73 | punya masakan pun dah siap. |
-| 00:53.99 – 00:55.07 | So, dah boleh ready untuk |
-| 00:55.07 – 00:56.27 | makan, dah boleh ready |
-| 00:56.27 – 00:57.69 | untuk bagi bekal anak-anak. |
-| 00:57.91 – 00:58.51 | Mudah sangat. |
+| 00:05.06 – 00:06.20 | Kita boleh masak sambil tidur, |
+| 00:06.36 – 00:07.22 | kita boleh masak sambil |
+| 00:07.22 – 00:08.35 | bersembang dengan jiran |
+| 00:08.35 – 00:09.68 | sebelah, kita boleh masak sambil |
+| 00:09.68 – 00:10.80 | main dengan anak-anak, kita |
+| 00:10.80 – 00:11.94 | boleh masak sambil kita |
+| 00:11.94 – 00:13.52 | mengaji, lepas tu kita boleh |
+| 00:13.52 – 00:15.28 | tidur tanpa kita fikir apa |
+| 00:15.28 – 00:16.46 | benda yang ada dekat dapur. |
+| 00:16.66 – 00:17.90 | Haa tanpa kita fikir eh tadi |
+| 00:17.90 – 00:19.16 | aku masak aku dah tutup ke |
+| 00:19.16 – 00:20.38 | belum api, tak payah fikir. |
+| 00:20.56 – 00:22.46 | Sebab bila kita gunakan fungsi |
+| 00:22.46 – 00:23.98 | slow cook ni dia akan masak |
+| 00:23.98 – 00:25.60 | masakan kita tu dengan perlahan |
+| 00:25.60 – 00:28.62 | tapi dia akan keluarkan semua |
+| 00:28.83 – 00:30.41 | jus-jus yang ada dekat |
+| 00:30.41 – 00:31.59 | dalam masakan kita tu. |
+| 00:31.65 – 00:32.71 | Maksudnya kita punya |
+| 00:32.71 – 00:34.35 | masakan tu dia akan jadi |
+| 00:34.35 – 00:36.03 | original punya rasa tau. |
+| 00:36.23 – 00:37.33 | Contoh kan, Kak nak |
+| 00:37.33 – 00:38.37 | bawa bekal anak esok, |
+| 00:38.56 – 00:39.30 | Kak dah plan siap-siap. |
+| 00:39.40 – 00:40.70 | Oh, esok nak masakkan |
+| 00:40.70 – 00:41.72 | sup ayam lah. |
+| 00:41.89 – 00:42.67 | So, malam ni, Kak |
+| 00:42.67 – 00:43.45 | letak-letak bahan. |
+| 00:43.63 – 00:44.63 | Lepas tu, Kak tinggal je. |
+| 00:44.73 – 00:45.33 | Set je masa. |
+| 00:45.49 – 00:46.41 | Oh, satu jam tu tidur. |
+| 00:46.59 – 00:47.87 | Haa, lepas tu esok pagi, Kak |
+| 00:47.87 – 00:49.13 | punya masakan pun dah siap. |
+| 00:49.39 – 00:50.47 | So, dah boleh ready untuk |
+| 00:50.47 – 00:51.67 | makan, dah boleh ready |
+| 00:51.67 – 00:53.09 | untuk bagi bekal anak-anak. |
+| 00:53.31 – 00:53.91 | Mudah sangat. |
 
 </details>
 
@@ -1217,8 +1195,8 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:25.06 – 00:27.18 | makaroni bakar ke kan kita |
 | 00:27.18 – 00:28.82 | nak cairkan cheese kat bahagian |
 | 00:28.82 – 00:30.62 | atas tu kan so kita boleh |
-| 00:30.62 – 00:32.58 | guna fungsi broil tu tadi |
-| 00:32.76 – 00:34.02 | kalau nak buat roti bakar |
+| 00:30.62 – 00:32.58 | guna fungsi broil tu tadi. |
+| 00:32.76 – 00:34.02 | Kalau nak buat roti bakar |
 | 00:34.02 – 00:34.96 | boleh guna broil, |
 | 00:35.06 – 00:36.10 | boleh je nak guna broil. |
 | 00:36.14 – 00:37.24 | Cuma kalau kita guna |
@@ -1231,7 +1209,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 ## f12-roast: Fungsi Roast: masak sekata 360°
 
 - Siri: FUNGSI COOVEN · 12
-- Tempoh: 46.6 s
+- Tempoh: 45.4 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Fungsi Roast: masak sekata 360°**
 - Label isi penting: Haba 360°, sekata
 
@@ -1241,7 +1219,7 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 2 | 1:01:40.12 – 1:01:42.04 | 00:10.40 | 1.93 s |
 | 3 | 1:01:42.26 – 1:01:52.32 | 00:12.33 | 10.07 s |
 | 4 | 1:02:07.62 – 1:02:22.66 | 00:22.40 | 15.03 s |
-| 5 | 1:02:22.82 – 1:02:29.80 | 00:37.43 | 6.97 s |
+| 5 | 1:02:22.82 – 1:02:28.56 | 00:37.43 | 5.73 s |
 
 <details><summary>Subtitle</summary>
 
@@ -1275,7 +1253,6 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 | 00:38.65 – 00:39.67 | masak sekata lah, dia |
 | 00:39.67 – 00:41.13 | sesuai je nak buat ayam ke |
 | 00:41.13 – 00:43.05 | buat ikan ke semua boleh. |
-| 00:43.23 – 00:44.29 | Boleh je tak guna fungsi |
 
 </details>
 
@@ -1343,62 +1320,59 @@ Masa sumber (`sumber`) ialah kedudukan dalam rakaman live 87 minit. Masa output 
 ## f14-oven: Fungsi Oven: kek, roti, pastri
 
 - Siri: FUNGSI COOVEN · 14
-- Tempoh: 51.6 s
+- Tempoh: 49.9 s
 - Hook / tajuk (bold, 0.0–3.4 s): **Fungsi Oven: kek, roti, pastri**
 - Label isi penting: Boleh masak dalam bekas lain
 
 | # | Sumber | Output | Tempoh |
 |---|---|---|---|
-| 1 | 1:05:06.34 – 1:05:16.10 | 00:00.00 | 9.77 s |
-| 2 | 1:05:16.32 – 1:05:22.34 | 00:09.77 | 6.03 s |
-| 3 | 1:05:22.54 – 1:05:24.58 | 00:15.80 | 2.07 s |
-| 4 | 1:05:24.78 – 1:05:25.94 | 00:17.87 | 1.17 s |
-| 5 | 1:05:26.12 – 1:05:28.54 | 00:19.03 | 2.43 s |
-| 6 | 1:05:36.24 – 1:05:39.04 | 00:21.47 | 2.80 s |
-| 7 | 1:05:41.18 – 1:05:41.78 | 00:24.27 | 0.60 s |
-| 8 | 1:05:41.92 – 1:05:47.92 | 00:24.87 | 6.00 s |
-| 9 | 1:05:48.12 – 1:05:56.82 | 00:30.87 | 8.70 s |
-| 10 | 1:05:57.02 – 1:06:00.90 | 00:39.57 | 3.90 s |
-| 11 | 1:06:01.64 – 1:06:07.58 | 00:43.47 | 5.93 s |
+| 1 | 1:05:07.46 – 1:05:16.10 | 00:00.00 | 8.63 s |
+| 2 | 1:05:16.32 – 1:05:22.34 | 00:08.63 | 6.03 s |
+| 3 | 1:05:22.54 – 1:05:24.58 | 00:14.67 | 2.07 s |
+| 4 | 1:05:24.78 – 1:05:25.94 | 00:16.73 | 1.17 s |
+| 5 | 1:05:26.12 – 1:05:28.54 | 00:17.90 | 2.43 s |
+| 6 | 1:05:36.24 – 1:05:39.04 | 00:20.33 | 2.80 s |
+| 7 | 1:05:41.92 – 1:05:47.92 | 00:23.13 | 6.00 s |
+| 8 | 1:05:48.12 – 1:05:56.82 | 00:29.13 | 8.70 s |
+| 9 | 1:05:57.02 – 1:06:00.90 | 00:37.83 | 3.90 s |
+| 10 | 1:06:01.64 – 1:06:07.58 | 00:41.73 | 5.93 s |
 
 <details><summary>Subtitle</summary>
 
 | Output | Teks |
 |---|---|
-| 00:00.06 – 00:00.96 | Oven. |
-| 00:01.18 – 00:02.14 | So itu adalah fungsi yang |
-| 00:02.14 – 00:03.16 | terakhirlah, fungsi oven. |
-| 00:03.38 – 00:04.32 | So fungsi oven ni |
-| 00:04.32 – 00:05.32 | untuk masak apa ke? |
-| 00:05.52 – 00:07.70 | Fungsi oven ni macam mana kita |
-| 00:07.70 – 00:09.64 | gunakan oven yang sebelum ni, |
-| 00:09.83 – 00:10.81 | macam tu jugalah kita |
-| 00:10.81 – 00:11.67 | gunakan dekat sini. |
-| 00:11.83 – 00:12.81 | Kita boleh bakar ke? |
-| 00:13.11 – 00:14.01 | Kita boleh bakar roti, |
-| 00:14.29 – 00:15.67 | kita boleh bakar sourdough, |
-| 00:15.86 – 00:17.72 | kita boleh bakar scone, |
-| 00:17.93 – 00:18.91 | kita boleh bakar pastry, |
-| 00:19.09 – 00:20.03 | semua tu kita boleh bakar |
-| 00:20.03 – 00:21.33 | dengan menggunakan fungsi oven. |
-| 00:21.53 – 00:22.81 | Ada pinggan macam ni |
-| 00:22.81 – 00:24.15 | ataupun mangkuk ke kan. |
-| 00:24.33 – 00:24.75 | Mangkuk. |
-| 00:24.93 – 00:26.59 | Mangkuk ni kita letak ayam, |
-| 00:26.81 – 00:28.35 | kita letak kuah apa semua kan. |
-| 00:28.45 – 00:29.39 | Katalah kita letak ibu |
-| 00:29.39 – 00:30.75 | sambal, letak ayam semua. |
-| 00:30.93 – 00:32.51 | Lepas tu kita letak sekali |
-| 00:32.51 – 00:33.71 | dengan mangkuk-mangkuk ni dekat |
-| 00:33.71 – 00:35.11 | dalam kita punya inner pot. |
-| 00:35.23 – 00:36.83 | Kita boleh gunakan fungsi oven |
-| 00:36.83 – 00:38.27 | juga untuk masak masakan |
-| 00:38.27 – 00:39.45 | kita dekat dalam bekas lain. |
-| 00:39.63 – 00:40.89 | So kita tak perlu basuh dah |
-| 00:40.89 – 00:43.33 | kita punya inner pot tu tadi. |
-| 00:43.53 – 00:44.93 | Maksudnya macam kita masak |
-| 00:44.93 – 00:47.01 | benda dalam periuk kecil tapi |
-| 00:47.01 – 00:48.29 | periuk kecil tu kita masukkan |
-| 00:48.29 – 00:49.29 | dekat dalam Cooven cooker. |
+| 00:00.06 – 00:01.02 | So itu adalah fungsi yang |
+| 00:01.02 – 00:02.04 | terakhirlah, fungsi oven. |
+| 00:02.26 – 00:03.20 | So fungsi oven ni |
+| 00:03.20 – 00:04.20 | untuk masak apa ke? |
+| 00:04.40 – 00:06.58 | Fungsi oven ni macam mana kita |
+| 00:06.58 – 00:08.52 | gunakan oven yang sebelum ni, |
+| 00:08.69 – 00:09.67 | macam tu jugalah kita |
+| 00:09.67 – 00:10.53 | gunakan dekat sini. |
+| 00:10.69 – 00:11.67 | Kita boleh bakar kek, |
+| 00:11.97 – 00:12.87 | kita boleh bakar roti, |
+| 00:13.15 – 00:14.53 | kita boleh bakar sourdough, |
+| 00:14.73 – 00:16.59 | kita boleh bakar scone, |
+| 00:16.79 – 00:17.77 | kita boleh bakar pastry, |
+| 00:17.96 – 00:18.90 | semua tu kita boleh bakar |
+| 00:18.90 – 00:20.20 | dengan menggunakan fungsi oven. |
+| 00:20.39 – 00:21.67 | Ada pinggan macam ni |
+| 00:21.67 – 00:23.01 | ataupun mangkuk ke kan. |
+| 00:23.19 – 00:24.85 | Mangkuk ni kita letak ayam, |
+| 00:25.07 – 00:26.61 | kita letak kuah apa semua kan. |
+| 00:26.71 – 00:27.65 | Katalah kita letak ibu |
+| 00:27.65 – 00:29.01 | sambal, letak ayam semua. |
+| 00:29.19 – 00:30.77 | Lepas tu kita letak sekali |
+| 00:30.77 – 00:31.97 | dengan mangkuk-mangkuk ni dekat |
+| 00:31.97 – 00:33.37 | dalam kita punya inner pot. |
+| 00:33.49 – 00:35.09 | Kita boleh gunakan fungsi oven |
+| 00:35.09 – 00:36.53 | juga untuk masak masakan |
+| 00:36.53 – 00:37.71 | kita dekat dalam bekas lain. |
+| 00:37.89 – 00:39.15 | So kita tak perlu basuh dah |
+| 00:39.15 – 00:41.59 | kita punya inner pot tu tadi. |
+| 00:41.79 – 00:43.19 | Maksudnya macam kita masak |
+| 00:43.19 – 00:45.11 | benda dalam periuk kecil |
+| 00:45.11 – 00:46.07 | tapi periuk kecil tu kita |
+| 00:46.07 – 00:47.55 | masukkan dekat dalam Cooven. |
 
 </details>

@@ -46,13 +46,13 @@
     </style>
   </head>
   <body>
-    <div id="root" data-composition-id="main" data-start="0" data-duration="57.4" data-width="1080" data-height="1920">
+    <div id="root" data-composition-id="main" data-start="0" data-duration="56.233" data-width="1080" data-height="1920">
       <div id="cam">
         <!-- Cut from the live (see edit.json); natural grade and noise reduction are baked in. -->
-        <video id="clip" class="clip" src="assets/clip.mp4" data-start="0" data-duration="55.2" data-has-audio="true" data-track-index="0" playsinline></video>
+        <video id="clip" class="clip" src="assets/clip.mp4" data-start="0" data-duration="54.033" data-has-audio="true" data-track-index="0" playsinline></video>
       </div>
-      <div id="text-host" data-composition-id="text" data-composition-src="compositions/text.html" data-start="0" data-duration="57.4" data-track-index="1" data-track-kind="graphics" data-width="1080" data-height="1920"></div>
-      <div id="subs-host" data-composition-id="subs" data-composition-src="compositions/subs.html" data-start="0" data-duration="55.2" data-track-index="2" data-track-kind="captions" data-width="1080" data-height="1920"></div>
+      <div id="text-host" data-composition-id="text" data-composition-src="compositions/text.html" data-start="0" data-duration="56.233" data-track-index="1" data-track-kind="graphics" data-width="1080" data-height="1920"></div>
+      <div id="subs-host" data-composition-id="subs" data-composition-src="compositions/subs.html" data-start="0" data-duration="54.033" data-track-index="2" data-track-kind="captions" data-width="1080" data-height="1920"></div>
     </div>
     <script>
       const tl = gsap.timeline({ paused: true });
@@ -63,25 +63,23 @@
       tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 3.067);
       tl.to("#cam", { scale: 1.0, duration: 1.893, ease: "none" }, 3.067);
       tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 5.000);
-      tl.to("#cam", { scale: 1.035, duration: 12.227, ease: "none" }, 5.000);
-      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 17.267);
-      tl.to("#cam", { scale: 1.0, duration: 3.860, ease: "none" }, 17.267);
-      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 21.167);
-      tl.to("#cam", { scale: 1.035, duration: 8.227, ease: "none" }, 21.167);
-      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 29.433);
-      tl.to("#cam", { scale: 1.0, duration: 7.360, ease: "none" }, 29.433);
-      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 36.833);
-      tl.to("#cam", { scale: 1.035, duration: 2.293, ease: "none" }, 36.833);
-      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 39.167);
-      tl.to("#cam", { scale: 1.0, duration: 3.293, ease: "none" }, 39.167);
-      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 42.500);
-      tl.to("#cam", { scale: 1.035, duration: 1.693, ease: "none" }, 42.500);
-      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 44.233);
-      tl.to("#cam", { scale: 1.0, duration: 2.927, ease: "none" }, 44.233);
-      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 47.200);
-      tl.to("#cam", { scale: 1.035, duration: 0.460, ease: "none" }, 47.200);
-      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 47.700);
-      tl.to("#cam", { scale: 1.0, duration: 7.460, ease: "none" }, 47.700);
+      tl.to("#cam", { scale: 1.035, duration: 11.560, ease: "none" }, 5.000);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 16.600);
+      tl.to("#cam", { scale: 1.0, duration: 3.860, ease: "none" }, 16.600);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 20.500);
+      tl.to("#cam", { scale: 1.035, duration: 8.227, ease: "none" }, 20.500);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 28.767);
+      tl.to("#cam", { scale: 1.0, duration: 7.360, ease: "none" }, 28.767);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 36.167);
+      tl.to("#cam", { scale: 1.035, duration: 2.293, ease: "none" }, 36.167);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 38.500);
+      tl.to("#cam", { scale: 1.0, duration: 3.293, ease: "none" }, 38.500);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 41.833);
+      tl.to("#cam", { scale: 1.035, duration: 1.693, ease: "none" }, 41.833);
+      tl.set("#cam", { scale: 1.035, transformOrigin: "50% 42%" }, 43.567);
+      tl.to("#cam", { scale: 1.0, duration: 2.927, ease: "none" }, 43.567);
+      tl.set("#cam", { scale: 1.0, transformOrigin: "50% 42%" }, 46.533);
+      tl.to("#cam", { scale: 1.035, duration: 7.460, ease: "none" }, 46.533);
       window.__timelines = window.__timelines || {};
       window.__timelines["main"] = tl;
     </script>

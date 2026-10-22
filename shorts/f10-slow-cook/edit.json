@@ -13,63 +13,57 @@
    "out_dur": 1.933
   },
   {
-   "src_in": 3543.76,
+   "src_in": 3544.44,
    "src_out": 3556.02,
    "out_start": 5.0,
-   "out_dur": 12.267
+   "out_dur": 11.6
   },
   {
    "src_in": 3556.18,
    "src_out": 3560.08,
-   "out_start": 17.267,
+   "out_start": 16.6,
    "out_dur": 3.9
   },
   {
    "src_in": 3560.12,
    "src_out": 3568.36,
-   "out_start": 21.167,
+   "out_start": 20.5,
    "out_dur": 8.267
   },
   {
    "src_in": 3569.9,
    "src_out": 3577.28,
-   "out_start": 29.433,
+   "out_start": 28.767,
    "out_dur": 7.4
   },
   {
    "src_in": 3618.32,
    "src_out": 3620.64,
-   "out_start": 36.833,
+   "out_start": 36.167,
    "out_dur": 2.333
   },
   {
    "src_in": 3620.82,
    "src_out": 3624.16,
-   "out_start": 39.167,
+   "out_start": 38.5,
    "out_dur": 3.333
   },
   {
    "src_in": 3624.32,
    "src_out": 3626.06,
-   "out_start": 42.5,
+   "out_start": 41.833,
    "out_dur": 1.733
   },
   {
    "src_in": 3626.28,
    "src_out": 3629.24,
-   "out_start": 44.233,
+   "out_start": 43.567,
    "out_dur": 2.967
-  },
-  {
-   "src_in": 3634.4,
-   "src_out": 3634.9,
-   "out_start": 47.2,
-   "out_dur": 0.5
   },
   {
    "src_in": 3635.34,
    "src_out": 3642.84,
-   "out_start": 47.7,
+   "out_start": 46.533,
    "out_dur": 7.5
   }
  ],
@@ -96,199 +90,189 @@
   },
   {
    "start": 5.06,
-   "end": 5.46,
-   "text": "Tidur."
-  },
-  {
-   "start": 5.74,
-   "end": 6.88,
+   "end": 6.2,
    "text": "Kita boleh masak sambil tidur,"
   },
   {
-   "start": 7.04,
-   "end": 7.9,
+   "start": 6.36,
+   "end": 7.22,
    "text": "kita boleh masak sambil"
   },
   {
-   "start": 7.9,
-   "end": 9.025,
+   "start": 7.22,
+   "end": 8.345,
    "text": "bersembang dengan jiran"
   },
   {
-   "start": 9.025,
-   "end": 10.36,
+   "start": 8.345,
+   "end": 9.68,
    "text": "sebelah, kita boleh masak sambil"
   },
   {
-   "start": 10.36,
-   "end": 11.48,
+   "start": 9.68,
+   "end": 10.8,
    "text": "main dengan anak-anak, kita"
   },
   {
-   "start": 11.48,
-   "end": 12.62,
+   "start": 10.8,
+   "end": 11.94,
    "text": "boleh masak sambil kita"
   },
   {
-   "start": 12.62,
-   "end": 14.2,
+   "start": 11.94,
+   "end": 13.52,
    "text": "mengaji, lepas tu kita boleh"
   },
   {
-   "start": 14.2,
-   "end": 15.96,
+   "start": 13.52,
+   "end": 15.28,
    "text": "tidur tanpa kita fikir apa"
   },
   {
-   "start": 15.96,
-   "end": 17.14,
+   "start": 15.28,
+   "end": 16.46,
    "text": "benda yang ada dekat dapur."
   },
   {
-   "start": 17.327,
-   "end": 18.567,
+   "start": 16.66,
+   "end": 17.9,
    "text": "Haa tanpa kita fikir eh tadi"
   },
   {
-   "start": 18.567,
-   "end": 19.827,
+   "start": 17.9,
+   "end": 19.16,
    "text": "aku masak aku dah tutup ke"
   },
   {
-   "start": 19.827,
-   "end": 21.047,
+   "start": 19.16,
+   "end": 20.38,
    "text": "belum api, tak payah fikir."
   },
   {
-   "start": 21.227,
-   "end": 23.127,
+   "start": 20.56,
+   "end": 22.46,
    "text": "Sebab bila kita gunakan fungsi"
   },
   {
-   "start": 23.127,
-   "end": 24.647,
+   "start": 22.46,
+   "end": 23.98,
    "text": "slow cook ni dia akan masak"
   },
   {
-   "start": 24.647,
-   "end": 26.267,
+   "start": 23.98,
+   "end": 25.6,
    "text": "masakan kita tu dengan perlahan"
   },
   {
-   "start": 26.267,
-   "end": 29.287,
+   "start": 25.6,
+   "end": 28.62,
    "text": "tapi dia akan keluarkan semua"
   },
   {
-   "start": 29.493,
-   "end": 31.073,
+   "start": 28.827,
+   "end": 30.407,
    "text": "jus-jus yang ada dekat"
   },
   {
-   "start": 31.073,
-   "end": 32.253,
+   "start": 30.407,
+   "end": 31.587,
    "text": "dalam masakan kita tu."
   },
   {
-   "start": 32.313,
-   "end": 33.373,
+   "start": 31.647,
+   "end": 32.707,
    "text": "Maksudnya kita punya"
   },
   {
-   "start": 33.373,
-   "end": 35.013,
+   "start": 32.707,
+   "end": 34.347,
    "text": "masakan tu dia akan jadi"
   },
   {
-   "start": 35.013,
-   "end": 36.693,
+   "start": 34.347,
+   "end": 36.027,
    "text": "original punya rasa tau."
   },
   {
-   "start": 36.893,
-   "end": 37.993,
+   "start": 36.227,
+   "end": 37.327,
    "text": "Contoh kan, Kak nak"
   },
   {
-   "start": 37.993,
-   "end": 39.033,
+   "start": 37.327,
+   "end": 38.367,
    "text": "bawa bekal anak esok,"
   },
   {
-   "start": 39.227,
-   "end": 39.967,
+   "start": 38.56,
+   "end": 39.3,
    "text": "Kak dah plan siap-siap."
   },
   {
-   "start": 40.067,
-   "end": 41.367,
+   "start": 39.4,
+   "end": 40.7,
    "text": "Oh, esok nak masakkan"
   },
   {
-   "start": 41.367,
-   "end": 42.387,
+   "start": 40.7,
+   "end": 41.72,
    "text": "sup ayam lah."
   },
   {
-   "start": 42.56,
-   "end": 43.34,
+   "start": 41.893,
+   "end": 42.673,
    "text": "So, malam ni, Kak"
   },
   {
-   "start": 43.34,
-   "end": 44.12,
+   "start": 42.673,
+   "end": 43.453,
    "text": "letak-letak bahan."
   },
   {
-   "start": 44.293,
-   "end": 45.293,
+   "start": 43.627,
+   "end": 44.627,
    "text": "Lepas tu, Kak tinggal je."
   },
   {
-   "start": 45.393,
-   "end": 45.993,
+   "start": 44.727,
+   "end": 45.327,
    "text": "Set je masa."
   },
   {
-   "start": 46.153,
-   "end": 47.073,
+   "start": 45.487,
+   "end": 46.407,
    "text": "Oh, satu jam tu tidur."
   },
   {
-   "start": 47.26,
-   "end": 47.58,
-   "text": "Tidur."
-  },
-  {
-   "start": 47.76,
-   "end": 49.04,
+   "start": 46.593,
+   "end": 47.873,
    "text": "Haa, lepas tu esok pagi, Kak"
   },
   {
-   "start": 49.04,
-   "end": 50.3,
+   "start": 47.873,
+   "end": 49.133,
    "text": "punya masakan pun dah siap."
   },
   {
-   "start": 50.56,
-   "end": 51.64,
+   "start": 49.393,
+   "end": 50.473,
    "text": "So, dah boleh ready untuk"
   },
   {
-   "start": 51.64,
-   "end": 52.84,
+   "start": 50.473,
+   "end": 51.673,
    "text": "makan, dah boleh ready"
   },
   {
-   "start": 52.84,
-   "end": 54.26,
+   "start": 51.673,
+   "end": 53.093,
    "text": "untuk bagi bekal anak-anak."
   },
   {
-   "start": 54.48,
-   "end": 55.08,
+   "start": 53.313,
+   "end": 53.913,
    "text": "Mudah sangat."
   }
  ],
- "duration": 57.4
+ "duration": 56.233
 }
