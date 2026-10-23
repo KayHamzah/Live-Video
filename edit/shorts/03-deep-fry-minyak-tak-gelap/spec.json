@@ -1,0 +1,13 @@
+{"title": "Deep Fry 4 Ekor Ayam\\NMinyak Tak Gelap", "hook_sub": "Tak perlu tapis setiap trip",
+ "hook_y": 700,
+ "clips": [
+  {"id": "hook",        "in": 2533.70, "out": 2537.10},
+  {"id": "hook_b",      "in": 2541.64, "out": 2542.58},
+  {"id": "stok",        "in": 2493.55, "out": 2496.65},
+  {"id": "tak_tapis",   "in": 2496.91, "out": 2508.65},
+  {"id": "dulu_gas",    "in": 2508.82, "out": 2514.97},
+  {"id": "jadi_gelap",  "in": 2524.70, "out": 2533.65},
+  {"id": "tak_hangit",  "in": 2430.87, "out": 2439.27},
+  {"id": "minyak_a",    "in": 2544.80, "out": 2549.58},
+  {"id": "minyak_b",    "in": 2552.23, "out": 2556.56}
+ ]}

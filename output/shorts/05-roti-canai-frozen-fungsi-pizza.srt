@@ -1,0 +1,160 @@
+1
+00:00:00,000 --> 00:00:02,280
+Pernah panaskan 6 keping
+
+2
+00:00:02,280 --> 00:00:03,680
+roti canai yang melekat
+
+3
+00:00:03,680 --> 00:00:04,850
+antara satu sama lain.
+
+4
+00:00:04,940 --> 00:00:06,600
+Roti canai frozen tu kan,
+
+5
+00:00:06,600 --> 00:00:08,020
+dia melekat-lekat kan
+
+6
+00:00:08,020 --> 00:00:09,000
+bila kita simpan dalam peti.
+
+7
+00:00:09,080 --> 00:00:10,570
+So kita panaskan guna
+
+8
+00:00:10,570 --> 00:00:11,700
+fungsi pizza je.
+
+9
+00:00:11,760 --> 00:00:12,900
+Masukkan je terus dalam
+
+10
+00:00:12,900 --> 00:00:14,000
+Food Engine Cooven ni,
+
+11
+00:00:14,000 --> 00:00:15,780
+tekan fungsi pizza.
+
+12
+00:00:15,780 --> 00:00:16,780
+Daripada start dia
+
+13
+00:00:16,780 --> 00:00:18,000
+preheat tu, kita biar.
+
+14
+00:00:18,060 --> 00:00:19,650
+Nanti sampailah dia
+
+15
+00:00:19,650 --> 00:00:21,320
+ada arahan add food,
+
+16
+00:00:21,320 --> 00:00:22,370
+dia suruh masukkan
+
+17
+00:00:22,370 --> 00:00:23,300
+makanan kita tu.
+
+18
+00:00:23,520 --> 00:00:25,780
+Waktu tu nanti, roti
+
+19
+00:00:25,780 --> 00:00:27,480
+canai frozen tu
+
+20
+00:00:27,480 --> 00:00:28,580
+dah relai cantik.
+
+21
+00:00:28,580 --> 00:00:30,400
+Lepas tu hasil dia jadi
+
+22
+00:00:30,400 --> 00:00:31,900
+crunchy dekat luar,
+
+23
+00:00:32,000 --> 00:00:33,320
+lembut dekat dalam,
+
+24
+00:00:33,320 --> 00:00:34,510
+seolah-olah macam
+
+25
+00:00:34,510 --> 00:00:35,560
+kita baru masak
+
+26
+00:00:35,560 --> 00:00:36,480
+ataupun macam kita
+
+27
+00:00:36,480 --> 00:00:37,200
+baru beli lah.
+
+28
+00:00:37,200 --> 00:00:38,320
+Fungsi pizza ni dia
+
+29
+00:00:38,320 --> 00:00:39,320
+boleh bakar pizza
+
+30
+00:00:39,320 --> 00:00:41,150
+secepat 6 minit.
+
+31
+00:00:41,220 --> 00:00:42,370
+Kalau K boleh uli
+
+32
+00:00:42,370 --> 00:00:43,320
+pizza 2 minit,
+
+33
+00:00:43,440 --> 00:00:45,700
+masak pula 6 minit je.
+
+34
+00:00:45,820 --> 00:00:46,880
+So 8 minit boleh
+
+35
+00:00:46,880 --> 00:00:48,200
+siap sekeping pizza.
+
+36
+00:00:48,280 --> 00:00:50,010
+Nak buat naan ke, nak
+
+37
+00:00:50,010 --> 00:00:51,500
+buat roti pita ke,
+
+38
+00:00:51,500 --> 00:00:53,300
+boleh gunakan fungsi pizza.
+
+39
+00:00:53,380 --> 00:00:54,970
+Nak bakar roti biasa pun
+
+40
+00:00:54,970 --> 00:00:56,550
+boleh guna fungsi pizza.
+

@@ -1,0 +1,192 @@
+{
+ "clips": [
+  {
+   "in": 1845.85,
+   "out": 1848.9,
+   "zoom": [
+    1.4,
+    1.41
+   ],
+   "center": [
+    0.1,
+    0.1
+   ]
+  },
+  {
+   "in": 1867.5,
+   "out": 1889.87,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 1891.27,
+   "out": 1903.88,
+   "zoom": [
+    1.32,
+    1.34
+   ],
+   "center": [
+    0.4,
+    0.05
+   ]
+  }
+ ],
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 1.46,
+   "text": "Apa beza fungsi air crisp"
+  },
+  {
+   "start": 1.46,
+   "end": 2.86,
+   "text": "dengan fungsi air fryer?"
+  },
+  {
+   "start": 2.86,
+   "end": 4.55,
+   "text": "Kebiasaannya air fryer"
+  },
+  {
+   "start": 4.55,
+   "end": 6.08,
+   "text": "yang ada di pasaran,"
+  },
+  {
+   "start": 6.08,
+   "end": 7.76,
+   "text": "yang biasa kita guna,"
+  },
+  {
+   "start": 7.76,
+   "end": 9.2,
+   "text": "kalau kita goreng ayam"
+  },
+  {
+   "start": 9.2,
+   "end": 10.44,
+   "text": "ke, goreng ikan ke,"
+  },
+  {
+   "start": 10.44,
+   "end": 11.1,
+   "text": "dia akan dry."
+  },
+  {
+   "start": 11.16,
+   "end": 12.58,
+   "text": "Dia tak sama macam"
+  },
+  {
+   "start": 12.58,
+   "end": 14.24,
+   "text": "kita goreng deep fry."
+  },
+  {
+   "start": 14.24,
+   "end": 15.22,
+   "text": "Tapi bila kita masak"
+  },
+  {
+   "start": 15.22,
+   "end": 16.4,
+   "text": "guna Food Engine Cooven,"
+  },
+  {
+   "start": 16.4,
+   "end": 17.59,
+   "text": "fungsi air crisp,"
+  },
+  {
+   "start": 17.59,
+   "end": 18.86,
+   "text": "hasil gorengan dia"
+  },
+  {
+   "start": 18.86,
+   "end": 20.66,
+   "text": "umpama macam kita"
+  },
+  {
+   "start": 20.66,
+   "end": 22.36,
+   "text": "goreng deep fry,"
+  },
+  {
+   "start": 22.36,
+   "end": 23.3,
+   "text": "guna minyak yang banyak,"
+  },
+  {
+   "start": 23.3,
+   "end": 24.26,
+   "text": "walaupun kita letak"
+  },
+  {
+   "start": 24.26,
+   "end": 25.28,
+   "text": "minyak sikit sahaja."
+  },
+  {
+   "start": 25.28,
+   "end": 27.66,
+   "text": "Fungsi air crisp ni juga kita"
+  },
+  {
+   "start": 27.66,
+   "end": 29.88,
+   "text": "boleh goreng keropok lekor,"
+  },
+  {
+   "start": 30.1,
+   "end": 31.0,
+   "text": "kita boleh goreng nugget,"
+  },
+  {
+   "start": 31.14,
+   "end": 32.0,
+   "text": "without minyak."
+  },
+  {
+   "start": 32.08,
+   "end": 33.46,
+   "text": "Kita boleh goreng"
+  },
+  {
+   "start": 33.46,
+   "end": 34.84,
+   "text": "apa-apa sahajalah"
+  },
+  {
+   "start": 34.84,
+   "end": 36.46,
+   "text": "yang kita selalu masak"
+  },
+  {
+   "start": 36.46,
+   "end": 38.0,
+   "text": "dalam air fryer kita."
+  }
+ ],
+ "overlays": [
+  {
+   "start": 0.0,
+   "end": 3.066666666666667,
+   "style": "Hook",
+   "text": "{\\an8\\pos(540,700)}Air Crisp vs\\NAir Fryer Biasa"
+  },
+  {
+   "start": 0.35,
+   "end": 3.066666666666667,
+   "style": "HookSub",
+   "text": "{\\an8\\pos(540,950)}Rasa macam deep fry, minyak sikit"
+  }
+ ],
+ "total": 38.03333333333333,
+ "hook_band": [
+  580,
+  560
+ ]
+}

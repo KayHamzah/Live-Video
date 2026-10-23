@@ -1,7 +1,8 @@
 """Render the short from an edit decision list (edl.json).
 
 edl.json:
-  clips:    [{"in": sec, "out": sec, "zoom": [z0, z1] (optional)}]   source timestamps
+  clips:    [{"in": sec, "out": sec, "zoom": [z0, z1], "center": [x, y], "vin": sec}]
+            source timestamps; zoom/center/vin optional (vin = picture start for B-roll)
   subs:     [{"start": out_sec, "end": out_sec, "text": str}]          output timeline
   overlays: [{"start", "end", "style", "text"}]                        title / hook / step chips
 """
@@ -40,7 +41,12 @@ for i, c in enumerate(edl["clips"]):
         f"afade=t=in:d={fade},afade=t=out:st={dur - fade:.3f}:d={fade}"
     )
     p = f"{WORK}/part_{i:02d}.mp4"
-    run(["ffmpeg", "-v", "error", "-y", "-ss", f"{c['in']:.3f}", "-i", SRC, "-t", f"{dur + 0.5:.3f}",
+    # optional "vin": take the picture from another moment (B-roll) under this clip's voice
+    vin = c.get("vin", c["in"])
+    run(["ffmpeg", "-v", "error", "-y",
+         "-ss", f"{vin:.3f}", "-t", f"{dur + 0.5:.3f}", "-i", SRC,
+         "-ss", f"{c['in']:.3f}", "-t", f"{dur + 0.5:.3f}", "-i", SRC,
+         "-map", "0:v", "-map", "1:a",
          "-vf", vf, "-af", af, "-frames:v", str(nframes), "-c:v", "libx264", "-preset", "medium", "-crf", "16",
          "-c:a", "pcm_s16le", "-ac", "2", p])
     parts.append(p)
@@ -88,10 +94,15 @@ open(f"{WORK}/subs.ass", "w").write(ass)
 # 3. final pass: burn text, dark top gradient behind title for contrast, loudness to -14 LUFS
 # the gradient is rendered once as a still; per-frame geq is far too slow
 grad_png = f"{WORK}/gradient.png"
-run(["ffmpeg", "-v", "error", "-y", "-f", "lavfi", "-i", f"color=c=black:s={W}x760", "-frames:v", "1",
-     "-vf", "format=rgba,geq=r=0:g=0:b=0:a='180*pow(1-Y/H\\,1.3)'", grad_png])
+band = edl.get("hook_band")  # [y, height]: soft dark band behind a title placed lower in the frame
+if band:
+    gy, gh, galpha = band[0], band[1], "150*sin(PI*Y/H)"
+else:
+    gy, gh, galpha = 0, 760, "180*pow(1-Y/H\\,1.3)"
+run(["ffmpeg", "-v", "error", "-y", "-f", "lavfi", "-i", f"color=c=black:s={W}x{gh}", "-frames:v", "1",
+     "-vf", f"format=rgba,geq=r=0:g=0:b=0:a='{galpha}'", grad_png])
 fc = (
-    f"[0:v][1:v]overlay=0:0:shortest=1:enable='lt(t,{edl['overlays'][0]['end']:.2f})',ass={WORK}/subs.ass:fontsdir=/usr/share/fonts,format=yuv420p[v];"
+    f"[0:v][1:v]overlay=0:{gy}:shortest=1:enable='lt(t,{edl['overlays'][0]['end']:.2f})',ass={WORK}/subs.ass:fontsdir=/usr/share/fonts,format=yuv420p[v];"
     + "[0:a]acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120,"
       "loudnorm=I=-14:TP=-1.5:LRA=9,aresample=48000[a]"
 )

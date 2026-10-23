@@ -1,0 +1,237 @@
+{
+ "clips": [
+  {
+   "in": 2038.71,
+   "out": 2042.97,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 2043.77,
+   "out": 2049.56,
+   "zoom": [
+    1.08,
+    1.09
+   ],
+   "center": [
+    0.5,
+    0.35
+   ]
+  },
+  {
+   "in": 1996.03,
+   "out": 1998.98,
+   "zoom": [
+    1.35,
+    1.36
+   ],
+   "center": [
+    0.65,
+    0.1
+   ]
+  },
+  {
+   "in": 2000.35,
+   "out": 2006.45,
+   "zoom": [
+    1.35,
+    1.36
+   ],
+   "center": [
+    0.65,
+    0.1
+   ]
+  },
+  {
+   "in": 2006.81,
+   "out": 2010.9,
+   "zoom": [
+    1.0,
+    1.02
+   ],
+   "center": [
+    0.5,
+    0.35
+   ]
+  },
+  {
+   "in": 2016.6,
+   "out": 2021.58,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 2026.81,
+   "out": 2035.62,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  }
+ ],
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 2.5,
+   "text": "Cili kering sendiri pun boleh."
+  },
+  {
+   "start": 2.72,
+   "end": 4.25,
+   "text": "Lagi mudah, lagi senang."
+  },
+  {
+   "start": 4.34,
+   "end": 5.5,
+   "text": "Sebab lepas kita beli cili,"
+  },
+  {
+   "start": 5.56,
+   "end": 6.23,
+   "text": "kita cuci, kita"
+  },
+  {
+   "start": 6.23,
+   "end": 6.95,
+   "text": "boleh buang biji"
+  },
+  {
+   "start": 7.02,
+   "end": 7.67,
+   "text": "siap-siap, lepas"
+  },
+  {
+   "start": 7.67,
+   "end": 8.4,
+   "text": "tu kita dehydrate."
+  },
+  {
+   "start": 8.44,
+   "end": 9.41,
+   "text": "Lepas dehydrate boleh"
+  },
+  {
+   "start": 9.41,
+   "end": 10.1,
+   "text": "terus blend je."
+  },
+  {
+   "start": 10.22,
+   "end": 11.9,
+   "text": "Ini adalah daun kari."
+  },
+  {
+   "start": 11.96,
+   "end": 13.0,
+   "text": "Nampak tak? Kering lah."
+  },
+  {
+   "start": 13.06,
+   "end": 14.8,
+   "text": "Daun kari, daun limau purut,"
+  },
+  {
+   "start": 14.88,
+   "end": 16.22,
+   "text": "daun pandan, semua ni"
+  },
+  {
+   "start": 16.22,
+   "end": 17.62,
+   "text": "kita boleh keringkan"
+  },
+  {
+   "start": 17.62,
+   "end": 19.16,
+   "text": "guna fungsi dehydrate."
+  },
+  {
+   "start": 19.16,
+   "end": 21.0,
+   "text": "Siapa-siapa yang buat"
+  },
+  {
+   "start": 21.0,
+   "end": 23.25,
+   "text": "sourdough, kan ada starter,"
+  },
+  {
+   "start": 23.34,
+   "end": 24.87,
+   "text": "korang boleh dehydratekan"
+  },
+  {
+   "start": 24.87,
+   "end": 26.22,
+   "text": "guna fungsi dehydrate,"
+  },
+  {
+   "start": 26.22,
+   "end": 28.15,
+   "text": "suhu 40 darjah Celsius."
+  },
+  {
+   "start": 28.28,
+   "end": 29.4,
+   "text": "Apa-apa benda lah yang"
+  },
+  {
+   "start": 29.4,
+   "end": 30.36,
+   "text": "kita nak keringkan,"
+  },
+  {
+   "start": 30.36,
+   "end": 31.57,
+   "text": "macam buah-buah ke,"
+  },
+  {
+   "start": 31.57,
+   "end": 32.72,
+   "text": "nak buat lemon ke,"
+  },
+  {
+   "start": 32.72,
+   "end": 33.71,
+   "text": "kita boleh gunakan"
+  },
+  {
+   "start": 33.71,
+   "end": 34.65,
+   "text": "fungsi dehydrate."
+  },
+  {
+   "start": 34.74,
+   "end": 35.9,
+   "text": "Nak buat ikan masin"
+  },
+  {
+   "start": 35.9,
+   "end": 37.0,
+   "text": "sendiri pun boleh."
+  }
+ ],
+ "overlays": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "style": "Hook",
+   "text": "{\\an8\\pos(540,700)}Buat Cili Kering\\NSendiri di Rumah"
+  },
+  {
+   "start": 0.35,
+   "end": 4.0,
+   "style": "HookSub",
+   "text": "{\\an8\\pos(540,950)}Fungsi dehydrate"
+  }
+ ],
+ "total": 37.0,
+ "hook_band": [
+  580,
+  560
+ ]
+}

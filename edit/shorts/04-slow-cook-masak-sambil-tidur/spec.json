@@ -1,0 +1,11 @@
+{"title": "Masak Sup\\NSambil Tidur", "hook_sub": "Manis asli tanpa rempah",
+ "hook_y": 700,
+ "clips": [
+  {"id": "hook",        "in": 2623.45, "out": 2626.25},
+  {"id": "sedap",       "in": 2629.87, "out": 2634.29},
+  {"id": "extract",     "in": 2634.99, "out": 2644.65},
+  {"id": "tanpa_rempah","in": 2644.69, "out": 2651.57},
+  {"id": "manis",       "in": 2651.79, "out": 2658.38},
+  {"id": "segar",       "in": 2658.38, "out": 2666.05},
+  {"id": "cara",        "in": 2679.91, "out": 2689.87}
+ ]}

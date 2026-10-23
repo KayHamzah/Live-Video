@@ -1,0 +1,273 @@
+{
+ "clips": [
+  {
+   "in": 3722.86,
+   "out": 3725.28,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 3738.7,
+   "out": 3743.39,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 303.75,
+   "out": 308.04,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 309.55,
+   "out": 329.25,
+   "zoom": [
+    1.08,
+    1.09
+   ],
+   "center": [
+    0.5,
+    0.35
+   ]
+  },
+  {
+   "in": 2322.14,
+   "out": 2324.35,
+   "vin": 342.0,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 2325.2,
+   "out": 2326.9,
+   "vin": 344.2,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 2330.72,
+   "out": 2339.3,
+   "vin": 345.9,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 3688.69,
+   "out": 3691.24,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 3693.54,
+   "out": 3698.44,
+   "zoom": [
+    1.08,
+    1.09
+   ],
+   "center": [
+    0.5,
+    0.35
+   ]
+  }
+ ],
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 1.84,
+   "text": "Inilah hasil ubi kita."
+  },
+  {
+   "start": 1.9,
+   "end": 2.4,
+   "text": "Nampak tak?"
+  },
+  {
+   "start": 2.44,
+   "end": 3.9,
+   "text": "Ubi kita ni, ya Allah,"
+  },
+  {
+   "start": 3.9,
+   "end": 5.2,
+   "text": "cantik tau."
+  },
+  {
+   "start": 5.26,
+   "end": 7.04,
+   "text": "Dia lembut sangat dalam dia."
+  },
+  {
+   "start": 7.12,
+   "end": 8.0,
+   "text": "Mula-mula kita tekan"
+  },
+  {
+   "start": 8.0,
+   "end": 8.88,
+   "text": "dulu fungsi oven,"
+  },
+  {
+   "start": 8.88,
+   "end": 9.55,
+   "text": "kita preheat."
+  },
+  {
+   "start": 9.62,
+   "end": 10.94,
+   "text": "Lepas dah siap preheat,"
+  },
+  {
+   "start": 10.94,
+   "end": 12.84,
+   "text": "kita set suhu 180,"
+  },
+  {
+   "start": 12.84,
+   "end": 14.42,
+   "text": "masa 20 minit,"
+  },
+  {
+   "start": 14.42,
+   "end": 15.4,
+   "text": "kita masukkan ubi kita."
+  },
+  {
+   "start": 15.52,
+   "end": 17.0,
+   "text": "Lepas tu kita biar dulu"
+  },
+  {
+   "start": 17.0,
+   "end": 18.84,
+   "text": "dia masak sampai habis"
+  },
+  {
+   "start": 18.84,
+   "end": 19.9,
+   "text": "20 minit tu,"
+  },
+  {
+   "start": 19.9,
+   "end": 21.3,
+   "text": "kita keluarkan ubi kita,"
+  },
+  {
+   "start": 21.3,
+   "end": 22.4,
+   "text": "rendam air sejuk."
+  },
+  {
+   "start": 22.52,
+   "end": 23.78,
+   "text": "Lepas dah rendam dalam air"
+  },
+  {
+   "start": 23.78,
+   "end": 25.36,
+   "text": "sejuk dalam 30 saat,"
+  },
+  {
+   "start": 25.36,
+   "end": 26.94,
+   "text": "kita sambung masak"
+  },
+  {
+   "start": 26.94,
+   "end": 28.74,
+   "text": "suhu 200 darjah Celsius,"
+  },
+  {
+   "start": 28.74,
+   "end": 31.1,
+   "text": "masa another 15 minit."
+  },
+  {
+   "start": 31.34,
+   "end": 33.25,
+   "text": "Kenapa kita kena rendam dia?"
+  },
+  {
+   "start": 33.42,
+   "end": 35.16,
+   "text": "Tujuan dia adalah untuk"
+  },
+  {
+   "start": 35.16,
+   "end": 38.14,
+   "text": "nak bagi dia punya kulit"
+  },
+  {
+   "start": 38.14,
+   "end": 40.28,
+   "text": "itu mudah tertanggal"
+  },
+  {
+   "start": 40.28,
+   "end": 41.55,
+   "text": "daripada ubi tu tadi."
+  },
+  {
+   "start": 41.64,
+   "end": 43.6,
+   "text": "Lepas tu dia lebih caramelise."
+  },
+  {
+   "start": 43.82,
+   "end": 45.84,
+   "text": "So tak perlu dah kita beli"
+  },
+  {
+   "start": 45.84,
+   "end": 47.62,
+   "text": "ubi dekat Ion ataupun"
+  },
+  {
+   "start": 47.62,
+   "end": 49.24,
+   "text": "mana-mana yang dekat"
+  },
+  {
+   "start": 49.24,
+   "end": 50.2,
+   "text": "R&R tu kan?"
+  },
+  {
+   "start": 50.2,
+   "end": 51.0,
+   "text": "Kita buat sendiri je."
+  }
+ ],
+ "overlays": [
+  {
+   "start": 0.0,
+   "end": 2.8,
+   "style": "Hook",
+   "text": "{\\an8\\pos(540,700)}Ubi Cilembu Bakar\\NBuat Sendiri"
+  },
+  {
+   "start": 0.35,
+   "end": 2.8,
+   "style": "HookSub",
+   "text": "{\\an8\\pos(540,950)}Tak perlu beli dekat R&R lagi"
+  }
+ ],
+ "total": 51.03333333333333,
+ "hook_band": [
+  580,
+  560
+ ]
+}

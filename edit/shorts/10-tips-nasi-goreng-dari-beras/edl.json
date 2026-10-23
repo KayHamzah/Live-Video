@@ -1,0 +1,298 @@
+{
+ "clips": [
+  {
+   "in": 3107.04,
+   "out": 3118.81,
+   "vin": 3255.0,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 2994.49,
+   "out": 2997.8,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 3000.95,
+   "out": 3014.88,
+   "vin": 3266.8,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 3024.36,
+   "out": 3031.64,
+   "zoom": [
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "in": 3033.24,
+   "out": 3042.49,
+   "zoom": [
+    1.08,
+    1.09
+   ],
+   "center": [
+    0.5,
+    0.35
+   ]
+  },
+  {
+   "in": 3043.09,
+   "out": 3049.35,
+   "zoom": [
+    1.0,
+    1.02
+   ],
+   "center": [
+    0.5,
+    0.35
+   ]
+  }
+ ],
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 0.79,
+   "text": "Kita guna fungsi"
+  },
+  {
+   "start": 0.79,
+   "end": 1.77,
+   "text": "Smart Cook, kita tak"
+  },
+  {
+   "start": 1.77,
+   "end": 2.61,
+   "text": "perlu kacau macam"
+  },
+  {
+   "start": 2.61,
+   "end": 3.45,
+   "text": "kita guna cooker."
+  },
+  {
+   "start": 3.52,
+   "end": 4.48,
+   "text": "Kalau kita guna cooker,"
+  },
+  {
+   "start": 4.48,
+   "end": 5.4,
+   "text": "kita kena kacau-kacau."
+  },
+  {
+   "start": 5.6,
+   "end": 6.5,
+   "text": "Kalau kita tak kacau,"
+  },
+  {
+   "start": 6.5,
+   "end": 7.18,
+   "text": "dia akan melekat"
+  },
+  {
+   "start": 7.18,
+   "end": 7.86,
+   "text": "kat bawah tu dan"
+  },
+  {
+   "start": 7.86,
+   "end": 8.55,
+   "text": "dia akan hangit."
+  },
+  {
+   "start": 8.62,
+   "end": 9.4,
+   "text": "Tapi kalau kita"
+  },
+  {
+   "start": 9.4,
+   "end": 10.29,
+   "text": "guna fungsi Smart"
+  },
+  {
+   "start": 10.29,
+   "end": 11.7,
+   "text": "Cook ni, dia tak hangit tau."
+  },
+  {
+   "start": 11.78,
+   "end": 12.74,
+   "text": "Minimum yang K suka"
+  },
+  {
+   "start": 12.74,
+   "end": 13.49,
+   "text": "masak guna Food"
+  },
+  {
+   "start": 13.49,
+   "end": 14.96,
+   "text": "Engine Cooven adalah 300 gram."
+  },
+  {
+   "start": 15.1,
+   "end": 16.8,
+   "text": "Kenapa K kata 300 gram"
+  },
+  {
+   "start": 16.8,
+   "end": 18.11,
+   "text": "tu minimum yang K"
+  },
+  {
+   "start": 18.11,
+   "end": 19.58,
+   "text": "suka? Sebab dia tak"
+  },
+  {
+   "start": 19.58,
+   "end": 21.2,
+   "text": "nampak terlalu nipis."
+  },
+  {
+   "start": 21.32,
+   "end": 23.0,
+   "text": "Sebab Food Engine Cooven ni"
+  },
+  {
+   "start": 23.0,
+   "end": 24.5,
+   "text": "lebar kan, inner pot tu."
+  },
+  {
+   "start": 24.68,
+   "end": 25.67,
+   "text": "So kalau kita letak"
+  },
+  {
+   "start": 25.67,
+   "end": 26.87,
+   "text": "sikit sangat beras, dia"
+  },
+  {
+   "start": 26.87,
+   "end": 27.86,
+   "text": "jadi terlalu nipis,"
+  },
+  {
+   "start": 27.86,
+   "end": 28.9,
+   "text": "jadi tak cantik lah."
+  },
+  {
+   "start": 29.34,
+   "end": 30.15,
+   "text": "300 gram untuk"
+  },
+  {
+   "start": 30.15,
+   "end": 31.24,
+   "text": "berapa orang makan?"
+  },
+  {
+   "start": 31.24,
+   "end": 32.39,
+   "text": "Untuk K, cukup untuk"
+  },
+  {
+   "start": 32.39,
+   "end": 33.2,
+   "text": "6 orang makan."
+  },
+  {
+   "start": 34.14,
+   "end": 35.16,
+   "text": "Untuk dewasa dan"
+  },
+  {
+   "start": 35.16,
+   "end": 36.25,
+   "text": "juga kanak-kanak."
+  },
+  {
+   "start": 36.28,
+   "end": 37.25,
+   "text": "Korang boleh lah"
+  },
+  {
+   "start": 37.25,
+   "end": 38.28,
+   "text": "buat 500 gram ke,"
+  },
+  {
+   "start": 38.28,
+   "end": 40.04,
+   "text": "korang tukar je lah nisbah tu."
+  },
+  {
+   "start": 40.04,
+   "end": 41.5,
+   "text": "Kalau 300 gram K buat"
+  },
+  {
+   "start": 41.5,
+   "end": 42.9,
+   "text": "450 gram kan, korang"
+  },
+  {
+   "start": 42.9,
+   "end": 44.43,
+   "text": "kira lah sendiri kalau"
+  },
+  {
+   "start": 44.43,
+   "end": 45.55,
+   "text": "500 gram berapa."
+  },
+  {
+   "start": 45.78,
+   "end": 47.61,
+   "text": "Masa tu biasanya sama"
+  },
+  {
+   "start": 47.61,
+   "end": 49.0,
+   "text": "je, lebih kurang"
+  },
+  {
+   "start": 49.0,
+   "end": 50.4,
+   "text": "je, kalau tak 25"
+  },
+  {
+   "start": 50.4,
+   "end": 51.8,
+   "text": "minit, 30 minit."
+  }
+ ],
+ "overlays": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "style": "Hook",
+   "text": "{\\an8\\pos(540,700)}Tips Nasi Goreng\\NDari Beras"
+  },
+  {
+   "start": 0.35,
+   "end": 4.0,
+   "style": "HookSub",
+   "text": "{\\an8\\pos(540,950)}Tak perlu kacau, tak hangit"
+  }
+ ],
+ "total": 51.800000000000004,
+ "hook_band": [
+  580,
+  560
+ ]
+}

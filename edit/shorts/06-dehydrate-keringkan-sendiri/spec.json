@@ -1,0 +1,11 @@
+{"title": "Buat Cili Kering\\NSendiri di Rumah", "hook_sub": "Fungsi dehydrate",
+ "hook_y": 700,
+ "clips": [
+  {"id": "cili",       "in": 2038.71, "out": 2042.97},
+  {"id": "cara",       "in": 2043.77, "out": 2049.56},
+  {"id": "daun_kari",  "in": 1996.03, "out": 1998.98, "zoom": [1.35, 1.36], "center": [0.65, 0.1]},
+  {"id": "daun_lain",  "in": 2000.35, "out": 2006.45, "zoom": [1.35, 1.36], "center": [0.65, 0.1]},
+  {"id": "sourdough",  "in": 2006.81, "out": 2010.90},
+  {"id": "suhu40",     "in": 2016.60, "out": 2021.58},
+  {"id": "buah_ikan",  "in": 2026.81, "out": 2035.62}
+ ]}

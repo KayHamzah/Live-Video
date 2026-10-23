@@ -1,0 +1,12 @@
+{"title": "Roti Canai Frozen\\NMelekat?", "hook_sub": "Panaskan guna fungsi pizza",
+ "hook_y": 700,
+ "clips": [
+  {"id": "melekat",   "in": 2174.44, "out": 2179.30},
+  {"id": "peti",      "in": 2181.59, "out": 2185.65},
+  {"id": "pizza",     "in": 2186.00, "out": 2188.64},
+  {"id": "masukkan",  "in": 2188.91, "out": 2195.35},
+  {"id": "hasil",     "in": 2196.02, "out": 2215.08},
+  {"id": "6minit",    "in": 2073.49, "out": 2077.60},
+  {"id": "8minit",    "in": 2092.11, "out": 2099.18},
+  {"id": "roti_lain", "in": 2369.56, "out": 2377.90}
+ ]}

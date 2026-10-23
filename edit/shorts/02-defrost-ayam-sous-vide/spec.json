@@ -1,0 +1,13 @@
+{"title": "Defrost Ayam Beku\\NTanpa Microwave", "hook_sub": "Sekata, tak separuh masak",
+ "clips": [
+  {"id": "hasil",      "in": 463.57, "out": 467.77},
+  {"id": "masalah",    "in": 471.69, "out": 479.05},
+  {"id": "cara_a",     "in": 633.96, "out": 642.06, "vin": 577.0},
+  {"id": "cara_b",     "in": 643.95, "out": 653.05, "vin": 494.0},
+  {"id": "masa",       "in": 653.25, "out": 658.37, "vin": 503.0},
+  {"id": "micro_a",    "in": 494.93, "out": 504.09},
+  {"id": "micro_b",    "in": 504.35, "out": 505.30},
+  {"id": "micro_c",    "in": 507.18, "out": 508.25},
+  {"id": "micro_d",    "in": 513.73, "out": 518.50},
+  {"id": "suhu",       "in": 520.15, "out": 530.18}
+ ]}

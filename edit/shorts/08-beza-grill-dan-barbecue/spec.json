@@ -1,0 +1,11 @@
+{"title": "Grill atau Barbecue?", "hook_sub": "Cara mudah nak pilih", "hook_y": 700,
+ "clips": [
+  {"id": "soalan",    "in": 3757.64, "out": 3761.50},
+  {"id": "grill",     "in": 3782.12, "out": 3790.00},
+  {"id": "bbq",       "in": 3790.44, "out": 3798.22},
+  {"id": "ikan",      "in": 3799.96, "out": 3803.78},
+  {"id": "arang",     "in": 3811.47, "out": 3815.07},
+  {"id": "beza",      "in": 3815.41, "out": 3826.25},
+  {"id": "steak",     "in": 3826.47, "out": 3828.10},
+  {"id": "steak_b",   "in": 3833.70, "out": 3837.95}
+ ]}

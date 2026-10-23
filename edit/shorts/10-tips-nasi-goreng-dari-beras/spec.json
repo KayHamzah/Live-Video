@@ -1,0 +1,9 @@
+{"title": "Tips Nasi Goreng\\NDari Beras", "hook_sub": "Tak perlu kacau, tak hangit", "hook_y": 700,
+ "clips": [
+  {"id": "tak_kacau",  "in": 3107.04, "out": 3118.81, "vin": 3255.0},
+  {"id": "minimum",    "in": 2994.49, "out": 2997.80},
+  {"id": "kenapa",     "in": 3000.95, "out": 3014.88, "vin": 3266.8},
+  {"id": "6orang",     "in": 3024.36, "out": 3031.64},
+  {"id": "500g",       "in": 3033.24, "out": 3042.49},
+  {"id": "masa",       "in": 3043.09, "out": 3049.35}
+ ]}

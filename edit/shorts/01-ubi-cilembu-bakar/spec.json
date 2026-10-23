@@ -1,0 +1,12 @@
+{"title": "Ubi Cilembu Bakar\\NBuat Sendiri", "hook_sub": "Tak perlu beli dekat R&R lagi", "hook_y": 700,
+ "clips": [
+  {"id": "hasil_belah", "in": 3722.86, "out": 3725.28},
+  {"id": "hasil_lembut","in": 3738.70, "out": 3743.39},
+  {"id": "cara_a",      "in": 303.75,  "out": 308.04},
+  {"id": "cara_b",      "in": 309.55,  "out": 329.25},
+  {"id": "kenapa",      "in": 2322.14, "out": 2324.35, "vin": 342.0},
+  {"id": "tujuan",      "in": 2325.20, "out": 2326.90, "vin": 344.2},
+  {"id": "kulit",       "in": 2330.72, "out": 2339.30, "vin": 345.9},
+  {"id": "tak_beli_a",  "in": 3688.69, "out": 3691.24},
+  {"id": "tak_beli_b",  "in": 3693.54, "out": 3698.44}
+ ]}
