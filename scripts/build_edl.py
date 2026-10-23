@@ -67,27 +67,11 @@ def span(first, last=None):
     return marks[first][0], marks[last or first][1]
 
 
-def chip(first, last, text):
-    a, b = span(first, last)
-    return {"start": a + 0.05, "end": b - 0.05, "style": "Chip", "text": text}
-
-
 ha, hb = span("hook")
-ea, eb = span("tutup_ayat")
+# only the hook title sits on top; everything after it relies on the bottom subtitles
 overlays = [
     {"start": 0.0, "end": hb, "style": "Hook", "text": "Nasi Goreng\\NTerus Dari Beras"},
     {"start": 0.35, "end": hb, "style": "HookSub", "text": "Tanpa nasi sejuk"},
-    chip("bawang", "minyak", "1   Bawang Holland ½ biji  ·  Minyak 50 g"),
-    chip("telur", "telur", "2   Telur, scramble"),
-    chip("sos", "kicap", "3   Sos tiram  ·  Light soy sauce"),
-    chip("air1", "air2", "4   Air 450 g  ·  Beras basmati 300 g"),
-    chip("beras", "rendam", "5   Masukkan beras, tak perlu rendam"),
-    chip("tutup", "smartcook", "6   Smart Cook P2  ·  25 min"),
-    chip("airfryer", "airfryer_b", "7   Tukar ke penutup air fryer"),
-    chip("hasil", "hasil", "Tak berkerak"),
-    chip("suhu", "masa", "8   240°C  ·  5 minit"),
-    {"start": ea + 0.1, "end": eb, "style": "Recap",
-     "text": "Resepi\\NBeras basmati 300 g  ·  Air 450 g  ·  Minyak 50 g\\NSmart Cook P2 25 min  →  240°C 5 min"},
 ]
 
 json.dump({"clips": edl_clips, "subs": subs, "overlays": overlays, "total": total},

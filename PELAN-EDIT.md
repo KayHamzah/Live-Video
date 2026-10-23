@@ -32,7 +32,7 @@ Short video 59 saat (9:16, 1080×1920, 30 fps) daripada rakaman LIVE 69 minit.
 | Hook | 0:00–0:04 | Syot hero nasi diangkat senduk + *"Ini hasil dia macam nasi goreng yang kita goreng dekat dalam kuali."* |
 | Masalah | 0:04–0:11 | *"Kadang-kadang kita balik kerja… tapi nasi sejuk tak ada."* |
 | Isi (8 langkah) | 0:11–0:54 | Tumis → telur → sos → air → beras → Smart Cook → air fryer → 240°C |
-| Penutup | 0:54–0:59 | *"Tak perlu nak ada nasi sejuk pun nak buat nasi goreng. Tapi rasa dia sama."* + kad ringkasan resepi |
+| Penutup | 0:54–0:59 | *"Tak perlu nak ada nasi sejuk pun nak buat nasi goreng. Tapi rasa dia sama."* |
 
 ## 3. Senarai klip (ikut susunan)
 
@@ -74,20 +74,12 @@ Semua teks hitam/putih sahaja, font **Inter** (sans-serif). Bold hanya untuk taj
 |---|---|---|---|
 | 0:00–0:04.4 | **Tajuk/Hook** | **Nasi Goreng Terus Dari Beras** | Inter ExtraBold 100 px, putih, atas, gradien gelap halus di belakang |
 | 0:00.35–0:04.4 | Sub-hook | Tanpa nasi sejuk | Inter Regular 56 px, putih |
-| 0:11.2–0:16.7 | Label | 1 · Bawang Holland ½ biji · Minyak 50 g | Inter Medium 46 px, teks hitam atas kotak putih |
-| 0:16.8–0:19.5 | Label | 2 · Telur, scramble | 〃 |
-| 0:19.6–0:26.6 | Label | 3 · Sos tiram · Light soy sauce | 〃 |
-| 0:26.7–0:33.1 | Label | 4 · Air 450 g · Beras basmati 300 g | 〃 |
-| 0:33.2–0:38.7 | Label | 5 · Masukkan beras, tak perlu rendam | 〃 |
-| 0:38.8–0:43.3 | Label | 6 · Smart Cook P2 · 25 min | 〃 |
-| 0:43.4–0:46.5 | Label | 7 · Tukar ke penutup air fryer | 〃 |
-| 0:46.6–0:49.8 | Label | Tak berkerak | 〃 |
-| 0:49.9–0:53.9 | Label | 8 · 240°C · 5 minit | 〃 |
-| 0:54.1–0:59.2 | Ringkasan | Resepi / Beras basmati 300 g · Air 450 g · Minyak 50 g / Smart Cook P2 25 min → 240°C 5 min | Inter Medium 42 px, kotak putih |
+
+Selepas hook, tiada teks di bahagian atas. Hanya subtitle bawah dipaparkan (label langkah dan kad ringkasan resepi telah dibuang atas permintaan).
 
 **Subtitle:** Inter Medium 52 px, putih atas kotak hitam lut sinar, satu baris pendek setiap kali. Kedudukannya di sempadan atas inset (y ≈ 1215/1920), iaitu atas dinding gelap periuk, supaya tidak menutup muka, makanan atau produk. Masa setiap baris ada dalam fail `.srt`. Filler ("aa", "eh", "okey") tidak ditulis, dan nombor ditulis sebagai angka.
 
-Semua sukatan dan fakta pada teks diambil daripada apa yang disebut dalam live. Garam (1 sudu kecil, disebut pada 18:54) tidak dimasukkan supaya video kekal di bawah 60 saat.
+Semua sukatan dan fakta dalam subtitle diambil daripada apa yang disebut dalam live. Garam (1 sudu kecil, disebut pada 18:54) tidak dimasukkan supaya video kekal di bawah 60 saat.
 
 ## 5. Visual & audio
 
