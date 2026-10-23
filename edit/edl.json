@@ -1,0 +1,459 @@
+{
+ "clips": [
+  {
+   "in": 3253.0,
+   "out": 3257.38,
+   "zoom": [
+    1.0,
+    1.07
+   ],
+   "center": [
+    0.5,
+    0.8
+   ]
+  },
+  {
+   "in": 797.92,
+   "out": 799.3,
+   "zoom": [
+    1.0,
+    1.02
+   ]
+  },
+  {
+   "in": 799.55,
+   "out": 805.0,
+   "zoom": [
+    1.1,
+    1.12
+   ],
+   "center": [
+    0.5,
+    0.3
+   ]
+  },
+  {
+   "in": 982.6,
+   "out": 986.39
+  },
+  {
+   "in": 988.2,
+   "out": 989.92,
+   "zoom": [
+    1.08,
+    1.08
+   ],
+   "center": [
+    0.5,
+    0.75
+   ]
+  },
+  {
+   "in": 1022.18,
+   "out": 1024.98
+  },
+  {
+   "in": 1080.78,
+   "out": 1083.08
+  },
+  {
+   "in": 1083.42,
+   "out": 1084.27,
+   "zoom": [
+    1.08,
+    1.08
+   ],
+   "center": [
+    0.5,
+    0.75
+   ]
+  },
+  {
+   "in": 1091.12,
+   "out": 1095.12
+  },
+  {
+   "in": 1110.54,
+   "out": 1112.34
+  },
+  {
+   "in": 1113.68,
+   "out": 1118.36,
+   "zoom": [
+    1.08,
+    1.1
+   ],
+   "center": [
+    0.5,
+    0.75
+   ]
+  },
+  {
+   "in": 1162.27,
+   "out": 1165.89
+  },
+  {
+   "in": 1166.93,
+   "out": 1168.95,
+   "zoom": [
+    1.08,
+    1.08
+   ],
+   "center": [
+    0.5,
+    0.75
+   ]
+  },
+  {
+   "in": 1206.41,
+   "out": 1209.04
+  },
+  {
+   "in": 1228.62,
+   "out": 1230.56
+  },
+  {
+   "in": 2772.17,
+   "out": 2774.72
+  },
+  {
+   "in": 2775.86,
+   "out": 2776.5,
+   "zoom": [
+    1.08,
+    1.08
+   ],
+   "center": [
+    0.5,
+    0.3
+   ]
+  },
+  {
+   "in": 2820.12,
+   "out": 2823.4,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "center": [
+    0.5,
+    0.8
+   ]
+  },
+  {
+   "in": 2865.7,
+   "out": 2868.79
+  },
+  {
+   "in": 2870.7,
+   "out": 2871.76,
+   "zoom": [
+    1.06,
+    1.06
+   ],
+   "center": [
+    0.5,
+    0.7
+   ]
+  },
+  {
+   "in": 2937.18,
+   "out": 2942.45,
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "center": [
+    0.5,
+    0.3
+   ]
+  }
+ ],
+ "subs": [
+  {
+   "start": 0.05,
+   "end": 1.5,
+   "text": "Ini hasil dia"
+  },
+  {
+   "start": 1.5,
+   "end": 2.48,
+   "text": "macam nasi goreng"
+  },
+  {
+   "start": 2.48,
+   "end": 3.24,
+   "text": "yang kita goreng"
+  },
+  {
+   "start": 3.24,
+   "end": 4.3,
+   "text": "dekat dalam kuali."
+  },
+  {
+   "start": 4.38,
+   "end": 5.85,
+   "text": "Kadang-kadang kita balik kerja,"
+  },
+  {
+   "start": 5.9,
+   "end": 7.66,
+   "text": "nasi nak masak nasi malas,"
+  },
+  {
+   "start": 7.66,
+   "end": 8.44,
+   "text": "tapi kita nak buat"
+  },
+  {
+   "start": 8.44,
+   "end": 9.62,
+   "text": "nasi goreng ke apa kan?"
+  },
+  {
+   "start": 9.66,
+   "end": 11.2,
+   "text": "Tapi nasi sejuk tak ada."
+  },
+  {
+   "start": 11.24,
+   "end": 12.52,
+   "text": "Kita letak bawang Holland"
+  },
+  {
+   "start": 12.52,
+   "end": 13.32,
+   "text": "setengah biji."
+  },
+  {
+   "start": 13.36,
+   "end": 14.92,
+   "text": "Letakkan minyak."
+  },
+  {
+   "start": 14.98,
+   "end": 16.72,
+   "text": "Letakkan 50 gram."
+  },
+  {
+   "start": 16.84,
+   "end": 17.95,
+   "text": "Jadikan telur ni"
+  },
+  {
+   "start": 17.95,
+   "end": 19.45,
+   "text": "sebagai scramble."
+  },
+  {
+   "start": 19.52,
+   "end": 20.26,
+   "text": "Kita akan gunakan"
+  },
+  {
+   "start": 20.26,
+   "end": 22.62,
+   "text": "2 sudu besar sos tiram."
+  },
+  {
+   "start": 22.72,
+   "end": 24.74,
+   "text": "Lepas tu 1 sudu besar"
+  },
+  {
+   "start": 24.74,
+   "end": 26.6,
+   "text": "light soy sauce."
+  },
+  {
+   "start": 26.7,
+   "end": 28.4,
+   "text": "Sukatan air adalah"
+  },
+  {
+   "start": 28.4,
+   "end": 30.48,
+   "text": "450 gram"
+  },
+  {
+   "start": 30.48,
+   "end": 32.24,
+   "text": "untuk 300 gram"
+  },
+  {
+   "start": 32.24,
+   "end": 33.34,
+   "text": "beras basmati."
+  },
+  {
+   "start": 33.42,
+   "end": 35.3,
+   "text": "Lepas tu kita masukkan"
+  },
+  {
+   "start": 35.3,
+   "end": 36.08,
+   "text": "kita punya beras"
+  },
+  {
+   "start": 36.08,
+   "end": 36.95,
+   "text": "yang dah dicuci."
+  },
+  {
+   "start": 37.24,
+   "end": 38.85,
+   "text": "Tak perlu rendam beras ni."
+  },
+  {
+   "start": 39.12,
+   "end": 40.6,
+   "text": "Kita tutup guna"
+  },
+  {
+   "start": 40.6,
+   "end": 41.55,
+   "text": "penutup kaca."
+  },
+  {
+   "start": 41.64,
+   "end": 43.35,
+   "text": "So, smart cook 25 minit."
+  },
+  {
+   "start": 43.56,
+   "end": 44.84,
+   "text": "Tukar penutup kepada"
+  },
+  {
+   "start": 44.84,
+   "end": 46.5,
+   "text": "penutup air fryer."
+  },
+  {
+   "start": 46.58,
+   "end": 47.64,
+   "text": "Dia tak adalah,"
+  },
+  {
+   "start": 47.64,
+   "end": 48.72,
+   "text": "kata orang tu berkerak ke."
+  },
+  {
+   "start": 48.72,
+   "end": 49.88,
+   "text": "Dia cantik je lah."
+  },
+  {
+   "start": 49.98,
+   "end": 50.78,
+   "text": "So, kita akan tukar"
+  },
+  {
+   "start": 50.78,
+   "end": 52.86,
+   "text": "temperature 240."
+  },
+  {
+   "start": 52.9,
+   "end": 53.98,
+   "text": "Time 5 minit je."
+  },
+  {
+   "start": 54.34,
+   "end": 55.06,
+   "text": "Tak perlu nak ada"
+  },
+  {
+   "start": 55.06,
+   "end": 56.08,
+   "text": "nasi sejuk pun"
+  },
+  {
+   "start": 56.08,
+   "end": 57.36,
+   "text": "nak buat nasi goreng."
+  },
+  {
+   "start": 57.36,
+   "end": 59.15,
+   "text": "Tapi rasa dia sama."
+  }
+ ],
+ "overlays": [
+  {
+   "start": 0.0,
+   "end": 4.380000000000109,
+   "style": "Hook",
+   "text": "Nasi Goreng\\NTerus Dari Beras"
+  },
+  {
+   "start": 0.35,
+   "end": 4.380000000000109,
+   "style": "HookSub",
+   "text": "Tanpa nasi sejuk"
+  },
+  {
+   "start": 11.26000000000015,
+   "end": 16.670000000000027,
+   "style": "Chip",
+   "text": "1   Bawang Holland ½ biji  ·  Minyak 50 g"
+  },
+  {
+   "start": 16.770000000000028,
+   "end": 19.470000000000095,
+   "style": "Chip",
+   "text": "2   Telur, scramble"
+  },
+  {
+   "start": 19.570000000000096,
+   "end": 26.61999999999996,
+   "style": "Chip",
+   "text": "3   Sos tiram  ·  Light soy sauce"
+  },
+  {
+   "start": 26.71999999999996,
+   "end": 33.09999999999975,
+   "style": "Chip",
+   "text": "4   Air 450 g  ·  Beras basmati 300 g"
+  },
+  {
+   "start": 33.19999999999975,
+   "end": 38.73999999999985,
+   "style": "Chip",
+   "text": "5   Masukkan beras, tak perlu rendam"
+  },
+  {
+   "start": 38.83999999999985,
+   "end": 43.30999999999979,
+   "style": "Chip",
+   "text": "6   Smart Cook P2  ·  25 min"
+  },
+  {
+   "start": 43.40999999999978,
+   "end": 46.49999999999939,
+   "style": "Chip",
+   "text": "7   Tukar ke penutup air fryer"
+  },
+  {
+   "start": 46.59999999999938,
+   "end": 49.77999999999959,
+   "style": "Chip",
+   "text": "Tak berkerak"
+  },
+  {
+   "start": 49.87999999999958,
+   "end": 53.930000000000135,
+   "style": "Chip",
+   "text": "8   240°C  ·  5 minit"
+  },
+  {
+   "start": 54.08000000000013,
+   "end": 59.250000000000114,
+   "style": "Recap",
+   "text": "Resepi\\NBeras basmati 300 g  ·  Air 450 g  ·  Minyak 50 g\\NSmart Cook P2 25 min  →  240°C 5 min"
+  }
+ ],
+ "total": 59.250000000000114
+}
