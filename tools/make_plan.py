@@ -22,7 +22,7 @@ out = ["# Food Engine Cooven: Editing Plan for 10 Shorts", "",
        "letak di atas latar HITAM (y ≈ 380–1220 px). Teks di ruang hitam.",
        "- Font: **Inter**. Hook = Inter ExtraBold 88 px, putih atas kotak hitam, tengah bawah (≈ y 1300). "
        "Subtitle = Inter Medium 54 px, putih atas kotak hitam separa lutsinar, ≈ y 1560. "
-       "Label langkah = Inter SemiBold 46 px, hitam atas kotak putih, tengah atas.",
+       "Label langkah (tanpa nombor) = Inter SemiBold 46 px, hitam atas kotak putih, tengah atas.",
        "- Warna hitam & putih sahaja. Tiada sticker, emoji atau transition berlebihan; cut biasa + fade 0.25 s di awal/akhir.",
        "- Audio: suara asal sahaja, *Reduce noise* ON, loudness ≈ -14 LUFS. Muzik latar pilihan (instrumental lembut, -25 dB).",
        "- Klip **senyap** = B-roll tanpa suara di hujung untuk CTA.", ""]

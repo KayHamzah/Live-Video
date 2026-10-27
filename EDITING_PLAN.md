@@ -8,7 +8,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 - Kanvas 9:16, 1080 × 1920, 30 fps.
 - **Shot presenter**: penuh skrin, zoom-in perlahan 4–12% sepanjang klip (keyframe *Scale*).
 - **Shot kuali (top view)**: crop bahagian kamera atas (kotak landskap), besarkan selebar skrin, letak di atas latar HITAM (y ≈ 380–1220 px). Teks di ruang hitam.
-- Font: **Inter**. Hook = Inter ExtraBold 88 px, putih atas kotak hitam, tengah bawah (≈ y 1300). Subtitle = Inter Medium 54 px, putih atas kotak hitam separa lutsinar, ≈ y 1560. Label langkah = Inter SemiBold 46 px, hitam atas kotak putih, tengah atas.
+- Font: **Inter**. Hook = Inter ExtraBold 88 px, putih atas kotak hitam, tengah bawah (≈ y 1300). Subtitle = Inter Medium 54 px, putih atas kotak hitam separa lutsinar, ≈ y 1560. Label langkah (tanpa nombor) = Inter SemiBold 46 px, hitam atas kotak putih, tengah atas.
 - Warna hitam & putih sahaja. Tiada sticker, emoji atau transition berlebihan; cut biasa + fade 0.25 s di awal/akhir.
 - Audio: suara asal sahaja, *Reduce noise* ON, loudness ≈ -14 LUFS. Muzik latar pilihan (instrumental lembut, -25 dB).
 - Klip **senyap** = B-roll tanpa suara di hujung untuk CTA.
@@ -26,11 +26,11 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 | 2 | 00:03.3–00:08.1 | 02:21.0–02:25.8 | 02:21.0–02:25.8 | Presenter, zoom 1.06× | Menu emergency | menu emergency kalau tiba-tiba ada tetamu nak datang rumah |
 | 3 | 00:08.1–00:12.4 | 04:39.7–04:43.9 | 04:39.7–04:43.9 | Presenter, zoom 1.04× | Bahan | garam lada hitam dan juga carrot |
 | 4 | 00:12.4–00:19.3 | 10:33.3–10:40.2 | 11:38.0–11:44.9 | Kuali (top view), zoom 1.04× |  | setengah biji bawang Holland dan juga satu sudu teh lada hitam |
-| 5 | 00:19.3–00:24.4 | 11:45.9–11:51.0 | 11:45.9–11:51.0 | Kuali (top view), zoom 1.06× | 1  Tumis | so kita masukkan lada hitam dan juga bawang Holland yang kita dah blend tadi |
-| 6 | 00:24.4–00:30.1 | 13:58.8–14:04.5 | 13:58.8–14:04.5 | Kuali (top view), zoom 1.05× | 2  Air + carrot | sukatan air adalah bersamaan dengan berat bihun lepas tu masukkan carrot |
-| 7 | 00:30.1–00:37.8 | 14:24.1–14:31.8 | 14:24.1–14:31.8 | Kuali (top view), zoom 1.06× | 3  Perasakan dulu | dia mesti kena ada rasa masin yang cukup barulah kita masukkan bihun |
-| 8 | 00:37.8–00:41.1 | 15:37.0–15:40.4 | 15:37.0–15:40.4 | Kuali (top view), zoom 1.06× | 4  Masukkan bihun | masukkan dan terus kacau-kacau dia macam ni |
-| 9 | 00:41.1–00:47.5 | 16:35.4–16:41.8 | 16:35.4–16:41.8 | Kuali (top view), zoom 1.04× | 5  Steam P1 · 3 minit | steam P1 temperature lepas tu time dia adalah 3 minit |
+| 5 | 00:19.3–00:24.4 | 11:45.9–11:51.0 | 11:45.9–11:51.0 | Kuali (top view), zoom 1.06× | Tumis | so kita masukkan lada hitam dan juga bawang Holland yang kita dah blend tadi |
+| 6 | 00:24.4–00:30.1 | 13:58.8–14:04.5 | 13:58.8–14:04.5 | Kuali (top view), zoom 1.05× | Air + carrot | sukatan air adalah bersamaan dengan berat bihun lepas tu masukkan carrot |
+| 7 | 00:30.1–00:37.8 | 14:24.1–14:31.8 | 14:24.1–14:31.8 | Kuali (top view), zoom 1.06× | Perasakan dulu | dia mesti kena ada rasa masin yang cukup barulah kita masukkan bihun |
+| 8 | 00:37.8–00:41.1 | 15:37.0–15:40.4 | 15:37.0–15:40.4 | Kuali (top view), zoom 1.06× | Masukkan bihun | masukkan dan terus kacau-kacau dia macam ni |
+| 9 | 00:41.1–00:47.5 | 16:35.4–16:41.8 | 16:35.4–16:41.8 | Kuali (top view), zoom 1.04× | Steam P1 · 3 minit | steam P1 temperature lepas tu time dia adalah 3 minit |
 | 10 | 00:47.5–00:53.1 | 20:20.1–20:25.8 | 20:20.1–20:25.8 | Kuali (top view), zoom 1.10× |  | dia lembut cantik tak putus tak keras |
 | 11 | 00:53.1–00:56.5 | 17:07.9–17:11.2 | 20:36.0–20:39.3 | Kuali (top view), zoom 1.06× |  | sempat je nak buat sambil-sambil kita sembang dengan tetamu pun |
 | 12 | 00:56.5–00:59.1 | - | 20:43.0–20:45.6 | Kuali (top view), zoom 1.10× |  | *(senyap, B-roll untuk CTA)* |
@@ -46,14 +46,14 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 |---|---|---|---|---|---|---|
 | 1 | 00:00.0–00:03.0 | 36:31.6–36:34.6 | 36:31.6–36:34.6 | Kuali (top view), zoom 1.10× |  | haa nampak tak hasil telur dadar kita |
 | 2 | 00:03.0–00:05.4 | 30:14.5–30:17.0 | 36:39.0–36:41.4 | Kuali (top view), zoom 1.08× |  | nak buat telur dadar tanpa flip? boleh |
-| 3 | 00:05.4–00:08.3 | 31:32.1–31:35.0 | 31:32.1–31:35.0 | Kuali (top view), zoom 1.04× | 1  Cooker · 190°C | so kita gunakan suhu cooker dulu |
+| 3 | 00:05.4–00:08.3 | 31:32.1–31:35.0 | 31:32.1–31:35.0 | Kuali (top view), zoom 1.04× | Cooker · 190°C | so kita gunakan suhu cooker dulu |
 | 4 | 00:08.3–00:10.3 | 31:38.5–31:40.6 | 31:38.5–31:40.6 | Kuali (top view), zoom 1.04× |  | suka je guna 190 sebab cepat |
-| 5 | 00:10.3–00:13.6 | 31:45.0–31:48.2 | 31:45.0–31:48.2 | Kuali (top view), zoom 1.06× | 2  Tuang telur | bila dia dah agak panas macam tu terus letakkan kita punya telur |
-| 6 | 00:13.6–00:15.9 | 31:52.0–31:54.4 | 31:52.0–31:54.4 | Kuali (top view), zoom 1.06× | 3  Bulatkan | waktu ni korang kena bulatkan dia |
+| 5 | 00:10.3–00:13.6 | 31:45.0–31:48.2 | 31:45.0–31:48.2 | Kuali (top view), zoom 1.06× | Tuang telur | bila dia dah agak panas macam tu terus letakkan kita punya telur |
+| 6 | 00:13.6–00:15.9 | 31:52.0–31:54.4 | 31:52.0–31:54.4 | Kuali (top view), zoom 1.06× | Bulatkan | waktu ni korang kena bulatkan dia |
 | 7 | 00:15.9–00:18.2 | 32:15.8–32:18.1 | 32:15.8–32:18.1 | Kuali (top view), zoom 1.06× |  | bila dia dah bulat cantik macam ni kan |
-| 8 | 00:18.2–00:19.6 | 32:22.7–32:24.2 | 32:22.7–32:24.2 | Kuali (top view), zoom 1.04× | 4  Tutup air fryer | terus tutup sahaja |
+| 8 | 00:18.2–00:19.6 | 32:22.7–32:24.2 | 32:22.7–32:24.2 | Kuali (top view), zoom 1.04× | Tutup air fryer | terus tutup sahaja |
 | 9 | 00:19.6–00:21.8 | 32:26.7–32:28.8 | 32:26.7–32:28.8 | Kuali (top view), zoom 1.04× |  | penutup air fryer ni tadi |
-| 10 | 00:21.8–00:24.3 | 32:32.3–32:34.8 | 32:32.3–32:34.8 | Kuali (top view), zoom 1.04× | 5  Broil · 250°C · 3 minit | pergi dekat fungsi broil |
+| 10 | 00:21.8–00:24.3 | 32:32.3–32:34.8 | 32:32.3–32:34.8 | Kuali (top view), zoom 1.04× | Broil · 250°C · 3 minit | pergi dekat fungsi broil |
 | 11 | 00:24.3–00:27.1 | 32:37.5–32:40.3 | 32:37.5–32:40.3 | Kuali (top view), zoom 1.06× |  | pilih temperature 250 |
 | 12 | 00:27.1–00:28.8 | 32:42.5–32:44.2 | 32:42.5–32:44.2 | Kuali (top view), zoom 1.08× |  | time 3 minit |
 | 13 | 00:28.8–00:31.4 | 32:48.0–32:50.6 | 32:48.0–32:50.6 | Kuali (top view), zoom 1.08× |  | siap lah kita punya telur dadar we don't flip |
