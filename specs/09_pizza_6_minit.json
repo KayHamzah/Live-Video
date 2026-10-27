@@ -1,0 +1,53 @@
+{
+ "title": "Pizza 6 Minit",
+ "hook": "BAKAR PIZZA\\NDALAM 6 MINIT?",
+ "sub": "Fungsi Pizza + Deep Fry",
+ "cta": "Fungsi mana yang anda paling suka?",
+ "fix_at": {
+  "1302.38": "Food Engine",
+  "1302.64": "Cooven"
+ },
+ "clips": [
+  {
+   "s": 1276.15,
+   "e": 1279.55,
+   "zoom": 1.08,
+   "fy": 0.3
+  },
+  {
+   "s": 1295.15,
+   "e": 1301.2,
+   "zoom": 1.04,
+   "fy": 0.3,
+   "label": "Oven biasa: 20–30 minit"
+  },
+  {
+   "s": 1301.25,
+   "e": 1306.2,
+   "zoom": 1.1,
+   "fy": 0.3,
+   "label": "Cooven: 6 minit"
+  },
+  {
+   "s": 1308.15,
+   "e": 1310.05,
+   "zoom": 1.04,
+   "fy": 0.3,
+   "label": "Fungsi Deep Fry"
+  },
+  {
+   "s": 1315.65,
+   "e": 1321.45,
+   "zoom": 1.1,
+   "fy": 0.3
+  },
+  {
+   "s": 1322.0,
+   "e": 1324.6,
+   "v": 1306.4,
+   "zoom": 1.12,
+   "fy": 0.3,
+   "mute": true
+  }
+ ]
+}

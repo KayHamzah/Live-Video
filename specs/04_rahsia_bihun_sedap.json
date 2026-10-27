@@ -1,0 +1,73 @@
+{
+ "title": "Rahsia Bihun Goreng Sedap",
+ "hook": "RAHSIA BIHUN\\NTAK TAWAR",
+ "sub": "Part yang ramai terlepas",
+ "cta": "Simpan video ini untuk rujukan.",
+ "fix_at": {
+  "908.0": "stok",
+  "908.3": "ayam",
+  "904.68": "tawar"
+ },
+ "clips": [
+  {
+   "s": 850.4,
+   "e": 856.0,
+   "mode": "pan",
+   "zoom": 1.05
+  },
+  {
+   "s": 857.9,
+   "e": 863.9,
+   "mode": "pan",
+   "zoom": 1.06,
+   "label": "Garam + stok pati ayam"
+  },
+  {
+   "s": 864.2,
+   "e": 871.8,
+   "mode": "pan",
+   "zoom": 1.08,
+   "label": "Rasa sebelum masuk bihun"
+  },
+  {
+   "s": 892.75,
+   "e": 897.6,
+   "mode": "pan",
+   "zoom": 1.05,
+   "label": "Terlebih masin?"
+  },
+  {
+   "s": 900.5,
+   "e": 904.3,
+   "mode": "pan",
+   "zoom": 1.06
+  },
+  {
+   "s": 904.3,
+   "e": 908.75,
+   "mode": "pan",
+   "zoom": 1.06,
+   "label": "Kurang masin?"
+  },
+  {
+   "s": 1227.8,
+   "e": 1232.6,
+   "mode": "pan",
+   "zoom": 1.1
+  },
+  {
+   "s": 1236.8,
+   "e": 1239.5,
+   "mode": "pan",
+   "zoom": 1.1
+  },
+  {
+   "s": 1240.0,
+   "e": 1242.6,
+   "v": 1243.0,
+   "mode": "pan",
+   "zoom": 1.12,
+   "mute": true
+  }
+ ]
+}

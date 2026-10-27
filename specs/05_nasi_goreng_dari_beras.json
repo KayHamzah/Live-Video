@@ -1,0 +1,81 @@
+{
+ "title": "Nasi Goreng Daripada Beras",
+ "hook": "NASI GORENG\\NDARIPADA BERAS?",
+ "sub": "Fungsi Smart Cook",
+ "cta": "Nak saya kongsikan teknik yang lain?",
+ "fix_at": {
+  "203.94": "Engine",
+  "204.26": "Cooven"
+ },
+ "clips": [
+  {
+   "s": 2070.0,
+   "e": 2072.95,
+   "zoom": 1.14,
+   "fy": 0.62
+  },
+  {
+   "s": 2074.1,
+   "e": 2078.0,
+   "zoom": 1.12,
+   "fy": 0.62
+  },
+  {
+   "s": 190.6,
+   "e": 198.15,
+   "v": 204.0,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.05
+  },
+  {
+   "s": 211.7,
+   "e": 218.4,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.06,
+   "label": "Tumis bahan macam biasa"
+  },
+  {
+   "s": 222.55,
+   "e": 224.3,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.06,
+   "label": "Masukkan beras"
+  },
+  {
+   "s": 224.3,
+   "e": 228.75,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.08,
+   "label": "Guna beras basmati"
+  },
+  {
+   "s": 228.75,
+   "e": 231.4,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.06,
+   "label": "Smart Cook"
+  },
+  {
+   "s": 2822.6,
+   "e": 2825.05,
+   "v": 215.0,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.08,
+   "label": "± 30 minit"
+  },
+  {
+   "s": 2066.0,
+   "e": 2068.6,
+   "v": 2068.5,
+   "zoom": 1.18,
+   "fy": 0.62,
+   "mute": true
+  }
+ ]
+}

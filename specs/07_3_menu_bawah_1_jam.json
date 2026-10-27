@@ -1,0 +1,72 @@
+{
+ "title": "3 Menu Bawah 1 Jam",
+ "hook": "3 MENU,\\NTAK SAMPAI 1 JAM",
+ "sub": "Bihun · Telur dadar · Nasi goreng",
+ "cta": "Menu mana yang anda nak cuba dulu?",
+ "fix_at": {
+  "2803.6": "Food Engine",
+  "2803.86": "Cooven",
+  "2806.26": "bihun",
+  "2809.3": "dadar",
+  "2809.42": "",
+  "2814.84": "2",
+  "2815.0": "menu",
+  "2833.34": "Food Engine",
+  "2833.64": "Cooven"
+ },
+ "clips": [
+  {
+   "s": 2826.4,
+   "e": 2828.95,
+   "zoom": 1.08,
+   "fy": 0.3
+  },
+  {
+   "s": 2805.2,
+   "e": 2808.55,
+   "v": 1244.5,
+   "mode": "pan",
+   "zoom": 1.08,
+   "label": "Bihun goreng"
+  },
+  {
+   "s": 2808.7,
+   "e": 2810.6,
+   "v": 2192.0,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.08,
+   "label": "Telur dadar"
+  },
+  {
+   "s": 2813.3,
+   "e": 2816.2,
+   "v": 2296.5,
+   "mode": "pan",
+   "zoom": 1.06
+  },
+  {
+   "s": 2816.75,
+   "e": 2825.05,
+   "v": 205.0,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.06,
+   "label": "Nasi goreng daripada beras"
+  },
+  {
+   "s": 2832.2,
+   "e": 2840.2,
+   "zoom": 1.1,
+   "fy": 0.3
+  },
+  {
+   "s": 1244.0,
+   "e": 1246.8,
+   "v": 1244.0,
+   "mode": "pan",
+   "zoom": 1.12,
+   "mute": true
+  }
+ ]
+}

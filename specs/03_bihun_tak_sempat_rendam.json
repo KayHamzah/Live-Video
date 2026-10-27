@@ -1,0 +1,74 @@
+{
+ "title": "Bihun Tak Sempat Rendam",
+ "hook": "TAK SEMPAT\\NRENDAM BIHUN?",
+ "sub": "Ini caranya",
+ "cta": "Simpan video ini untuk rujukan.",
+ "fix_at": {
+  "435.26": "Bihun"
+ },
+ "clips": [
+  {
+   "s": 449.75,
+   "e": 454.3,
+   "zoom": 1.06,
+   "fy": 0.3
+  },
+  {
+   "s": 455.9,
+   "e": 464.9,
+   "v": 925.0,
+   "mode": "pan",
+   "zoom": 1.04,
+   "label": "Rendam semasa menumis"
+  },
+  {
+   "s": 465.1,
+   "e": 470.4,
+   "v": 934.0,
+   "mode": "pan",
+   "zoom": 1.06
+  },
+  {
+   "s": 472.4,
+   "e": 477.6,
+   "v": 940.0,
+   "mode": "pan",
+   "zoom": 1.08,
+   "label": "Terus dalam plastik"
+  },
+  {
+   "s": 485.4,
+   "e": 494.5,
+   "v": 833.6,
+   "mode": "pan",
+   "zoom": 1.05,
+   "label": "Air = berat bihun"
+  },
+  {
+   "s": 505.25,
+   "e": 508.2,
+   "zoom": 1.08,
+   "fy": 0.35
+  },
+  {
+   "s": 513.5,
+   "e": 515.95,
+   "zoom": 1.06,
+   "fy": 0.3
+  },
+  {
+   "s": 1220.1,
+   "e": 1225.75,
+   "mode": "pan",
+   "zoom": 1.1
+  },
+  {
+   "s": 1236.0,
+   "e": 1238.6,
+   "v": 1243.0,
+   "mode": "pan",
+   "zoom": 1.12,
+   "mute": true
+  }
+ ]
+}

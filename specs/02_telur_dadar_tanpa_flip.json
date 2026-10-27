@@ -1,0 +1,112 @@
+{
+ "title": "Telur Dadar Tanpa Flip",
+ "hook": "TELUR DADAR\\NTANPA PERLU FLIP",
+ "sub": "Fungsi Cooker + Broil",
+ "cta": "Nak saya kongsikan teknik yang lain?",
+ "clips": [
+  {
+   "s": 2191.6,
+   "e": 2194.6,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.1
+  },
+  {
+   "s": 1814.55,
+   "e": 1816.95,
+   "v": 2199.0,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.08
+  },
+  {
+   "s": 1892.1,
+   "e": 1894.95,
+   "mode": "pan",
+   "zoom": 1.04,
+   "label": "1  Cooker · 190°C"
+  },
+  {
+   "s": 1898.55,
+   "e": 1900.6,
+   "mode": "pan",
+   "zoom": 1.04
+  },
+  {
+   "s": 1904.95,
+   "e": 1908.2,
+   "mode": "pan",
+   "zoom": 1.06,
+   "label": "2  Tuang telur"
+  },
+  {
+   "s": 1912.05,
+   "e": 1914.4,
+   "mode": "pan",
+   "zoom": 1.06,
+   "label": "3  Bulatkan"
+  },
+  {
+   "s": 1935.85,
+   "e": 1938.1,
+   "mode": "pan",
+   "zoom": 1.06
+  },
+  {
+   "s": 1942.7,
+   "e": 1944.15,
+   "mode": "pan",
+   "zoom": 1.04,
+   "label": "4  Tutup air fryer"
+  },
+  {
+   "s": 1946.7,
+   "e": 1948.85,
+   "mode": "pan",
+   "zoom": 1.04
+  },
+  {
+   "s": 1952.3,
+   "e": 1954.85,
+   "mode": "pan",
+   "zoom": 1.04,
+   "label": "5  Broil · 250°C · 3 minit"
+  },
+  {
+   "s": 1957.5,
+   "e": 1960.3,
+   "mode": "pan",
+   "zoom": 1.06
+  },
+  {
+   "s": 1962.5,
+   "e": 1964.2,
+   "mode": "pan",
+   "zoom": 1.08
+  },
+  {
+   "s": 1968.0,
+   "e": 1970.6,
+   "mode": "pan",
+   "zoom": 1.08
+  },
+  {
+   "s": 2296.5,
+   "e": 2301.3,
+   "mode": "pan",
+   "zoom": 1.08
+  },
+  {
+   "s": 2195.0,
+   "e": 2198.0,
+   "v": 2200.5,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.12,
+   "mute": true
+  }
+ ],
+ "fix_at": {
+  "1969.34": "telur"
+ }
+}

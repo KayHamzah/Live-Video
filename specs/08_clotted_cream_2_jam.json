@@ -1,0 +1,52 @@
+{
+ "title": "Clotted Cream 2 Jam",
+ "hook": "CLOTTED CREAM\\N2 JAM JE?",
+ "sub": "Fungsi Dehydrate",
+ "cta": "Fungsi mana yang anda paling suka?",
+ "fix_at": {
+  "1168.9": "kari"
+ },
+ "clips": [
+  {
+   "s": 1174.24,
+   "e": 1177.0,
+   "zoom": 1.08,
+   "fy": 0.3
+  },
+  {
+   "s": 1161.0,
+   "e": 1164.9,
+   "zoom": 1.04,
+   "fy": 0.3,
+   "label": "Fungsi Dehydrate"
+  },
+  {
+   "s": 1164.9,
+   "e": 1173.6,
+   "zoom": 1.1,
+   "fy": 0.4,
+   "label": "Keringkan daun kari"
+  },
+  {
+   "s": 1177.0,
+   "e": 1183.2,
+   "zoom": 1.06,
+   "fy": 0.3,
+   "label": "Clotted cream · 2 jam"
+  },
+  {
+   "s": 1183.85,
+   "e": 1194.5,
+   "zoom": 1.1,
+   "fy": 0.3,
+   "label": "Starter sourdough"
+  },
+  {
+   "s": 1194.6,
+   "e": 1197.0,
+   "zoom": 1.12,
+   "fy": 0.3,
+   "mute": true
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Dapur Tak Bersepah",
+ "hook": "LEPAS MASAK,\\NDAPUR TAK BERSEPAH",
+ "sub": "Food Engine Cooven",
+ "cta": "Simpan video ini untuk rujukan.",
+ "fix_at": {
+  "2729.58": "Cooven",
+  "2783.94": "Cooven",
+  "1783.94": "Cooven",
+  "1784.2": "",
+  "1785.24": "basuh"
+ },
+ "clips": [
+  {
+   "s": 2686.9,
+   "e": 2699.5,
+   "zoom": 1.04,
+   "fy": 0.3
+  },
+  {
+   "s": 2700.6,
+   "e": 2706.0,
+   "v": 1250.0,
+   "mode": "pan",
+   "zoom": 1.08,
+   "label": "Guna penyepit je"
+  },
+  {
+   "s": 2712.0,
+   "e": 2728.4,
+   "zoom": 1.08,
+   "fy": 0.3
+  },
+  {
+   "s": 2728.7,
+   "e": 2737.1,
+   "zoom": 1.12,
+   "fy": 0.3
+  },
+  {
+   "s": 1781.9,
+   "e": 1785.6,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.04
+  },
+  {
+   "s": 1787.15,
+   "e": 1789.2,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.06,
+   "label": "Lap-lap je"
+  },
+  {
+   "s": 1792.5,
+   "e": 1795.8,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.06
+  },
+  {
+   "s": 1798.0,
+   "e": 1800.6,
+   "v": 1824.0,
+   "mode": "pan",
+   "py": 437,
+   "zoom": 1.08,
+   "mute": true
+  }
+ ]
+}

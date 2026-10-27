@@ -1,0 +1,60 @@
+{
+ "title": "BBQ Tanpa Asap",
+ "hook": "BBQ TANPA ARANG,\\NTANPA ASAP",
+ "sub": "Fungsi Barbecue",
+ "cta": "Fungsi mana yang anda paling suka?",
+ "fix_at": {
+  "1549.76": "Food",
+  "1550.0": "Engine",
+  "1550.12": "Cooven",
+  "1550.4": ""
+ },
+ "clips": [
+  {
+   "s": 1552.7,
+   "e": 1559.75,
+   "zoom": 1.06,
+   "fy": 0.3
+  },
+  {
+   "s": 1527.55,
+   "e": 1535.5,
+   "zoom": 1.04,
+   "fy": 0.3
+  },
+  {
+   "s": 1535.9,
+   "e": 1545.3,
+   "zoom": 1.1,
+   "fy": 0.3,
+   "label": "Fungsi Barbecue"
+  },
+  {
+   "s": 1545.35,
+   "e": 1550.7,
+   "zoom": 1.06,
+   "fy": 0.3
+  },
+  {
+   "s": 1559.75,
+   "e": 1569.4,
+   "zoom": 1.12,
+   "fy": 0.3,
+   "label": "Masak dengan tenang"
+  },
+  {
+   "s": 1340.85,
+   "e": 1346.95,
+   "zoom": 1.06,
+   "fy": 0.3,
+   "label": "Slow cook · sambil tidur"
+  },
+  {
+   "s": 1347.0,
+   "e": 1349.6,
+   "zoom": 1.1,
+   "fy": 0.3,
+   "mute": true
+  }
+ ]
+}
