@@ -112,8 +112,10 @@ def build_ass(spec, words, total):
         lines.append(offset)  # cut marker: phrases end at the cut
     hook_end = spec.get("hook_dur", 3.0)
     cta = spec.get("cta")
-    tail = spec["clips"][-1]
-    cta_start = total - spec.get("cta_dur", tail["e"] - tail["s"] if tail.get("mute") else 3.2)
+    od = spec.get("_outro_dur", 0.0)
+    cta_end = total - od
+    tail = spec["clips"][-2 if od else -1]
+    cta_start = cta_end - spec.get("cta_dur", tail["e"] - tail["s"] if tail.get("mute") else 3.2)
 
     ev = []
     # Hook: big bold white on black box, safe zone below the machine.
@@ -124,7 +126,9 @@ def build_ass(spec, words, total):
         if c.get("label"):
             ev.append(f"Dialogue: 1,{ts(c_off + 0.1)},{ts(c_off + min(2.8, c['e'] - c['s']))},Label,,0,0,0,,{{\\fad(150,200)}}{esc(c['label'])}")
     if cta:
-        ev.append(f"Dialogue: 2,{ts(cta_start)},{ts(total)},Hook,,0,0,0,,{{\\fad(250,0)}}{esc(cta)}")
+        ev.append(f"Dialogue: 2,{ts(cta_start)},{ts(cta_end)},Hook,,0,0,0,,{{\\fad(250,{150 if od else 0})}}{esc(cta)}")
+    if od:
+        ev.append(f"Dialogue: 2,{ts(cta_end)},{ts(total)},Hook,,0,0,0,,{{\\fad(200,0)}}{esc(spec['outro'])}")
     for i, ln in enumerate(lines):
         if isinstance(ln, float):
             continue
@@ -182,6 +186,15 @@ PAN_Y = 380  # where the enlarged pan view sits on the 1080x1920 canvas
 
 
 def render(spec, words, src, out):
+    if spec.get("outro"):
+        # End card: continue the last shot silently and show the outro line over it.
+        last = spec["clips"][-1]
+        od = spec.get("outro_dur", 2.5)
+        vs = last.get("v", last["s"]) + (last["e"] - last["s"])
+        spec = {**spec, "_outro_dur": od, "clips": spec["clips"] + [
+            {**{k: v for k, v in last.items() if k not in ("label", "zoom_from")},
+             "s": last["e"], "e": last["e"] + od, "v": vs, "mute": True,
+             "zoom_from": last.get("zoom", 1.0)}]}
     clips = spec["clips"]
     total = sum(c["e"] - c["s"] for c in clips)
     work = os.path.splitext(out)[0] + "_work"

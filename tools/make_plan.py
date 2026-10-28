@@ -29,12 +29,14 @@ out = ["# Food Engine Cooven: Editing Plan for 10 Shorts", "",
 for p in sorted(glob.glob(os.path.join(os.path.dirname(__file__), "..", "specs", "*.json"))):
     spec = json.load(open(p, encoding="utf-8"))
     clean = make_cleaner(spec)
-    total = sum(c["e"] - c["s"] for c in spec["clips"])
+    total = sum(c["e"] - c["s"] for c in spec["clips"]) + (spec.get("outro_dur", 2.5) if spec.get("outro") else 0)
     name = os.path.basename(p)[:-5]
     out += [f"## {name[:2]}. {spec['title']}  ({total:.0f} s)", "",
             f"**Hook (0–3 s):** **{spec['hook'].replace(chr(92) + 'N', ' ')}**  ",
             f"**Sub-hook:** {spec.get('sub', '-')}  ",
             f"**CTA (hujung):** {spec.get('cta', '-')}  ",
+            f"**Penutup ({spec.get('outro_dur', 2.5)} s terakhir, sambungan shot akhir tanpa suara):** "
+            f"{spec.get('outro', '-').replace(chr(92) + 'N', ' ')}  ",
             f"**Fail siap:** `output/{name}.mp4`", "",
             "| # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |",
             "|---|---|---|---|---|---|---|"]

@@ -13,11 +13,12 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 - Audio: suara asal sahaja, *Reduce noise* ON, loudness ≈ -14 LUFS. Muzik latar pilihan (instrumental lembut, -25 dB).
 - Klip **senyap** = B-roll tanpa suara di hujung untuk CTA.
 
-## 01. Bihun Goreng Singapore Effortless  (59 s)
+## 01. Bihun Goreng Singapore Effortless  (62 s)
 
 **Hook (0–3 s):** **BIHUN GORENG TANPA PENAT KACAU**  
 **Sub-hook:** Food Engine Cooven  
 **CTA (hujung):** Simpan video ini untuk rujukan.  
+**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/01_bihun_goreng_effortless.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -35,11 +36,12 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 | 11 | 00:53.1–00:56.5 | 17:07.9–17:11.2 | 20:36.0–20:39.3 | Kuali (top view), zoom 1.06× |  | sempat je nak buat sambil-sambil kita sembang dengan tetamu pun |
 | 12 | 00:56.5–00:59.1 | - | 20:43.0–20:45.6 | Kuali (top view), zoom 1.10× |  | *(senyap, B-roll untuk CTA)* |
 
-## 02. Telur Dadar Tanpa Flip  (39 s)
+## 02. Telur Dadar Tanpa Flip  (42 s)
 
 **Hook (0–3 s):** **TELUR DADAR TANPA PERLU FLIP**  
 **Sub-hook:** Fungsi Cooker + Broil  
 **CTA (hujung):** Nak saya kongsikan teknik yang lain?  
+**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/02_telur_dadar_tanpa_flip.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -60,11 +62,12 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 | 14 | 00:31.4–00:36.2 | 38:16.5–38:21.3 | 38:16.5–38:21.3 | Kuali (top view), zoom 1.08× |  | so dia punya bawah dia walaupun kita tak flip nampak tak dia cantik je hasil dia |
 | 15 | 00:36.2–00:39.2 | - | 36:40.5–36:43.5 | Kuali (top view), zoom 1.12× |  | *(senyap, B-roll untuk CTA)* |
 
-## 03. Bihun Tak Sempat Rendam  (47 s)
+## 03. Bihun Tak Sempat Rendam  (49 s)
 
 **Hook (0–3 s):** **TAK SEMPAT RENDAM BIHUN?**  
 **Sub-hook:** Ini caranya  
 **CTA (hujung):** Simpan video ini untuk rujukan.  
+**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/03_bihun_tak_sempat_rendam.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -79,11 +82,12 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 | 8 | 00:38.6–00:44.2 | 20:20.1–20:25.8 | 20:20.1–20:25.8 | Kuali (top view), zoom 1.10× |  | dia lembut cantik tak putus tak keras |
 | 9 | 00:44.2–00:46.8 | - | 20:43.0–20:45.6 | Kuali (top view), zoom 1.12× |  | *(senyap, B-roll untuk CTA)* |
 
-## 04. Rahsia Bihun Goreng Sedap  (42 s)
+## 04. Rahsia Bihun Goreng Sedap  (45 s)
 
 **Hook (0–3 s):** **RAHSIA BIHUN TAK TAWAR**  
 **Sub-hook:** Part yang ramai terlepas  
 **CTA (hujung):** Simpan video ini untuk rujukan.  
+**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/04_rahsia_bihun_sedap.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -98,11 +102,12 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 | 8 | 00:37.1–00:39.8 | 20:36.8–20:39.5 | 20:36.8–20:39.5 | Kuali (top view), zoom 1.10× |  | nampak tak? lembut cantik |
 | 9 | 00:39.8–00:42.4 | - | 20:43.0–20:45.6 | Kuali (top view), zoom 1.12× |  | *(senyap, B-roll untuk CTA)* |
 
-## 05. Nasi Goreng Daripada Beras  (35 s)
+## 05. Nasi Goreng Daripada Beras  (38 s)
 
 **Hook (0–3 s):** **NASI GORENG DARIPADA BERAS?**  
 **Sub-hook:** Fungsi Smart Cook  
 **CTA (hujung):** Nak saya kongsikan teknik yang lain?  
+**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/05_nasi_goreng_dari_beras.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -117,11 +122,12 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 | 8 | 00:29.9–00:32.4 | 47:02.6–47:05.1 | 03:35.0–03:37.5 | Kuali (top view), zoom 1.08× | ± 30 minit | so buat daripada beras 30 minit dah siap |
 | 9 | 00:32.4–00:35.0 | - | 34:28.5–34:31.1 | Presenter, zoom 1.18× |  | *(senyap, B-roll untuk CTA)* |
 
-## 06. Dapur Tak Bersepah  (54 s)
+## 06. Dapur Tak Bersepah  (57 s)
 
 **Hook (0–3 s):** **LEPAS MASAK, DAPUR TAK BERSEPAH**  
 **Sub-hook:** Food Engine Cooven  
 **CTA (hujung):** Simpan video ini untuk rujukan.  
+**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/06_dapur_tak_bersepah.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -135,11 +141,12 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 | 7 | 00:48.5–00:51.8 | 29:52.5–29:55.8 | 29:52.5–29:55.8 | Kuali (top view), zoom 1.06× |  | kuis-kuis lah tarik sampai habis sampai bersih macam tu |
 | 8 | 00:51.8–00:54.4 | - | 30:24.0–30:26.6 | Kuali (top view), zoom 1.08× |  | *(senyap, B-roll untuk CTA)* |
 
-## 07. 3 Menu Bawah 1 Jam  (30 s)
+## 07. 3 Menu Bawah 1 Jam  (32 s)
 
 **Hook (0–3 s):** **3 MENU, TAK SAMPAI 1 JAM**  
 **Sub-hook:** Bihun · Telur dadar · Nasi goreng  
 **CTA (hujung):** Menu mana yang anda nak cuba dulu?  
+**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/07_3_menu_bawah_1_jam.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -152,11 +159,12 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 | 6 | 00:19.0–00:27.0 | 47:12.2–47:20.2 | 47:12.2–47:20.2 | Presenter, zoom 1.10× |  | so bila kita masak menggunakan Food Engine Cooven ni dia sangat-sangat cepat so dia boleh menjimatkan masa boleh menjimatkan kita punya tenaga dia sangat-sangat effortless lah |
 | 7 | 00:27.0–00:29.8 | - | 20:44.0–20:46.8 | Kuali (top view), zoom 1.12× |  | *(senyap, B-roll untuk CTA)* |
 
-## 08. Clotted Cream 2 Jam  (35 s)
+## 08. Clotted Cream 2 Jam  (37 s)
 
 **Hook (0–3 s):** **CLOTTED CREAM 2 JAM JE?**  
 **Sub-hook:** Fungsi Dehydrate  
 **CTA (hujung):** Fungsi mana yang anda paling suka?  
+**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/08_clotted_cream_2_jam.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -168,11 +176,12 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 | 5 | 00:21.6–00:32.2 | 19:43.8–19:54.5 | 19:43.8–19:54.5 | Presenter, zoom 1.10× | Starter sourdough | lepas tu apa lagi kita boleh buat dengan fungsi dehydrate ni macam-macam lah kalau siapa-siapa yang buat sourdough nak dehydrate kita punya starter pun boleh dengan menggunakan fungsi dehydrate tu tadi |
 | 6 | 00:32.2–00:34.6 | - | 19:54.6–19:57.0 | Presenter, zoom 1.12× |  | *(senyap, B-roll untuk CTA)* |
 
-## 09. Pizza 6 Minit  (25 s)
+## 09. Pizza 6 Minit  (27 s)
 
 **Hook (0–3 s):** **BAKAR PIZZA DALAM 6 MINIT?**  
 **Sub-hook:** Fungsi Pizza + Deep Fry  
 **CTA (hujung):** Fungsi mana yang anda paling suka?  
+**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/09_pizza_6_minit.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -184,11 +193,12 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 | 5 | 00:16.3–00:22.1 | 21:55.7–22:01.5 | 21:55.7–22:01.5 | Presenter, zoom 1.10× |  | yang best dengan fungsi deep fry ni minyak tu tak hitam ok minyak yang kita gunakan tu tidak hitam |
 | 6 | 00:22.1–00:24.7 | - | 21:46.4–21:49.0 | Presenter, zoom 1.12× |  | *(senyap, B-roll untuk CTA)* |
 
-## 10. BBQ Tanpa Asap  (48 s)
+## 10. BBQ Tanpa Asap  (51 s)
 
 **Hook (0–3 s):** **BBQ TANPA ARANG, TANPA ASAP**  
 **Sub-hook:** Fungsi Barbecue  
 **CTA (hujung):** Fungsi mana yang anda paling suka?  
+**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/10_bbq_tanpa_asap.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
