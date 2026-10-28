@@ -35,7 +35,7 @@ for p in sorted(glob.glob(os.path.join(os.path.dirname(__file__), "..", "specs",
             f"**Hook (0–3 s):** **{spec['hook'].replace(chr(92) + 'N', ' ')}**  ",
             f"**Sub-hook:** {spec.get('sub', '-')}  ",
             f"**CTA (hujung):** {spec.get('cta', '-')}  ",
-            f"**Penutup ({spec.get('outro_dur', 2.5)} s terakhir, sambungan shot akhir tanpa suara):** "
+            f"**Penutup ({spec.get('outro_dur', 2.5)} s terakhir, skrin hitam selepas video fade out):** "
             f"{spec.get('outro', '-').replace(chr(92) + 'N', ' ')}  ",
             f"**Fail siap:** `output/{name}.mp4`", "",
             "| # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |",

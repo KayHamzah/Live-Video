@@ -18,7 +18,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 **Hook (0–3 s):** **BIHUN GORENG TANPA PENAT KACAU**  
 **Sub-hook:** Food Engine Cooven  
 **CTA (hujung):** Simpan video ini untuk rujukan.  
-**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
+**Penutup (2.5 s terakhir, skrin hitam selepas video fade out):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/01_bihun_goreng_effortless.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -41,7 +41,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 **Hook (0–3 s):** **TELUR DADAR TANPA PERLU FLIP**  
 **Sub-hook:** Fungsi Cooker + Broil  
 **CTA (hujung):** Nak saya kongsikan teknik yang lain?  
-**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
+**Penutup (2.5 s terakhir, skrin hitam selepas video fade out):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/02_telur_dadar_tanpa_flip.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -67,7 +67,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 **Hook (0–3 s):** **TAK SEMPAT RENDAM BIHUN?**  
 **Sub-hook:** Ini caranya  
 **CTA (hujung):** Simpan video ini untuk rujukan.  
-**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
+**Penutup (2.5 s terakhir, skrin hitam selepas video fade out):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/03_bihun_tak_sempat_rendam.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -87,7 +87,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 **Hook (0–3 s):** **RAHSIA BIHUN TAK TAWAR**  
 **Sub-hook:** Part yang ramai terlepas  
 **CTA (hujung):** Simpan video ini untuk rujukan.  
-**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
+**Penutup (2.5 s terakhir, skrin hitam selepas video fade out):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/04_rahsia_bihun_sedap.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -107,7 +107,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 **Hook (0–3 s):** **NASI GORENG DARIPADA BERAS?**  
 **Sub-hook:** Fungsi Smart Cook  
 **CTA (hujung):** Nak saya kongsikan teknik yang lain?  
-**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
+**Penutup (2.5 s terakhir, skrin hitam selepas video fade out):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/05_nasi_goreng_dari_beras.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -127,7 +127,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 **Hook (0–3 s):** **LEPAS MASAK, DAPUR TAK BERSEPAH**  
 **Sub-hook:** Food Engine Cooven  
 **CTA (hujung):** Simpan video ini untuk rujukan.  
-**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
+**Penutup (2.5 s terakhir, skrin hitam selepas video fade out):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/06_dapur_tak_bersepah.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -146,7 +146,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 **Hook (0–3 s):** **3 MENU, TAK SAMPAI 1 JAM**  
 **Sub-hook:** Bihun · Telur dadar · Nasi goreng  
 **CTA (hujung):** Menu mana yang anda nak cuba dulu?  
-**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
+**Penutup (2.5 s terakhir, skrin hitam selepas video fade out):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/07_3_menu_bawah_1_jam.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -164,7 +164,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 **Hook (0–3 s):** **CLOTTED CREAM 2 JAM JE?**  
 **Sub-hook:** Fungsi Dehydrate  
 **CTA (hujung):** Fungsi mana yang anda paling suka?  
-**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
+**Penutup (2.5 s terakhir, skrin hitam selepas video fade out):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/08_clotted_cream_2_jam.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -181,7 +181,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 **Hook (0–3 s):** **BAKAR PIZZA DALAM 6 MINIT?**  
 **Sub-hook:** Fungsi Pizza + Deep Fry  
 **CTA (hujung):** Fungsi mana yang anda paling suka?  
-**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
+**Penutup (2.5 s terakhir, skrin hitam selepas video fade out):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/09_pizza_6_minit.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |
@@ -198,7 +198,7 @@ Ready-made MP4s are in `output/`. This plan lets you rebuild or tweak any video 
 **Hook (0–3 s):** **BBQ TANPA ARANG, TANPA ASAP**  
 **Sub-hook:** Fungsi Barbecue  
 **CTA (hujung):** Fungsi mana yang anda paling suka?  
-**Penutup (2.5 s terakhir, sambungan shot akhir tanpa suara):** Follow Kay sekarang untuk lebih banyak tips.  
+**Penutup (2.5 s terakhir, skrin hitam selepas video fade out):** Follow Kay sekarang untuk lebih banyak tips.  
 **Fail siap:** `output/10_bbq_tanpa_asap.mp4`
 
 | # | Masa video | Audio dari LIVE | Visual dari LIVE | Shot | Label atas skrin | Dialog / subtitle |

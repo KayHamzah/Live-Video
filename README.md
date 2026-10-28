@@ -16,7 +16,7 @@ Style: premium minimalist, black and white text only (Inter font), original voic
 | 09 | `09_pizza_6_minit.mp4` | BAKAR PIZZA DALAM 6 MINIT? | Fungsi Pizza vs oven biasa + Deep Fry minyak tak hitam | 27 s | Fungsi mana yang anda paling suka? |
 | 10 | `10_bbq_tanpa_asap.mp4` | BBQ TANPA ARANG, TANPA ASAP | Fungsi Barbecue + Slow Cook sambil tidur | 51 s | Fungsi mana yang anda paling suka? |
 
-Every video ends with a 2.5 s end card: **Follow Kay sekarang untuk lebih banyak tips.**
+Every video ends with a 2.5 s black end card (the video fades to black first): **Follow Kay sekarang untuk lebih banyak tips.**
 
 All claims (times, temperatures, results) are the presenter's own words from the LIVE; nothing was added.
 

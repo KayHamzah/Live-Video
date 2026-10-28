@@ -128,7 +128,7 @@ def build_ass(spec, words, total):
     if cta:
         ev.append(f"Dialogue: 2,{ts(cta_start)},{ts(cta_end)},Hook,,0,0,0,,{{\\fad(250,{150 if od else 0})}}{esc(cta)}")
     if od:
-        ev.append(f"Dialogue: 2,{ts(cta_end)},{ts(total)},Hook,,0,0,0,,{{\\fad(200,0)}}{esc(spec['outro'])}")
+        ev.append(f"Dialogue: 2,{ts(cta_end)},{ts(total)},Hook,,0,0,0,,{{\\an5\\pos({W // 2},{H // 2})\\fad(300,0)}}{esc(spec['outro'])}")
     for i, ln in enumerate(lines):
         if isinstance(ln, float):
             continue
@@ -187,14 +187,10 @@ PAN_Y = 380  # where the enlarged pan view sits on the 1080x1920 canvas
 
 def render(spec, words, src, out):
     if spec.get("outro"):
-        # End card: continue the last shot silently and show the outro line over it.
-        last = spec["clips"][-1]
+        # End card: the video fades to black, then the outro line shows on plain black.
         od = spec.get("outro_dur", 2.5)
-        vs = last.get("v", last["s"]) + (last["e"] - last["s"])
-        spec = {**spec, "_outro_dur": od, "clips": spec["clips"] + [
-            {**{k: v for k, v in last.items() if k not in ("label", "zoom_from")},
-             "s": last["e"], "e": last["e"] + od, "v": vs, "mute": True,
-             "zoom_from": last.get("zoom", 1.0)}]}
+        spec = {**spec, "_outro_dur": od,
+                "clips": spec["clips"] + [{"s": 0.0, "e": od, "black": True, "mute": True}]}
     clips = spec["clips"]
     total = sum(c["e"] - c["s"] for c in clips)
     work = os.path.splitext(out)[0] + "_work"
@@ -227,14 +223,21 @@ def render(spec, words, src, out):
                   f"scale=w='trunc({W}*{zexpr}/2)*2':h='trunc({H}*{zexpr}/2)*2':eval=frame:flags=bicubic,"
                   f"crop={W}:{H}:x='(iw-{W})*{fx}':y='(ih-{H})*{fy}',"
                   f"eq=contrast=1.04:saturation=1.06,fps=30,format=yuv420p")
+        if i + 1 < len(clips) and clips[i + 1].get("black"):
+            vf += f",fade=t=out:st={d - 0.35:.3f}:d=0.35"
         mute = ",volume=0" if c.get("mute") else ""
         af = (f"highpass=f=80,afftdn=nf=-25{mute},"
               f"afade=t=in:st=0:d=0.06,afade=t=out:st={d - 0.08:.3f}:d=0.08,"
               f"aresample=48000,aformat=channel_layouts=stereo")
         p = os.path.join(work, f"p{i:02d}.mp4")
         vs = c.get("v", c["s"])
-        subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", f"{vs:.3f}", "-t", f"{d:.3f}", "-i", src,
-                        "-ss", f"{c['s']:.3f}", "-t", f"{d:.3f}", "-i", src,
+        if c.get("black"):
+            inputs = ["-f", "lavfi", "-t", f"{d:.3f}", "-i", f"color=black:s={W}x{H}:r=30",
+                      "-f", "lavfi", "-t", f"{d:.3f}", "-i", "anullsrc=r=48000:cl=stereo"]
+            vf, af = "format=yuv420p", "anull"
+        else:
+            inputs = ["-ss", f"{vs:.3f}", "-t", f"{d:.3f}", "-i", src, "-ss", f"{c['s']:.3f}", "-t", f"{d:.3f}", "-i", src]
+        subprocess.run(["ffmpeg", "-v", "error", "-y", *inputs,
                         "-map", "0:v", "-map", "1:a", "-vf", vf, "-af", af, "-c:v", "libx264", "-preset", "medium", "-crf", "16",
                         "-c:a", "pcm_s16le", p.replace(".mp4", ".mov")], check=True)
         parts.append(p.replace(".mp4", ".mov"))
