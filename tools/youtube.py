@@ -321,7 +321,7 @@ def main(edl_path, tr, fr, src, out):
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst,
                     "-vf", f"ass={os.path.join(work, 'subs.ass')},fade=t=out:st={total - 0.5:.3f}:d=0.5",
                     "-af", f"loudnorm=I=-14:TP=-1.5:LRA=11,afade=t=out:st={total - 0.5:.3f}:d=0.5",
-                    "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-profile:v", "high",
+                    "-c:v", "libx264", "-preset", "medium", "-crf", "22", "-profile:v", "high",
                     "-pix_fmt", "yuv420p", "-movflags", "+faststart",
                     "-c:a", "aac", "-b:a", "192k", "-ar", "48000", out], check=True)
     print(f"{out}: {total / 60:.2f} min")
