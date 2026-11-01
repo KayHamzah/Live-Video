@@ -38,3 +38,13 @@ python3 tools/make_plan.py transcript.jsonl EDITING_PLAN.md
 ```
 
 Shot modes: the default is the presenter cam, full frame, with a gentle zoom. `"mode": "pan"` crops the top-down pan camera (picture-in-picture or letterboxed in the LIVE, auto-detected) and places it on a black canvas. `"v"` takes video from another timestamp (B-roll), and `"mute": true` makes a silent tail for the CTA.
+
+## YouTube long-form (16:9)
+
+`youtube/` holds the full YouTube edit of the LIVE (21:42, 1920 × 1080): the subtitles (`.srt`), thumbnail, the edit list (`edl.json`, 75 segments in 14 chapters) and `YOUTUBE_PACKAGE.md` (title, alternative titles, key points, description, thumbnail text, chapters). The MP4 itself (543 MB) is over GitHub's file-size limit, so it was delivered directly rather than committed.
+
+```bash
+python3 tools/youtube.py youtube/edl.json transcript.jsonl frames.json live.mp4 youtube/bihun_goreng_food_engine_cooven_youtube.mp4
+```
+
+`frames.json` is the per-second shot map of the LIVE (presenter cam vs. top-down pan cam). Pauses over 0.55 s are cut automatically from the word timings, pan-cam shots fill the 16:9 frame, and presenter shots sit in a panel with the chapter and key point beside them.

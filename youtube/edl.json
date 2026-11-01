@@ -1,0 +1,493 @@
+{
+ "title": {
+  "text": "BIHUN GORENG SINGAPORE\\NTANPA PENAT KACAU",
+  "sub": "Siap bawah 10 minit · Food Engine Cooven",
+  "dur": 6.5
+ },
+ "outro": "Follow Kay sekarang\\Nuntuk lebih banyak tips.",
+ "fix": {
+  "bajik": "biji",
+  "sudut": "sudu",
+  "tomiam": "tomyam",
+  "tomiyam": "tomyam",
+  "jepis": "pes",
+  "kayak": "K",
+  "simpel": "simple",
+  "electric": "elektrik",
+  "skon": "scone",
+  "singapau": "Singapore",
+  "bihul": "bihun",
+  "kovan": "Cooven",
+  "semat": "smart"
+ },
+ "fix_at": {
+  "362.04": "bawang",
+  "594.34": "lada",
+  "787.76": "bau",
+  "789.94": "bau",
+  "1783.94": "Cooven",
+  "1784.2": "",
+  "1785.24": "basuh",
+  "1410.82": "Food",
+  "1410.94": "Engine",
+  "1411.12": "Cooven",
+  "1411.14": "",
+  "2776.76": "Food Engine",
+  "2786.48": "Food Engine",
+  "2791.36": "Food Engine",
+  "1058.76": "Cooven",
+  "1643.34": "bihun",
+  "1969.34": "telur",
+  "904.68": "tawar",
+  "908.0": "stok",
+  "908.3": "ayam",
+  "203.94": "Engine",
+  "204.26": "Cooven",
+  "2803.6": "Food Engine",
+  "2803.86": "Cooven",
+  "2806.26": "bihun",
+  "2809.3": "dadar",
+  "2809.42": "",
+  "2814.84": "2",
+  "2815.0": "menu",
+  "2833.34": "Food Engine",
+  "2833.64": "Cooven",
+  "1302.38": "Food Engine",
+  "1302.64": "Cooven",
+  "1549.76": "Food",
+  "1550.0": "Engine",
+  "1550.12": "Cooven",
+  "1550.4": "",
+  "2729.58": "Cooven",
+  "225.78": "berderai",
+  "768.96": "slow",
+  "1752.04": "Cooven",
+  "1751.72": "Food Engine"
+ },
+ "segments": [
+  {
+   "s": 2805.2,
+   "e": 2808.6,
+   "v": 1244.0,
+   "mode": "pan"
+  },
+  {
+   "s": 1220.0,
+   "e": 1225.9
+  },
+  {
+   "s": 129.2,
+   "e": 150.3,
+   "ch": "Menu emergency"
+  },
+  {
+   "s": 244.5,
+   "e": 259.8,
+   "pt": "Simple, tak banyak bahan, tapi sedap"
+  },
+  {
+   "s": 270.0,
+   "e": 287.5,
+   "ch": "Bahan",
+   "pt": "Garam\\NLada hitam\\NCarrot\\NBihun"
+  },
+  {
+   "s": 359.0,
+   "e": 370.2,
+   "v": 698.6,
+   "mode": "pan",
+   "pt": "+ Setengah biji bawang Holland"
+  },
+  {
+   "s": 371.1,
+   "e": 386.1,
+   "v": 711.0,
+   "mode": "pan",
+   "cut": [
+    [
+     375.1,
+     381.0
+    ]
+   ],
+   "pt": "Lada hitam biji · 1 sudu teh"
+  },
+  {
+   "s": 586.1,
+   "e": 597.7,
+   "cut": [
+    [
+     590.0,
+     591.9
+    ]
+   ],
+   "pt": "Tiada biji lada hitam?\\NGuna serbuk, 1 sudu teh"
+  },
+  {
+   "s": 406.3,
+   "e": 413.7,
+   "v": 716.0,
+   "mode": "pan"
+  },
+  {
+   "s": 440.2,
+   "e": 454.4,
+   "ch": "Tak sempat rendam bihun?"
+  },
+  {
+   "s": 455.9,
+   "e": 477.7,
+   "v": 925.0,
+   "mode": "pan",
+   "pt": "Rendam terus dalam plastik bihun"
+  },
+  {
+   "s": 479.6,
+   "e": 501.3,
+   "v": 833.0,
+   "mode": "pan",
+   "ch": "Sukatan air",
+   "pt": "Air = berat bihun"
+  },
+  {
+   "s": 501.3,
+   "e": 516.3,
+   "pt": "350 g bihun → 350 ml air"
+  },
+  {
+   "s": 516.1,
+   "e": 530.8,
+   "ch": "Tumis bahan",
+   "pt": "Blend bawang + lada hitam\\Ndengan sedikit air"
+  },
+  {
+   "s": 576.2,
+   "e": 582.2
+  },
+  {
+   "s": 698.5,
+   "e": 712.7
+  },
+  {
+   "s": 716.3,
+   "e": 721.1
+  },
+  {
+   "s": 742.4,
+   "e": 753.2,
+   "pt": "Bihun kosong, lauk telur dadar"
+  },
+  {
+   "s": 766.1,
+   "e": 778.0,
+   "pt": "Temperature → tekan +"
+  },
+  {
+   "s": 778.7,
+   "e": 798.9,
+   "cut": [
+    [
+     784.2,
+     787.1
+    ]
+   ]
+  },
+  {
+   "s": 800.6,
+   "e": 812.6,
+   "pt": "Nak protein? Masukkan masa menumis"
+  },
+  {
+   "s": 833.4,
+   "e": 849.8,
+   "ch": "Air, carrot & perasa",
+   "pt": "Air = berat bihun · carrot"
+  },
+  {
+   "s": 849.6,
+   "e": 876.4,
+   "pt": "Garam + stok pati ayam\\NRasa dulu, mesti cukup masin"
+  },
+  {
+   "s": 884.2,
+   "e": 887.3
+  },
+  {
+   "s": 892.7,
+   "e": 908.9,
+   "pt": "Terlebih masin → gula\\NTawar → garam / stok"
+  },
+  {
+   "s": 909.0,
+   "e": 918.3,
+   "ch": "Masukkan bihun & steam"
+  },
+  {
+   "s": 924.9,
+   "e": 940.5
+  },
+  {
+   "s": 948.6,
+   "e": 967.4,
+   "pt": "Ratakan bihun"
+  },
+  {
+   "s": 978.6,
+   "e": 1001.9,
+   "pt": "Tutup kaca · Steam P1 · 3 minit"
+  },
+  {
+   "s": 1008.6,
+   "e": 1032.4
+  },
+  {
+   "s": 1209.7,
+   "e": 1219.6,
+   "ch": "Hasil bihun goreng"
+  },
+  {
+   "s": 1220.0,
+   "e": 1226.0,
+   "pt": "Lembut · tak putus · tak keras"
+  },
+  {
+   "s": 1227.8,
+   "e": 1256.1,
+   "pt": "Sedap bergantung pada bahan tumisan"
+  },
+  {
+   "s": 1654.5,
+   "e": 1667.6,
+   "cut": [
+    [
+     1659.3,
+     1663.0
+    ]
+   ],
+   "pt": "Tak perlu penat kacau"
+  },
+  {
+   "s": 1708.6,
+   "e": 1741.7,
+   "cut": [
+    [
+     1723.5,
+     1725.0
+    ]
+   ],
+   "pt": "Singapore · tomyam · klasik\\Nibu sambal · tanpa sos"
+  },
+  {
+   "s": 1754.7,
+   "e": 1761.7,
+   "pt": "Tak ada kerak"
+  },
+  {
+   "s": 1778.0,
+   "e": 1796.0,
+   "pt": "Cukup lap, tak perlu basuh"
+  },
+  {
+   "s": 1797.8,
+   "e": 1827.3,
+   "ch": "Telur dadar tanpa flip",
+   "pt": "Pizza · Cooker · Cooker + Broil"
+  },
+  {
+   "s": 1831.4,
+   "e": 1860.1
+  },
+  {
+   "s": 1888.0,
+   "e": 1903.6,
+   "pt": "Cooker · 190°C"
+  },
+  {
+   "s": 1904.3,
+   "e": 1941.1,
+   "pt": "Tuang telur, bulatkan"
+  },
+  {
+   "s": 1942.7,
+   "e": 1975.1,
+   "pt": "Tutup air fryer\\NBroil · 250°C · 2–3 minit"
+  },
+  {
+   "s": 2183.5,
+   "e": 2205.3,
+   "pt": "Tanpa flip"
+  },
+  {
+   "s": 2232.7,
+   "e": 2302.3,
+   "cut": [
+    [
+     2259.7,
+     2271.0
+    ]
+   ]
+  },
+  {
+   "s": 2316.0,
+   "e": 2340.2
+  },
+  {
+   "s": 152.9,
+   "e": 184.4,
+   "ch": "Bonus: nasi goreng daripada beras"
+  },
+  {
+   "s": 190.6,
+   "e": 231.5,
+   "pt": "Beras basmati · Smart Cook"
+  },
+  {
+   "s": 2053.1,
+   "e": 2080.9,
+   "pt": "Bukan nasi sejuk, tapi beras"
+  },
+  {
+   "s": 2816.7,
+   "e": 2825.2,
+   "pt": "± 30 minit"
+  },
+  {
+   "s": 1057.4,
+   "e": 1072.6,
+   "ch": "15 fungsi Food Engine Cooven",
+   "pt": "Cooker\\N40–240°C · 1 minit–10 jam"
+  },
+  {
+   "s": 1072.6,
+   "e": 1100.5,
+   "pt": "Smart Cook\\Nrebus + bakar, satu fungsi"
+  },
+  {
+   "s": 1100.5,
+   "e": 1116.4,
+   "pt": "Sous Vide\\Nonsen egg · steak · fermentation"
+  },
+  {
+   "s": 1116.4,
+   "e": 1134.9,
+   "pt": "Rice\\Nsehingga 2 kg"
+  },
+  {
+   "s": 1134.9,
+   "e": 1151.0,
+   "pt": "Steam\\Npulut 1 kg · kek 2 layer"
+  },
+  {
+   "s": 1151.0,
+   "e": 1161.0,
+   "pt": "Air Crisp\\Ntanpa minyak, tidak kering"
+  },
+  {
+   "s": 1161.0,
+   "e": 1194.8,
+   "pt": "Dehydrate\\Ndaun kari · clotted cream · starter"
+  },
+  {
+   "s": 1272.0,
+   "e": 1279.7,
+   "pt": "Pizza · 6 minit"
+  },
+  {
+   "s": 1292.7,
+   "e": 1306.4,
+   "pt": "Oven biasa 20–30 minit\\NCooven 6 minit"
+  },
+  {
+   "s": 1307.5,
+   "e": 1322.2,
+   "cut": [
+    [
+     1311.1,
+     1314.2
+    ]
+   ],
+   "pt": "Deep Fry\\Nminyak tak hitam"
+  },
+  {
+   "s": 1322.4,
+   "e": 1347.1,
+   "pt": "Slow Cook\\Nmasak sambil tidur"
+  },
+  {
+   "s": 1347.8,
+   "e": 1365.2,
+   "pt": "Broil\\Npanaskan bahagian atas"
+  },
+  {
+   "s": 1365.2,
+   "e": 1399.9,
+   "pt": "Roast\\N360° · ayam golek"
+  },
+  {
+   "s": 1399.8,
+   "e": 1427.5,
+   "pt": "Temperature probe"
+  },
+  {
+   "s": 1512.7,
+   "e": 1550.7,
+   "pt": "Barbecue\\Nhasil macam atas arang"
+  },
+  {
+   "s": 1550.7,
+   "e": 1570.0,
+   "pt": "Tanpa api · tanpa asap"
+  },
+  {
+   "s": 1570.1,
+   "e": 1586.6,
+   "pt": "Grill"
+  },
+  {
+   "s": 1586.6,
+   "e": 1623.5,
+   "pt": "Oven\\Nscone 10 min · pastry 12–15 min\\Nbutter cake 35–40 min"
+  },
+  {
+   "s": 2686.9,
+   "e": 2710.1,
+   "ch": "Dapur tak bersepah",
+   "pt": "Dulu: dua sudip, dua tangan\\NKini: penyepit, sekali kacau"
+  },
+  {
+   "s": 2711.3,
+   "e": 2747.5,
+   "pt": "Kerja mengemas lebih ringan"
+  },
+  {
+   "s": 2636.6,
+   "e": 2644.7,
+   "pt": "Inner pot: lap-lap je"
+  },
+  {
+   "s": 2772.3,
+   "e": 2789.7,
+   "ch": "Kos elektrik & masa",
+   "pt": "Purata ± 1.50 sejam"
+  },
+  {
+   "s": 2801.4,
+   "e": 2816.6,
+   "pt": "Bihun < 10 minit\\NTelur dadar ± 4 minit"
+  },
+  {
+   "s": 2825.1,
+   "e": 2840.3,
+   "pt": "3 menu, tak sampai 1 jam"
+  },
+  {
+   "s": 2882.5,
+   "e": 2900.5,
+   "ch": "Penutup",
+   "pt": "Request menu di komen"
+  },
+  {
+   "s": 2909.8,
+   "e": 2911.6
+  }
+ ]
+}
