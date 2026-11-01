@@ -41,7 +41,7 @@ Shot modes: the default is the presenter cam, full frame, with a gentle zoom. `"
 
 ## YouTube long-form (16:9)
 
-`youtube/` holds the full YouTube edit of the LIVE (21:42, 1920 × 1080): the subtitles (`.srt`), thumbnail, the edit list (`edl.json`, 75 segments in 14 chapters) and `YOUTUBE_PACKAGE.md` (title, alternative titles, key points, description, thumbnail text, chapters). The MP4 itself (543 MB) is over GitHub's file-size limit, so it was delivered directly rather than committed.
+`youtube/` holds the full YouTube edit of the LIVE (21:42, 1920 × 1080): the subtitles (`.srt`), thumbnail, the edit list (`edl.json`, 75 segments in 14 chapters) and `YOUTUBE_PACKAGE.md` (title, alternative titles, key points, description, thumbnail text, chapters). The MP4 itself (418 MB) is over GitHub's file-size limit, so it was delivered directly rather than committed.
 
 ```bash
 python3 tools/youtube.py youtube/edl.json transcript.jsonl frames.json live.mp4 youtube/bihun_goreng_food_engine_cooven_youtube.mp4

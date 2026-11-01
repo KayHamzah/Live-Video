@@ -1,6 +1,6 @@
 # Pakej YouTube: Bihun Goreng Singapore Tanpa Penat Kacau
 
-**Video:** `bihun_goreng_food_engine_cooven_youtube.mp4` (dihantar terus, 543 MB, terlalu besar untuk GitHub) (1920 × 1080, 30 fps, MP4, 21:42)
+**Video:** `bihun_goreng_food_engine_cooven_youtube.mp4` (dihantar terus, 418 MB, terlalu besar untuk GitHub) (1920 × 1080, 30 fps, MP4, 21:42)
 **Subtitle:** `youtube/bihun_goreng_food_engine_cooven_youtube.srt`. **Thumbnail:** `youtube/thumbnail.jpg` (1280 × 720). Muat naik di YouTube Studio → Subtitles → Bahasa Melayu.
 
 ---
