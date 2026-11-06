@@ -5,26 +5,29 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 SRC = sys.argv[1]           # folder with the raw clips
 WORK = sys.argv[2]          # output/work folder
 os.makedirs(WORK, exist_ok=True)
-W, H, FPS, XF = 1080, 1920, 30, 0.35
+W, H, FPS, XF = 1080, 1920, 30, 0.3
 FONT = "/usr/share/fonts/opentype/inter/Inter-{}.otf"
 
 # (clip, source start, duration, caption)
 # caption = (label, [lines]); each line is a list of (text, bold)
 SEGS = [
-    ("VID_20261105_122607", 0.0, 3.6, "TITLE"),
-    ("VID_20261105_121407", 0.0, 5.5, ("BAHAN UTAMA",
-        [[("Ayam", 1), (" + ", 0), ("Kentang", 1)], [("+ ", 0), ("Lobak merah", 1)]])),
-    ("VID_20261105_121407", 6.0, 3.5, ("TETAPAN COOVEN",
-        [[("Suhu: ", 0), ("140°C", 1)], [("Masa: ", 0), ("20 minit", 1)]])),
-    ("VID_20261105_121434", 3.5, 5.5, ("TUTUP PENUTUP",
-        [[("Biarkan ", 0), ("mereneh", 1)]])),
-    ("VID_20261105_122008", 6.2, 3.0, ("BUKA & KACAU",
-        [[("Kuah ", 0), ("mendidih", 1), (" & pekat", 0)]])),
-    ("VID_20261105_122008", 21.5, 3.5, None),
-    ("VID_20261105_122105", 0.8, 4.5, ("MASUKKAN SAYURAN",
-        [[("Capsicum kuning", 1)], [("+ ", 0), ("Cili", 1), (" + ", 0), ("Daun bawang", 1)]])),
-    ("VID_20261105_122105", 12.0, 5.0, ("GAUL RATA", [[("Kacau hingga ", 0), ("sebati", 1)]])),
-    ("VID_20261105_122620", 1.0, 6.5, ("SIAP!", [[("Stew ayam ", 0), ("pekat & berkuah", 1)]])),
+    ("VID_20261105_122607", 0.0, 3.2, "TITLE"),
+    ("VID_20261105_114402", 0.3, 3.0, ("PANASKAN COOVEN", [[("Masa: ", 0), ("15 minit", 1)]])),
+    ("VID_20261105_114423", 0.0, 3.0, ("LANGKAH 1", [[("Masukkan ", 0), ("minyak", 1)]])),
+    ("VID_20261105_114758", 6.0, 4.0, ("LANGKAH 2", [[("Masukkan ", 0), ("ayam", 1)]])),
+    ("VID_20261105_115433", 1.5, 3.5, ("LANGKAH 3", [[("Goreng ayam", 1)], [("hingga berubah warna", 0)]])),
+    ("VID_20261105_115944", 0.8, 3.5, ("LANGKAH 4", [[("Masukkan ", 0), ("bawang", 1), (" + ", 0), ("halia", 1)]])),
+    ("VID_20261105_120052", 0.8, 3.5, ("LANGKAH 5", [[("Masukkan ", 0), ("kentang", 1)], [("+ ", 0), ("lobak merah", 1)]])),
+    ("VID_20261105_120052", 13.2, 3.0, ("LANGKAH 6", [[("Tutup ", 0), ("penutup", 1)]])),
+    ("VID_20261105_120122", 1.4, 2.8, ("TETAPAN COOVEN", [[("Suhu: ", 0), ("140°C", 1)], [("Masa: ", 0), ("25 minit", 1)]])),
+    ("VID_20261105_120914", 26.0, 3.5, ("LANGKAH 7", [[("Masukkan ", 0), ("air", 1)]])),
+    ("VID_20261105_121112", 1.5, 3.2, ("LANGKAH 8", [[("Masukkan ", 0), ("sos & perasa", 1)]])),
+    ("VID_20261105_121352", 0.0, 3.2, ("LANGKAH 9", [[("Pekatkan kuah", 1)], [("dengan bancuhan tepung", 0)]])),
+    ("VID_20261105_121407", 6.0, 3.2, ("SAMBUNG MASAK", [[("Suhu: ", 0), ("140°C", 1)], [("Masa: ", 0), ("20 minit", 1)]])),
+    ("VID_20261105_122008", 6.2, 3.0, None),
+    ("VID_20261105_122105", 0.8, 4.0, ("LANGKAH 10", [[("Capsicum kuning", 1)], [("+ ", 0), ("Cili", 1), (" + ", 0), ("Daun bawang", 1)]])),
+    ("VID_20261105_122105", 12.0, 3.0, ("GAUL RATA", [[("Kacau hingga ", 0), ("sebati", 1)]])),
+    ("VID_20261105_122620", 1.0, 4.5, ("SIAP!", [[("Stew ayam ", 0), ("pekat & berkuah", 1)]])),
     ("VID_20261105_122607", 3.6, 3.6, "OUTRO"),
 ]
 
@@ -82,7 +85,7 @@ def centered(lines, path, y_center):
             x += f.getlength(c) + tr
         y += h
     sh = txt.copy()
-    sh.putdata([(0, 0, 0, int(p[3] * 0.75)) for p in txt.getdata()])
+    sh = Image.merge("RGBA", [Image.new("L", (W, H), 0)] * 3 + [txt.getchannel("A").point(lambda v: int(v * 0.75))])
     img = Image.alpha_composite(img, sh.filter(ImageFilter.GaussianBlur(14)))
     img = Image.alpha_composite(img, txt)
     img.save(path)
