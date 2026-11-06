@@ -1,0 +1,43 @@
+{
+ "id": "07-auto-off",
+ "title": "Tak Hangit, Auto Off",
+ "hook": "Terlupa tutup api?",
+ "segs": [
+  [
+   1303.6,
+   1305.2,
+   "Alamak, tadi dah tutup api ke belum?"
+  ],
+  [
+   1244.6,
+   1248.1,
+   "Bila guna Cooven,|set suhu 100 je."
+  ],
+  [
+   1248.8,
+   1257.4,
+   "Biar 10, 20, 15, 30 minit.|Walaupun belum masuk bahan,|dia tak akan berasap,|tak akan tiba-tiba hangit."
+  ],
+  [
+   1259.8,
+   1268.1,
+   "Sebelum ni, tumis bawang putih|atas dapur gas, tak sampai seminit|terus brown.|Tak boleh tinggal, kena sentiasa kacau."
+  ],
+  [
+   1270.6,
+   1280.6,
+   "Tapi tumis dalam Cooven,|letak je, set masa dan suhu,|lepas tu boleh tinggal,|buat kerja lain."
+  ],
+  [
+   1285.4,
+   1288.3,
+   "Sebab suhu dia|dah maintain."
+  ],
+  [
+   1309.6,
+   1318.5,
+   "Bila guna Cooven,|kalau terlupa tutup api pun,|tak ada masalah.|Bila habis timer, dia auto switch off."
+  ]
+ ],
+ "cta": "Follow untuk tips seterusnya"
+}

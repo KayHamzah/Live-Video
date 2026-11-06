@@ -1,0 +1,53 @@
+{
+ "id": "01-bukan-oven",
+ "title": "Apa Sebenarnya Cooven?",
+ "hook": "Ini bukan oven.\\NBukan air fryer.",
+ "segs": [
+  [
+   100.0,
+   100.4,
+   "Ini apa benda?"
+  ],
+  [
+   108.0,
+   112.3,
+   "Kadang-kadang orang ingat|ini adalah oven,|tapi sebenarnya ini bukan oven."
+  ],
+  [
+   115.8,
+   118.8,
+   "Ada yang kata ini air fryer,|tapi sebenarnya bukan air fryer."
+  ],
+  [
+   119.5,
+   122.9,
+   "Ada yang kata ini multi cooker,|tapi sebenarnya ia bukan multi cooker."
+  ],
+  [
+   123.8,
+   124.5,
+   "So, dia apa?"
+  ],
+  [
+   269.6,
+   271.5,
+   "Dia bukan sekadar periuk biasa."
+  ],
+  [
+   137.0,
+   143.1,
+   "Sebenarnya dia boleh masak macam-macam.|Bukan sekadar satu dua menu je,|tapi macam-macam."
+  ],
+  [
+   3452.1,
+   3455.0,
+   "Dalam inner pot ni,|dia muat 8 liter."
+  ],
+  [
+   3522.7,
+   3525.9,
+   "Walaupun nampak kecil,|sebenarnya kapasiti dia besar."
+  ]
+ ],
+ "cta": "Follow untuk tips seterusnya"
+}
