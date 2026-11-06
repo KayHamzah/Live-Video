@@ -188,6 +188,6 @@ fc.append(f"[amb][mus]amix=inputs=2:normalize=0:duration=first,"
 final = f"{WORK}/Stew_Ayam_Food_Engine_Cooven.mp4"
 sh(["ffmpeg", "-v", "error", "-y", *inputs, "-filter_complex", ";".join(fc),
     "-map", "[vout]", "-map", "[aout]", "-t", f"{total:.3f}",
-    "-c:v", "libx264", "-preset", "slow", "-crf", "18", "-profile:v", "high", "-pix_fmt", "yuv420p",
+    "-c:v", "libx264", "-preset", "slow", "-crf", "21", "-maxrate", "12M", "-bufsize", "24M", "-profile:v", "high", "-pix_fmt", "yuv420p",
     "-r", str(FPS), "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", final])
 print("DONE", final)
