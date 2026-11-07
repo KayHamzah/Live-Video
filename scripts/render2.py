@@ -34,6 +34,12 @@ for k,(t0,t1,text) in enumerate(spec["segs"]):
         cues.append([out_t+ws[j0][0]-a, out_t+min(ws[j1][1],ws[j1][0]+1.0)-a, ln.strip()])
     out_t+=dur
 total=out_t
+END=2.5   # mandatory end card for every Kay short
+endp=os.path.join(tmp,"end.mov")
+subprocess.run(["ffmpeg","-y","-v","error","-f","lavfi","-i",f"color=c=black:s={Wd}x{Ht}:r={FPS}:d={END}",
+  "-f","lavfi","-i",f"anullsrc=r=48000:cl=stereo","-t",str(END),"-c:v","libx264","-preset","medium","-crf","16","-pix_fmt","yuv420p",
+  "-c:a","pcm_s16le","-ar","48000",endp],check=True)
+parts.append(endp)
 for i in range(len(cues)):   # close small gaps so cues don't flicker
     nxt=cues[i+1][0] if i+1<len(cues) else total
     cues[i][1]=min(nxt-0.02, cues[i][1]+0.35) if nxt-cues[i][1]<0.8 else cues[i][1]+0.25
@@ -50,7 +56,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Hook,Inter,78,&H00000000,&H00000000,&H00FFFFFF,&H00FFFFFF,1,0,0,0,100,100,-0.5,0,3,24,0,2,80,80,420,1
 Style: Title,Inter,42,&H00000000,&H00000000,&H00FFFFFF,&H00FFFFFF,1,0,0,0,100,100,0,0,3,13,0,8,90,90,110,1
 Style: Sub,Inter Medium,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3,1.2,2,100,100,330,1
-Style: Cta,Inter,42,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1.5,0,3,15,0,2,90,90,560,1
+Style: EndLabel,Inter Medium,34,&H009A9A9A,&H009A9A9A,&H00000000,&H00000000,0,0,0,0,100,100,9,0,1,0,0,8,90,90,0,1
+Style: EndText,Inter,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,8,110,110,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -60,8 +67,11 @@ ass+=f"Dialogue: 2,{ts(HOOK_END-0.2)},{ts(total)},Title,,0,0,0,,{{\\fad(300,0)}}
 for s,e,t in cues:
     if s<HOOK_END-0.15: continue   # hook card carries the opening line
     ass+=f"Dialogue: 1,{ts(s)},{ts(e)},Sub,,0,0,0,,{t}\n"
-if spec.get("cta"):
-    ass+=f"Dialogue: 3,{ts(total-3.2)},{ts(total)},Cta,,0,0,0,,{{\\fad(250,0)}}{spec['cta']}\n"
+E0,E1=ts(total),ts(total+END)
+ass+=f"Dialogue: 3,{E0},{E1},EndLabel,,0,0,0,,{{\\pos(540,790)\\fad(250,0)}}TIP DAPUR\n"
+ass+=f"Dialogue: 3,{E0},{E1},EndLabel,,0,0,0,,{{\\an7\\pos(512,848)\\1c&HFFFFFF&\\fad(250,0)\\p1}}m 0 0 l 56 0 56 4 0 4{{\\p0}}\n"
+ass+=f"Dialogue: 3,{E0},{E1},EndText,,0,0,0,,{{\\pos(540,880)\\fad(250,0)}}Follow Kay sekarang untuk lebih banyak tips\n"
+total+=END
 assp=os.path.join(tmp,"subs.ass"); open(assp,"w").write(ass)
 lst=os.path.join(tmp,"list.txt"); open(lst,"w").write("".join(f"file '{p}'\n" for p in parts))
 out=os.path.join(outdir,spec["id"]+".mp4")

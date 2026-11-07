@@ -14,7 +14,7 @@ CAP={
 "09":("Kek steam crack, telur pecah? Puncanya suhu. Di sini boleh pilih suhu tinggi, sederhana atau rendah ikut jenis kuih.","#kuihmuih #steam #cooven #tipsdapur"),
 "10":("Masukkan bahan sebelum tidur, set slow cook. Esok pagi lauk dah siap. Sesuai untuk sahur bulan puasa.","#slowcook #sahur #bulanpuasa #cooven"),
 }
-L=["PELAN 10 SHORT VIDEO — LIVE COOVEN","Format: 9:16, 1080x1920, 30–60 saat","Hook & tajuk: bold, hitam putih sahaja","CTA akhir: Follow untuk tips seterusnya","","Timestamp KLIP = masa dalam rakaman LIVE asal","Timestamp SUBTITLE = masa dalam video pendek",""]
+L=["PELAN 10 SHORT VIDEO — LIVE COOVEN","Format: 9:16, 1080x1920, 30–60 saat","Hook & tajuk: bold, hitam putih sahaja","End card wajib (2.5s): TIP DAPUR — Follow Kay sekarang untuk lebih banyak tips","","Timestamp KLIP = masa dalam rakaman LIVE asal","Timestamp SUBTITLE = masa dalam video pendek",""]
 for f in sorted(glob.glob(S+"/specs/*.json")):
     sp=json.load(open(f)); vid=sp["id"]; n=vid[:2]; r=json.load(open(f"{S}/out/{vid}.json"))
     hook=sp["hook"].replace("\\N"," ")

@@ -69,7 +69,7 @@ summary{{cursor:pointer;color:var(--muted);font-weight:500}}
 <header>
 <span class=eyebrow>LIVE Cooven · 61 min → 10 short video</span>
 <h1>Short Video Kay</h1>
-<p class=lead>Tonton setiap video, kemudian tekan <b>Salin</b> untuk copy caption atau skrip subtitle. Format 9:16, 34–59 saat.</p>
+<p class=lead>Tonton setiap video, kemudian tekan <b>Salin</b> untuk copy caption atau skrip subtitle. Format 9:16, 36–58 saat. Setiap video berakhir dengan end card <b>Follow Kay sekarang untuk lebih banyak tips</b>.</p>
 <nav>{"".join(f'<a href="#v{i:02d}">{i:02d}</a>' for i in range(1,11))}</nav>
 </header>
 {"".join(cards)}

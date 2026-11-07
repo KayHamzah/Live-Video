@@ -21,7 +21,7 @@ L=["# Pelan Editing — 10 Short Video daripada LIVE Cooven","",
 "- **Hook (0–3s):** teks bold hitam atas kotak putih, di ruang kabinet bawah — tidak tutup muka/produk.",
 "- **Tajuk:** label kecil bold hitam atas putih di bahagian paling atas, kekal sepanjang video.",
 "- **Subtitle:** putih dengan outline hitam nipis, satu baris pendek, di atas kabinet gelap (kontras tinggi).",
-"- **CTA (3s terakhir):** \"Follow untuk tips seterusnya\" — teks putih atas kotak hitam.",
+"- **End card wajib (2.5s terakhir):** skrin hitam, label kecil \"TIP DAPUR\", garis putih pendek, dan teks bold putih \"Follow Kay sekarang untuk lebih banyak tips\".",
 "- Potongan: jump-cut pada sempadan perkataan; klip berselang-seli antara framing 100% dan zoom halus 107% untuk sorok jump-cut. Tiada transition/sticker/emoji.",
 "- Audio: suara asal sahaja, high-pass 80Hz, denoise ringan, compressor lembut. Fade 30–50ms di setiap potongan untuk elak bunyi 'klik'. Tiada muzik (boleh tambah instrumental lembut ~−28dB di app jika mahu).","",
 "## Ringkasan","","| # | Fail | Sudut kandungan | Hook | Durasi |","|---|---|---|---|---|"]
@@ -31,7 +31,7 @@ for vid in sorted(specs):
     sp=specs[vid]; r=json.load(open(f"{S}/out/{vid}.json")); n=vid[:2]
     hook=sp["hook"].replace("\\N"," ")
     L.append(f"| {n} | `videos/{vid}.mp4` | {ANGLE[n]} | **{hook}** | {r['duration']:.0f}s |")
-    body+=["",f"## {n}. {sp['title']}","",f"- **Sudut:** {ANGLE[n]}",f"- **Hook (0:00–0:03, bold):** **{hook}**",f"- **Tajuk (label atas, bold):** **{sp['title']}**",f"- **CTA (3s terakhir):** {sp['cta']}",f"- **Durasi:** {r['duration']:.1f}s","",
+    body+=["",f"## {n}. {sp['title']}","",f"- **Sudut:** {ANGLE[n]}",f"- **Hook (0:00–0:03, bold):** **{hook}**",f"- **Tajuk (label atas, bold):** **{sp['title']}**","- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)",f"- **Durasi:** {r['duration']:.1f}s","",
       "**Susunan klip (potong dari rakaman asal):**","","| Klip | Sumber mula | Sumber tamat | Isi |","|---|---|---|---|"]
     for i,s in enumerate(sp["segs"]):
         body.append(f"| {i+1} | {mmss(s[0])} | {mmss(s[1])} | {s[2].replace('|',' ')} |")
@@ -48,6 +48,6 @@ L+=["","## Idea tambahan (belum dibuat)","",
 "","## Nota","",
 "- Subtitle disemak manual daripada transkripsi automatik (Whisper). Nama penuh jenama yang disebut dalam live ditulis sebagai **Cooven** (ejaan pada logo produk) — sila betulkan jika ejaan rasmi berbeza.",
 "- Satu frasa kurang jelas dalam audio (\"kenduri … di Johor\", video 08) ditulis tanpa perkataan yang tidak pasti.",
-"- Video 01 ~30s kerana segmen perkenalan memang pendek; boleh ditambah klip kapasiti 8L di atas jika mahu lebih panjang.",
+"- Video 03: klip \"kuah carbonara jadi topping pizza\" (09:41–09:52) dibuang supaya durasi kekal bawah 60s selepas tambah end card.",
 "- Skrip `scripts/` boleh dijalankan semula untuk render ulang selepas edit `specs/*.json`."]
 open(out,"w").write("\n".join(L)+"\n"); print("ok")

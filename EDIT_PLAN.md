@@ -9,7 +9,7 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 - **Hook (0–3s):** teks bold hitam atas kotak putih, di ruang kabinet bawah — tidak tutup muka/produk.
 - **Tajuk:** label kecil bold hitam atas putih di bahagian paling atas, kekal sepanjang video.
 - **Subtitle:** putih dengan outline hitam nipis, satu baris pendek, di atas kabinet gelap (kontras tinggi).
-- **CTA (3s terakhir):** "Follow untuk tips seterusnya" — teks putih atas kotak hitam.
+- **End card wajib (2.5s terakhir):** skrin hitam, label kecil "TIP DAPUR", garis putih pendek, dan teks bold putih "Follow Kay sekarang untuk lebih banyak tips".
 - Potongan: jump-cut pada sempadan perkataan; klip berselang-seli antara framing 100% dan zoom halus 107% untuk sorok jump-cut. Tiada transition/sticker/emoji.
 - Audio: suara asal sahaja, high-pass 80Hz, denoise ringan, compressor lembut. Fade 30–50ms di setiap potongan untuk elak bunyi 'klik'. Tiada muzik (boleh tambah instrumental lembut ~−28dB di app jika mahu).
 
@@ -17,24 +17,24 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 
 | # | Fail | Sudut kandungan | Hook | Durasi |
 |---|---|---|---|---|
-| 01 | `videos/01-bukan-oven.mp4` | Perkenalan produk — tepis salah faham (bukan oven/air fryer/multi cooker), kapasiti 8L. | **Ini bukan oven. Bukan air fryer.** | 34s |
-| 02 | `videos/02-one-pot-pasta.mp4` | Demo one pot pasta — makaroni mentah terus masak bersama kuah + sukatan air. | **Pasta tak perlu rebus dulu.** | 55s |
-| 03 | `videos/03-meal-prep.mp4` | Tips meal prep hujung minggu untuk ibu bekerja. | **Sibuk bekerja? Buat ini hujung minggu.** | 59s |
-| 04 | `videos/04-ayam-percik.mp4` | Smart Cook — ayam percik tanpa proses leceh (rebus + bakar dalam satu fungsi). | **Ayam percik, tanpa leceh.** | 46s |
-| 05 | `videos/05-sushi-bake.mp4` | Sushi bake satu periuk — banding cara lama (2 alat) vs Smart Cook. | **Sushi bake, satu periuk je.** | 35s |
-| 06 | `videos/06-lauk-beku.mp4` | Panaskan lauk beku tanpa air dan tanpa steam. | **Lauk beku? Tak perlu tambah air.** | 47s |
-| 07 | `videos/07-auto-off.mp4` | Fungsi Cooker vs dapur gas — suhu stabil, tak hangit, auto switch off. | **Terlupa tutup api?** | 47s |
-| 08 | `videos/08-event-besar.mp4` | Bukti sosial — 5,000 keropok lekor + 100 pizza dengan 3 unit. | **5,000 keropok lekor. Hanya 3 unit.** | 46s |
-| 09 | `videos/09-steam-ikut-suhu.mp4` | Fungsi steam dengan kawalan suhu (telur, kek, apam). | **Kek steam selalu crack?** | 47s |
-| 10 | `videos/10-slow-cook-sahur.mp4` | Slow cook semalaman — sesuai untuk sahur bulan puasa. | **Masak sambil tidur.** | 42s |
+| 01 | `videos/01-bukan-oven.mp4` | Perkenalan produk — tepis salah faham (bukan oven/air fryer/multi cooker), kapasiti 8L. | **Ini bukan oven. Bukan air fryer.** | 36s |
+| 02 | `videos/02-one-pot-pasta.mp4` | Demo one pot pasta — makaroni mentah terus masak bersama kuah + sukatan air. | **Pasta tak perlu rebus dulu.** | 58s |
+| 03 | `videos/03-meal-prep.mp4` | Tips meal prep hujung minggu untuk ibu bekerja. | **Sibuk bekerja? Buat ini hujung minggu.** | 51s |
+| 04 | `videos/04-ayam-percik.mp4` | Smart Cook — ayam percik tanpa proses leceh (rebus + bakar dalam satu fungsi). | **Ayam percik, tanpa leceh.** | 49s |
+| 05 | `videos/05-sushi-bake.mp4` | Sushi bake satu periuk — banding cara lama (2 alat) vs Smart Cook. | **Sushi bake, satu periuk je.** | 37s |
+| 06 | `videos/06-lauk-beku.mp4` | Panaskan lauk beku tanpa air dan tanpa steam. | **Lauk beku? Tak perlu tambah air.** | 49s |
+| 07 | `videos/07-auto-off.mp4` | Fungsi Cooker vs dapur gas — suhu stabil, tak hangit, auto switch off. | **Terlupa tutup api?** | 49s |
+| 08 | `videos/08-event-besar.mp4` | Bukti sosial — 5,000 keropok lekor + 100 pizza dengan 3 unit. | **5,000 keropok lekor. Hanya 3 unit.** | 49s |
+| 09 | `videos/09-steam-ikut-suhu.mp4` | Fungsi steam dengan kawalan suhu (telur, kek, apam). | **Kek steam selalu crack?** | 50s |
+| 10 | `videos/10-slow-cook-sahur.mp4` | Slow cook semalaman — sesuai untuk sahur bulan puasa. | **Masak sambil tidur.** | 44s |
 
 ## 01. Apa Sebenarnya Cooven?
 
 - **Sudut:** Perkenalan produk — tepis salah faham (bukan oven/air fryer/multi cooker), kapasiti 8L.
 - **Hook (0:00–0:03, bold):** **Ini bukan oven. Bukan air fryer.**
 - **Tajuk (label atas, bold):** **Apa Sebenarnya Cooven?**
-- **CTA (3s terakhir):** Follow untuk tips seterusnya
-- **Durasi:** 33.7s
+- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
+- **Durasi:** 36.2s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -77,8 +77,8 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 - **Sudut:** Demo one pot pasta — makaroni mentah terus masak bersama kuah + sukatan air.
 - **Hook (0:00–0:03, bold):** **Pasta tak perlu rebus dulu.**
 - **Tajuk (label atas, bold):** **One Pot Pasta**
-- **CTA (3s terakhir):** Follow untuk tips seterusnya
-- **Durasi:** 55.2s
+- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
+- **Durasi:** 57.7s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -128,8 +128,8 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 - **Sudut:** Tips meal prep hujung minggu untuk ibu bekerja.
 - **Hook (0:00–0:03, bold):** **Sibuk bekerja? Buat ini hujung minggu.**
 - **Tajuk (label atas, bold):** **Tips Meal Prep**
-- **CTA (3s terakhir):** Follow untuk tips seterusnya
-- **Durasi:** 59.2s
+- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
+- **Durasi:** 51.5s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -140,8 +140,7 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 | 3 | 08:19.5 | 08:31.0 | Contoh, this week nak masak spaghetti bolognese, carbonara, buat dulu stok kuah siap-siap. |
 | 4 | 09:14.0 | 09:21.0 | Kalau rajin, at least seminggu atau dua minggu sekali, peruntukkan satu hari untuk buat prepping. |
 | 5 | 09:22.2 | 09:30.9 | Buatlah kuah bolognese extra, lepas tu frozen kan. Per portion pun boleh, ikut berapa banyak nak makan. |
-| 6 | 09:41.8 | 09:51.6 | Kuah carbonara ni bukan untuk pasta je. Boleh jadikan topping pizza, ataupun topping atas roti. |
-| 7 | 09:54.4 | 10:02.2 | Setiap benda yang kita buat, kena bijak atur strategi. Sebab kita busy, tak sempat nak masak setiap hari. |
+| 6 | 09:54.4 | 10:02.2 | Setiap benda yang kita buat, kena bijak atur strategi. Sebab kita busy, tak sempat nak masak setiap hari. |
 
 **Subtitle (masa OUTPUT):**
 
@@ -163,23 +162,19 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 | 00:31.7 | 00:33.6 | Buatlah kuah bolognese extra, |
 | 00:33.6 | 00:35.7 | lepas tu frozen kan. |
 | 00:35.7 | 00:38.8 | Per portion pun boleh, |
-| 00:38.8 | 00:40.7 | ikut berapa banyak nak makan. |
-| 00:40.7 | 00:42.7 | Kuah carbonara ni |
-| 00:42.7 | 00:45.6 | bukan untuk pasta je. |
-| 00:45.7 | 00:47.9 | Boleh jadikan topping pizza, |
-| 00:48.0 | 00:51.0 | ataupun topping atas roti. |
-| 00:51.0 | 00:52.8 | Setiap benda yang kita buat, |
-| 00:52.8 | 00:55.7 | kena bijak atur strategi. |
-| 00:55.7 | 00:56.9 | Sebab kita busy, |
-| 00:56.9 | 00:59.1 | tak sempat nak masak setiap hari. |
+| 00:38.8 | 00:40.9 | ikut berapa banyak nak makan. |
+| 00:40.9 | 00:42.6 | Setiap benda yang kita buat, |
+| 00:42.6 | 00:45.5 | kena bijak atur strategi. |
+| 00:45.6 | 00:46.7 | Sebab kita busy, |
+| 00:46.8 | 00:49.0 | tak sempat nak masak setiap hari. |
 
 ## 04. Smart Cook: Ayam Percik
 
 - **Sudut:** Smart Cook — ayam percik tanpa proses leceh (rebus + bakar dalam satu fungsi).
 - **Hook (0:00–0:03, bold):** **Ayam percik, tanpa leceh.**
 - **Tajuk (label atas, bold):** **Smart Cook: Ayam Percik**
-- **CTA (3s terakhir):** Follow untuk tips seterusnya
-- **Durasi:** 46.5s
+- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
+- **Durasi:** 49.0s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -223,8 +218,8 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 - **Sudut:** Sushi bake satu periuk — banding cara lama (2 alat) vs Smart Cook.
 - **Hook (0:00–0:03, bold):** **Sushi bake, satu periuk je.**
 - **Tajuk (label atas, bold):** **Sushi Bake One Pot**
-- **CTA (3s terakhir):** Follow untuk tips seterusnya
-- **Durasi:** 34.7s
+- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
+- **Durasi:** 37.2s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -265,8 +260,8 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 - **Sudut:** Panaskan lauk beku tanpa air dan tanpa steam.
 - **Hook (0:00–0:03, bold):** **Lauk beku? Tak perlu tambah air.**
 - **Tajuk (label atas, bold):** **Panaskan Lauk Beku**
-- **CTA (3s terakhir):** Follow untuk tips seterusnya
-- **Durasi:** 46.9s
+- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
+- **Durasi:** 49.4s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -312,8 +307,8 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 - **Sudut:** Fungsi Cooker vs dapur gas — suhu stabil, tak hangit, auto switch off.
 - **Hook (0:00–0:03, bold):** **Terlupa tutup api?**
 - **Tajuk (label atas, bold):** **Tak Hangit, Auto Off**
-- **CTA (3s terakhir):** Follow untuk tips seterusnya
-- **Durasi:** 46.7s
+- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
+- **Durasi:** 49.2s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -358,8 +353,8 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 - **Sudut:** Bukti sosial — 5,000 keropok lekor + 100 pizza dengan 3 unit.
 - **Hook (0:00–0:03, bold):** **5,000 keropok lekor. Hanya 3 unit.**
 - **Tajuk (label atas, bold):** **Diuji Untuk Event Besar**
-- **CTA (3s terakhir):** Follow untuk tips seterusnya
-- **Durasi:** 46.5s
+- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
+- **Durasi:** 49.0s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -402,8 +397,8 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 - **Sudut:** Fungsi steam dengan kawalan suhu (telur, kek, apam).
 - **Hook (0:00–0:03, bold):** **Kek steam selalu crack?**
 - **Tajuk (label atas, bold):** **Steam Ikut Suhu**
-- **CTA (3s terakhir):** Follow untuk tips seterusnya
-- **Durasi:** 47.3s
+- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
+- **Durasi:** 49.8s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -450,8 +445,8 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 - **Sudut:** Slow cook semalaman — sesuai untuk sahur bulan puasa.
 - **Hook (0:00–0:03, bold):** **Masak sambil tidur.**
 - **Tajuk (label atas, bold):** **Slow Cook Untuk Sahur**
-- **CTA (3s terakhir):** Follow untuk tips seterusnya
-- **Durasi:** 41.9s
+- **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
+- **Durasi:** 44.4s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -505,5 +500,5 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 
 - Subtitle disemak manual daripada transkripsi automatik (Whisper). Nama penuh jenama yang disebut dalam live ditulis sebagai **Cooven** (ejaan pada logo produk) — sila betulkan jika ejaan rasmi berbeza.
 - Satu frasa kurang jelas dalam audio ("kenduri … di Johor", video 08) ditulis tanpa perkataan yang tidak pasti.
-- Video 01 ~34s kerana segmen perkenalan memang pendek; boleh ditambah klip kapasiti 8L di atas jika mahu lebih panjang.
+- Video 03: klip "kuah carbonara jadi topping pizza" (09:41–09:52) dibuang supaya durasi kekal bawah 60s selepas tambah end card.
 - Skrip `scripts/` boleh dijalankan semula untuk render ulang selepas edit `specs/*.json`.

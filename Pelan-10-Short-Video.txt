@@ -1,14 +1,14 @@
 PELAN 10 SHORT VIDEO — LIVE COOVEN
 Format: 9:16, 1080x1920, 30–60 saat
 Hook & tajuk: bold, hitam putih sahaja
-CTA akhir: Follow untuk tips seterusnya
+End card wajib (2.5s): TIP DAPUR — Follow Kay sekarang untuk lebih banyak tips
 
 Timestamp KLIP = masa dalam rakaman LIVE asal
 Timestamp SUBTITLE = masa dalam video pendek
 
 ━━━━━━━━━━━━━━━━━━━━
 VIDEO 01 — APA SEBENARNYA COOVEN?
-Fail: 01-bukan-oven.mp4  |  Durasi: 34 saat
+Fail: 01-bukan-oven.mp4  |  Durasi: 36 saat
 
 HOOK (0–3s, bold):
 Ini bukan oven. Bukan air fryer.
@@ -50,7 +50,7 @@ Ini bukan oven. Bukan air fryer. Ramai ingat ini oven, air fryer atau multi cook
 
 ━━━━━━━━━━━━━━━━━━━━
 VIDEO 02 — ONE POT PASTA
-Fail: 02-one-pot-pasta.mp4  |  Durasi: 55 saat
+Fail: 02-one-pot-pasta.mp4  |  Durasi: 58 saat
 
 HOOK (0–3s, bold):
 Pasta tak perlu rebus dulu.
@@ -101,7 +101,7 @@ Pasta tak perlu rebus dulu. Makaroni mentah terus masuk bersama kuah. Tak perlu 
 
 ━━━━━━━━━━━━━━━━━━━━
 VIDEO 03 — TIPS MEAL PREP
-Fail: 03-meal-prep.mp4  |  Durasi: 59 saat
+Fail: 03-meal-prep.mp4  |  Durasi: 51 saat
 
 HOOK (0–3s, bold):
 Sibuk bekerja? Buat ini hujung minggu.
@@ -115,8 +115,7 @@ SUSUNAN KLIP:
 3. 08:19.5 – 08:31.6  Contoh, this week nak masak spaghetti bolognese, carbonara, buat dulu stok kuah siap-siap.
 4. 09:14.0 – 09:21.6  Kalau rajin, at least seminggu atau dua minggu sekali, peruntukkan satu hari untuk buat prepping.
 5. 09:22.2 – 09:31.5  Buatlah kuah bolognese extra, lepas tu frozen kan. Per portion pun boleh, ikut berapa banyak nak makan.
-6. 09:41.8 – 09:52.2  Kuah carbonara ni bukan untuk pasta je. Boleh jadikan topping pizza, ataupun topping atas roti.
-7. 09:54.4 – 10:02.8  Setiap benda yang kita buat, kena bijak atur strategi. Sebab kita busy, tak sempat nak masak setiap hari.
+6. 09:54.4 – 10:02.8  Setiap benda yang kita buat, kena bijak atur strategi. Sebab kita busy, tak sempat nak masak setiap hari.
 
 SUBTITLE:
 00:03  sibuk bekerja.
@@ -134,14 +133,10 @@ SUBTITLE:
 00:33  lepas tu frozen kan.
 00:35  Per portion pun boleh,
 00:38  ikut berapa banyak nak makan.
-00:40  Kuah carbonara ni
-00:42  bukan untuk pasta je.
-00:45  Boleh jadikan topping pizza,
-00:47  ataupun topping atas roti.
-00:51  Setiap benda yang kita buat,
-00:52  kena bijak atur strategi.
-00:55  Sebab kita busy,
-00:56  tak sempat nak masak setiap hari.
+00:40  Setiap benda yang kita buat,
+00:42  kena bijak atur strategi.
+00:45  Sebab kita busy,
+00:46  tak sempat nak masak setiap hari.
 
 CAPTION POSTING:
 Sibuk bekerja? Buat ini hujung minggu. Untuk yang sibuk bekerja: peruntukkan satu hari seminggu untuk prep kuah. Frozen ikut portion, hari biasa tinggal masak.
@@ -150,7 +145,7 @@ Sibuk bekerja? Buat ini hujung minggu. Untuk yang sibuk bekerja: peruntukkan sat
 
 ━━━━━━━━━━━━━━━━━━━━
 VIDEO 04 — SMART COOK: AYAM PERCIK
-Fail: 04-ayam-percik.mp4  |  Durasi: 46 saat
+Fail: 04-ayam-percik.mp4  |  Durasi: 49 saat
 
 HOOK (0–3s, bold):
 Ayam percik, tanpa leceh.
@@ -194,7 +189,7 @@ Ayam percik, tanpa leceh. Ayam + kuah percik mentah terus masuk, tekan Smart Coo
 
 ━━━━━━━━━━━━━━━━━━━━
 VIDEO 05 — SUSHI BAKE ONE POT
-Fail: 05-sushi-bake.mp4  |  Durasi: 35 saat
+Fail: 05-sushi-bake.mp4  |  Durasi: 37 saat
 
 HOOK (0–3s, bold):
 Sushi bake, satu periuk je.
@@ -235,7 +230,7 @@ Sushi bake, satu periuk je. Dulu sushi bake perlukan dua alat. Sekarang masak na
 
 ━━━━━━━━━━━━━━━━━━━━
 VIDEO 06 — PANASKAN LAUK BEKU
-Fail: 06-lauk-beku.mp4  |  Durasi: 47 saat
+Fail: 06-lauk-beku.mp4  |  Durasi: 49 saat
 
 HOOK (0–3s, bold):
 Lauk beku? Tak perlu tambah air.
@@ -281,7 +276,7 @@ Lauk beku? Tak perlu tambah air. Lauk beku terus masuk, tak perlu tambah air. Te
 
 ━━━━━━━━━━━━━━━━━━━━
 VIDEO 07 — TAK HANGIT, AUTO OFF
-Fail: 07-auto-off.mp4  |  Durasi: 47 saat
+Fail: 07-auto-off.mp4  |  Durasi: 49 saat
 
 HOOK (0–3s, bold):
 Terlupa tutup api?
@@ -326,7 +321,7 @@ Terlupa tutup api? Suhu kekal stabil, tumis tak hangit, dan bila habis timer dia
 
 ━━━━━━━━━━━━━━━━━━━━
 VIDEO 08 — DIUJI UNTUK EVENT BESAR
-Fail: 08-event-besar.mp4  |  Durasi: 46 saat
+Fail: 08-event-besar.mp4  |  Durasi: 49 saat
 
 HOOK (0–3s, bold):
 5,000 keropok lekor. Hanya 3 unit.
@@ -368,7 +363,7 @@ CAPTION POSTING:
 
 ━━━━━━━━━━━━━━━━━━━━
 VIDEO 09 — STEAM IKUT SUHU
-Fail: 09-steam-ikut-suhu.mp4  |  Durasi: 47 saat
+Fail: 09-steam-ikut-suhu.mp4  |  Durasi: 50 saat
 
 HOOK (0–3s, bold):
 Kek steam selalu crack?
@@ -414,7 +409,7 @@ Kek steam selalu crack? Kek steam crack, telur pecah? Puncanya suhu. Di sini bol
 
 ━━━━━━━━━━━━━━━━━━━━
 VIDEO 10 — SLOW COOK UNTUK SAHUR
-Fail: 10-slow-cook-sahur.mp4  |  Durasi: 42 saat
+Fail: 10-slow-cook-sahur.mp4  |  Durasi: 44 saat
 
 HOOK (0–3s, bold):
 Masak sambil tidur.
