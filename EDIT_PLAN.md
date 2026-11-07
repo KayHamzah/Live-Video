@@ -19,7 +19,7 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 |---|---|---|---|---|
 | 01 | `videos/01-bukan-oven.mp4` | Perkenalan produk — tepis salah faham (bukan oven/air fryer/multi cooker), kapasiti 8L. | **Ini bukan oven. Bukan air fryer.** | 36s |
 | 02 | `videos/02-one-pot-pasta.mp4` | Demo one pot pasta — makaroni mentah terus masak bersama kuah + sukatan air. | **Pasta tak perlu rebus dulu.** | 58s |
-| 03 | `videos/03-meal-prep.mp4` | Tips meal prep hujung minggu untuk ibu bekerja. | **Sibuk bekerja? Buat ini hujung minggu.** | 51s |
+| 03 | `videos/03-meal-prep.mp4` | Tips meal prep hujung minggu untuk ibu bekerja. | **Sibuk bekerja? Buat ini hujung minggu.** | 62s |
 | 04 | `videos/04-ayam-percik.mp4` | Smart Cook — ayam percik tanpa proses leceh (rebus + bakar dalam satu fungsi). | **Ayam percik, tanpa leceh.** | 49s |
 | 05 | `videos/05-sushi-bake.mp4` | Sushi bake satu periuk — banding cara lama (2 alat) vs Smart Cook. | **Sushi bake, satu periuk je.** | 37s |
 | 06 | `videos/06-lauk-beku.mp4` | Panaskan lauk beku tanpa air dan tanpa steam. | **Lauk beku? Tak perlu tambah air.** | 49s |
@@ -129,7 +129,7 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 - **Hook (0:00–0:03, bold):** **Sibuk bekerja? Buat ini hujung minggu.**
 - **Tajuk (label atas, bold):** **Tips Meal Prep**
 - **End card:** Follow Kay sekarang untuk lebih banyak tips (2.5s)
-- **Durasi:** 51.5s
+- **Durasi:** 61.7s
 
 **Susunan klip (potong dari rakaman asal):**
 
@@ -140,7 +140,8 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 | 3 | 08:19.5 | 08:31.0 | Contoh, this week nak masak spaghetti bolognese, carbonara, buat dulu stok kuah siap-siap. |
 | 4 | 09:14.0 | 09:21.0 | Kalau rajin, at least seminggu atau dua minggu sekali, peruntukkan satu hari untuk buat prepping. |
 | 5 | 09:22.2 | 09:30.9 | Buatlah kuah bolognese extra, lepas tu frozen kan. Per portion pun boleh, ikut berapa banyak nak makan. |
-| 6 | 09:54.4 | 10:02.2 | Setiap benda yang kita buat, kena bijak atur strategi. Sebab kita busy, tak sempat nak masak setiap hari. |
+| 6 | 09:41.8 | 09:51.6 | Kuah carbonara ni bukan untuk pasta je. Boleh jadikan topping pizza, ataupun topping atas roti. |
+| 7 | 09:54.4 | 10:02.2 | Setiap benda yang kita buat, kena bijak atur strategi. Sebab kita busy, tak sempat nak masak setiap hari. |
 
 **Subtitle (masa OUTPUT):**
 
@@ -162,11 +163,15 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 | 00:31.7 | 00:33.6 | Buatlah kuah bolognese extra, |
 | 00:33.6 | 00:35.7 | lepas tu frozen kan. |
 | 00:35.7 | 00:38.8 | Per portion pun boleh, |
-| 00:38.8 | 00:40.9 | ikut berapa banyak nak makan. |
-| 00:40.9 | 00:42.6 | Setiap benda yang kita buat, |
-| 00:42.6 | 00:45.5 | kena bijak atur strategi. |
-| 00:45.6 | 00:46.7 | Sebab kita busy, |
-| 00:46.8 | 00:49.0 | tak sempat nak masak setiap hari. |
+| 00:38.8 | 00:40.7 | ikut berapa banyak nak makan. |
+| 00:40.7 | 00:42.7 | Kuah carbonara ni |
+| 00:42.7 | 00:45.6 | bukan untuk pasta je. |
+| 00:45.7 | 00:47.9 | Boleh jadikan topping pizza, |
+| 00:48.0 | 00:51.0 | ataupun topping atas roti. |
+| 00:51.0 | 00:52.8 | Setiap benda yang kita buat, |
+| 00:52.8 | 00:55.7 | kena bijak atur strategi. |
+| 00:55.7 | 00:56.9 | Sebab kita busy, |
+| 00:56.9 | 00:59.1 | tak sempat nak masak setiap hari. |
 
 ## 04. Smart Cook: Ayam Percik
 
@@ -500,5 +505,5 @@ Sumber: rakaman LIVE 61:36 (720×1280, 60fps). Semua timestamp **SUMBER** meruju
 
 - Subtitle disemak manual daripada transkripsi automatik (Whisper). Nama penuh jenama yang disebut dalam live ditulis sebagai **Cooven** (ejaan pada logo produk) — sila betulkan jika ejaan rasmi berbeza.
 - Satu frasa kurang jelas dalam audio ("kenduri … di Johor", video 08) ditulis tanpa perkataan yang tidak pasti.
-- Video 03: klip "kuah carbonara jadi topping pizza" (09:41–09:52) dibuang supaya durasi kekal bawah 60s selepas tambah end card.
+- Video 03 ~62s termasuk end card (diluluskan Kay).
 - Skrip `scripts/` boleh dijalankan semula untuk render ulang selepas edit `specs/*.json`.

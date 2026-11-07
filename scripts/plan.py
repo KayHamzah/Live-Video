@@ -48,6 +48,6 @@ L+=["","## Idea tambahan (belum dibuat)","",
 "","## Nota","",
 "- Subtitle disemak manual daripada transkripsi automatik (Whisper). Nama penuh jenama yang disebut dalam live ditulis sebagai **Cooven** (ejaan pada logo produk) — sila betulkan jika ejaan rasmi berbeza.",
 "- Satu frasa kurang jelas dalam audio (\"kenduri … di Johor\", video 08) ditulis tanpa perkataan yang tidak pasti.",
-"- Video 03: klip \"kuah carbonara jadi topping pizza\" (09:41–09:52) dibuang supaya durasi kekal bawah 60s selepas tambah end card.",
+"- Video 03 ~62s termasuk end card (diluluskan Kay).",
 "- Skrip `scripts/` boleh dijalankan semula untuk render ulang selepas edit `specs/*.json`."]
 open(out,"w").write("\n".join(L)+"\n"); print("ok")

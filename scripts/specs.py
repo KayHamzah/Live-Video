@@ -29,6 +29,7 @@ dict(id="03-meal-prep",title="Tips Meal Prep",hook="Sibuk bekerja?\\NBuat ini hu
  [499.5,511.0,"Contoh, this week nak masak|spaghetti bolognese, carbonara,|buat dulu stok kuah siap-siap."],
  [554.0,561.0,"Kalau rajin, at least seminggu|atau dua minggu sekali,|peruntukkan satu hari|untuk buat prepping."],
  [562.2,570.9,"Buatlah kuah bolognese extra,|lepas tu frozen kan.|Per portion pun boleh,|ikut berapa banyak nak makan."],
+ [581.8,591.6,"Kuah carbonara ni|bukan untuk pasta je.|Boleh jadikan topping pizza,|ataupun topping atas roti."],
  [594.4,602.2,"Setiap benda yang kita buat,|kena bijak atur strategi.|Sebab kita busy,|tak sempat nak masak setiap hari."]]),
 dict(id="04-ayam-percik",title="Smart Cook: Ayam Percik",hook="Ayam percik,\\Ntanpa leceh.",segs=[
  [852.2,858.6,"Kalau dulu nak buat ayam percik,|rasa sangat-sangat susah,|sangat-sangat leceh.|Kena masak kuah percik dulu."],
